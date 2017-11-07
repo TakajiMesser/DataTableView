@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="250"
+    android:fromDegrees="0"
+    android:toDegrees="135"
+    android:interpolator="@android:anim/linear_interpolator" />

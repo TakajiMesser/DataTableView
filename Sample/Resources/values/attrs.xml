@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="DataTableView">
+    <attr name="lazyLoad" format="boolean"/>
+    <attr name="lazyLoadLimit" format="integer"/>
+    <attr name="android:choiceMode"/>
+    <attr name="headerTextSize" format="integer"/>
+    <attr name="headerTextColor" format="color"/>
+    <attr name="headerFontFamily" format="reference"/>
+    <attr name="headerBackground" format="reference|color"/>
+    <attr name="rowTextSize" format="integer"/>
+    <attr name="rowTextColor" format="color"/>
+    <attr name="rowFontFamily" format="reference"/>
+    <attr name="rowBackground" format="reference|color"/>
+    <attr name="horizontalRowDivider" format="reference"/>
+    <attr name="verticalRowDivider" format="reference"/>
+  </declare-styleable>
+  
+  <declare-styleable name="NumberPickerPreference">
+    <attr name="minValue" format="integer"/>
+    <attr name="maxValue" format="integer"/>
+  </declare-styleable>
+
+  <declare-styleable name="EditNumberPreference">
+    <attr name="minValue" format="integer"/>
+    <attr name="maxValue" format="integer"/>
+  </declare-styleable>
+  
+</resources>

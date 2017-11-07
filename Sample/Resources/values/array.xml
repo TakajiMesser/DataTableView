@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="DisplayTypes">
+    <item>Countdown</item>
+    <item>Speed Sign</item>
+    <item>Both</item>
+    <item>Dynamic</item>
+  </string-array>
+
+  <string-array name="DisplayTypeValues">
+    <item>countdown</item>
+    <item>speedsign</item>
+    <item>both</item>
+    <item>dynamic</item>
+  </string-array>
+
+  <string-array name="GLOSATypes">
+    <item>Miles Per Hour</item>
+    <item>Kilometers Per Hour</item>
+    <item>Meters Per Second</item>
+  </string-array>
+
+  <string-array name="GLOSATypeValues">
+    <item>mph</item>
+    <item>kph</item>
+    <item>mps</item>
+  </string-array>
+
+  <string-array name="MatchTypes">
+    <item>Normal</item>
+    <item>Always</item>
+    <item>Never</item>
+  </string-array>
+
+  <string-array name="MatchTypeValues">
+    <item>normal</item>
+    <item>always</item>
+    <item>never</item>
+  </string-array>
+</resources>

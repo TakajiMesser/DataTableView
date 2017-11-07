@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:keepScreenOn="true"
+    android:background="#FF000000">
+
+  <LinearLayout
+      android:orientation="vertical"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent">
+
+    <android.support.v7.widget.Toolbar
+      android:id="@+id/main_toolbar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:minHeight="?android:attr/actionBarSize"
+      android:background="@color/toolbarPrimary"
+      android:theme="@android:style/ThemeOverlay.Material.Dark.ActionBar" />
+
+    <LinearLayout
+          android:orientation="vertical"
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent">
+
+      <RelativeLayout
+          android:layout_width="fill_parent"
+          android:layout_height="0dip"
+          android:layout_weight="0.1" />
+
+      <RelativeLayout
+          android:layout_width="fill_parent"
+          android:layout_height="0dip"
+          android:layout_weight="0.9">
+
+        <LinearLayout
+          android:id="@+id/button_list"
+          android:orientation="vertical"
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent"
+          android:divider="@drawable/horizontal_divider"
+          android:showDividers="beginning|middle|end"
+          android:paddingLeft="35dp"
+          android:paddingRight="40dp">
+
+          <RelativeLayout
+            android:id="@+id/example_one"
+            android:background="@drawable/button_selector"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp">
+
+            <TextView
+              android:text="EXAMPLE 1"
+              android:textSize="28dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentLeft="true"
+              android:paddingLeft="16dp"
+              android:textColor="@color/white" />
+
+            <ImageView
+              android:src="@drawable/mode"
+              android:layout_alignParentRight="true"
+              android:paddingRight="12dp"
+              android:layout_width="40dp"
+              android:layout_height="40dp"/>
+
+          </RelativeLayout>
+
+          <!--<RelativeLayout
+            android:id="@+id/direct_region"
+            android:background="@drawable/button_selector"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp">
+
+            <TextView
+              android:text="REGIONS"
+              android:textSize="28dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentLeft="true"
+              android:paddingLeft="16dp"
+              android:textColor="@color/white" />
+
+            <ImageView
+              android:src="@drawable/dope_map"
+              android:layout_width="40dp"
+              android:layout_height="40dp"
+              android:paddingRight="12dp"
+              android:layout_alignParentRight="true"/>
+
+          </RelativeLayout>
+          
+          <RelativeLayout
+            android:id="@+id/view_servers"
+            android:background="@drawable/button_selector"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp">
+
+            <TextView
+              android:text="SERVERS"
+              android:textSize="28dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentLeft="true"
+              android:paddingLeft="16dp"
+              android:textColor="@color/white" />
+
+            <ImageView
+              android:src="@drawable/ic_devices_white_24dp"
+              android:layout_width="40dp"
+              android:layout_height="40dp"
+              android:paddingRight="12dp"
+              android:layout_alignParentRight="true"/>
+
+          </RelativeLayout>
+
+          <RelativeLayout
+            android:id="@+id/view_logs"
+            android:background="@drawable/button_selector"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp">
+
+            <TextView
+              android:text="LOGS"
+              android:textSize="28dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentLeft="true"
+              android:paddingLeft="16dp"
+              android:textColor="@color/white" />
+
+            <ImageView
+              android:src="@drawable/ic_sd_storage_white_24dp"
+              android:layout_width="40dp"
+              android:layout_height="40dp"
+              android:paddingRight="12dp"
+              android:layout_alignParentRight="true"/>
+
+          </RelativeLayout>
+
+          <RelativeLayout
+            android:id="@+id/view_database"
+            android:background="@drawable/button_selector"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp">
+
+            <TextView
+              android:text="DATABASE"
+              android:textSize="28dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentLeft="true"
+              android:paddingLeft="16dp"
+              android:textColor="@color/white" />
+
+            <ImageView
+              android:src="@drawable/ic_developer_mode_white_24dp"
+              android:layout_width="40dp"
+              android:layout_height="40dp"
+              android:paddingRight="12dp"
+              android:layout_alignParentRight="true"/>
+
+          </RelativeLayout>-->
+
+        </LinearLayout>
+
+      </RelativeLayout>
+
+    </LinearLayout>
+    
+  </LinearLayout>
+  
+</RelativeLayout>

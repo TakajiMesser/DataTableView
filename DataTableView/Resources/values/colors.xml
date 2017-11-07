@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="toolbarPrimary">#FF000000</color>
+  <color name="colorPrimary">#212121</color>
+  <color name="colorPrimaryDark">#263238</color>
+  <color name="colorPrimaryDarker">#000000</color>
+  <color name="navBackgroundChecked">#7FACC2</color>
+  <color name="navBackgroundUnchecked">#446372</color>
+  <color name="colorAccent">#C8E6C9</color>
+  <color name="buttonAccent">#607D8B</color>
+  <color name="black">#000000</color>
+  <color name="jet">#222222</color>
+  <color name="oil">#333333</color>
+  <color name="monsoon">#777777</color>
+  <color name="jumbo">#888888</color>
+  <color name="aluminum">#999999</color>
+  <color name="base">#AAAAAA</color>
+  <color name="iron">#E8F5E9</color>
+  <color name="white">#FFFFFFFF</color>
+  <color name="prefs_bg">#000000</color>
+  <color name="prefs_tc">#FFFFFF</color>
+
+  <color name="gray">#777777</color>
+
+  <color name="muggy">#263238</color>
+  
+  <color name="transparent">#00000000</color>
+  <color name="semi_transparent">#64777777</color>
+  <color name="light_blue">#647777FF</color>
+  <color name="bright_blue">#6477FFFF</color>
+  <color name="dark_blue">#A0324650</color>
+  <color name="dark_purple">#A0383149</color>
+  <color name="orange">#A0333333</color>
+  
+</resources>

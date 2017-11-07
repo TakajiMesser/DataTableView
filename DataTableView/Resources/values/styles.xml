@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">#212121</item>
+    <item name="colorPrimaryDark">#263238</item>
+    <item name="android:colorControlHighlight">#607D8B</item>
+    <item name="android:textColorHint">#E8F5E9</item>
+    <item name="colorAccent">#C8E6C9</item>
+    <item name="colorControlNormal">#E8F5E9</item>
+    <item name="colorControlActivated">#E8F5E9</item>
+    <item name="colorControlHighlight">#E8F5E9</item>
+    <item name="android:windowBackground">@null</item>
+    <item name="windowActionModeOverlay">true</item>
+  </style>
+
+  <style name="ProgressDialogTheme" parent="Theme.AppCompat.Dialog">
+    <item name="colorAccent">#FFFFFF</item>
+    <item name="android:textColorPrimary">#E8F5E9</item>
+    <item name="android:background">@drawable/rounded_border_dark</item>
+    <item name="android:textSize">16dp</item>
+  </style>
+
+  <style name="AlertsDialogTheme" parent="Theme.AppCompat.Dialog">
+    <item name="colorAccent">#FFFFFF</item>
+    <item name="android:textColorPrimary">#E8F5E9</item>
+    <item name="android:background">@drawable/rounded_border_dark</item>
+    <item name="android:textSize">18dp</item>
+  </style>
+
+  <style name="PrefsTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowBackground">@color/prefs_bg</item>
+    <item name="android:textColor">#FFFFFF</item>
+    <item name="android:textColorSecondary">#FEFF87</item>
+    <item name="android:editTextStyle">@style/editTextPrefs</item>
+    <item name="android:listViewStyle">@style/listViewPrefs</item>
+    <item name="android:dialogTheme">@style/dialogPrefs</item>
+    <item name="android:alertDialogTheme">@style/dialogPrefs</item>
+    <item name="android:windowActionBar">true</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+
+  <style name="dialogPrefs" parent="Theme.AppCompat.Dialog">
+    <item name="android:textColor">#FFFFFF</item>
+    <item name="android:textColorPrimary">#FFFFFF</item>
+    <item name="android:textColorSecondary">#FEFF87</item>
+    <item name="colorPrimary">#FEFF87</item>
+    <item name="colorPrimaryDark">#FFFFFF</item>
+    <item name="colorAccent">@color/colorAccent</item>
+    <item name="android:windowBackground">@color/prefs_bg</item>
+    <item name="android:cacheColorHint">@color/prefs_bg</item>
+  </style>
+
+  <style name="editTextPrefs" parent="android:Widget.EditText">
+    <item name="android:background">@color/prefs_bg</item>
+    <item name="android:textColor">#FFFFFF</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+
+  <style name="listViewPrefs" parent="@android:style/Widget.ListView">
+    <item name="android:background">@color/prefs_bg</item>
+    <item name="android:cacheColorHint">@color/prefs_bg</item>
+  </style>
+
+  <style name="BackupTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:colorPrimary">#5A8622</item>
+  </style>
+
+  <style name="AppTheme.Dark.Dialog" parent="Theme.AppCompat.Dialog">
+    <item name="colorAccent">#FFFFFF</item>
+    <item name="android:textColorPrimary">#E8F5E9</item>
+    <item name="android:background">#263238</item>
+  </style>
+</resources>
