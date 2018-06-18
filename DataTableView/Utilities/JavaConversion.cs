@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DataTableView.Utilities
+namespace Messert.Controls.Droid.Utilities
 {
     public static class JavaConversion
     {

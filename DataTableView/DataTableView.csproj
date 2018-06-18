@@ -9,8 +9,8 @@
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DataTableView</RootNamespace>
-    <AssemblyName>DataTableView</AssemblyName>
+    <RootNamespace>Messert.Controls.Droid</RootNamespace>
+    <AssemblyName>Messert.DataTable.Droid</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
@@ -113,6 +113,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataTableAdapter.cs" />
+    <Compile Include="IQueryPreparedListener.cs" />
+    <Compile Include="QueryEventArgs.cs" />
     <Compile Include="DataTableRow.cs" />
     <Compile Include="DataTableView.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
@@ -169,7 +171,9 @@
     <AndroidResource Include="Resources\anim\child_shrink.xml" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\values\styles.xml" />
+    <AndroidResource Include="Resources\values\styles.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\rounded_border_dark.xml" />

@@ -6,14 +6,14 @@ using Android.Support.V7.Widget;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
-using DataTableView.Utilities;
 using Java.Lang;
+using Messert.Controls.Droid.Utilities;
 using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DataTableView
+namespace Messert.Controls.Droid
 {
     public class DataTableAdapter : RecyclerView.Adapter, AbsListView.IMultiChoiceModeListener, IFilterable
     {
@@ -56,11 +56,13 @@ namespace DataTableView
             _filter = new DataTableFilter(this);
         }
 
-        public void SetTableMapping(TableMapping mapping)
+        public void SetColumnNames(IEnumerable<string> columnNames)
         {
-            foreach (var column in mapping.Columns)
+            _maxColumnLengths.Clear();
+
+            foreach (var column in columnNames)
             {
-                _maxColumnLengths.Add(column.Name.Length);
+                _maxColumnLengths.Add(column.Length);
             }
         }
 

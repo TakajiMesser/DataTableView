@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text;
 
-namespace DataTableView
+namespace Messert.Controls.Droid
 {
     public class DataTableRow
     {

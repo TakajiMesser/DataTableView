@@ -16,14 +16,15 @@
   <style name="ProgressDialogTheme" parent="Theme.AppCompat.Dialog">
     <item name="colorAccent">#FFFFFF</item>
     <item name="android:textColorPrimary">#E8F5E9</item>
-    <!--<item name="android:background">@drawable/rounded_border_dark</item>-->
+    <item name="android:background">@drawable/rounded_border_dark</item>
     <item name="android:textSize">16dp</item>
   </style>
 
   <style name="AlertsDialogTheme" parent="Theme.AppCompat.Dialog">
-    <item name="colorAccent">#FFFFFF</item>
+    <item name="colorAccent">#C8E6C9</item>
+    <item name="android:textColor">#FFFFFF</item>
     <item name="android:textColorPrimary">#E8F5E9</item>
-    <!--<item name="android:background">@drawable/rounded_border_dark</item>-->
+    <item name="android:textColorSecondary">#FEFF87</item>
     <item name="android:textSize">18dp</item>
   </style>
 

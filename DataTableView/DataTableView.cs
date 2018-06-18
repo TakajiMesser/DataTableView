@@ -13,19 +13,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataTableView
+namespace Messert.Controls.Droid
 {
-    [Register("com.DataTableView")]
+    [Register("com.messert.datatable.droid.DataTableView")]
     public class DataTableView : ViewGroup
     {
-        private LinearLayout _headers;
-        private RecyclerView _rows;
-        private DataTableAdapter _adapter;
-        private SQLiteConnection _connection;
-        private TableMapping _tableMapping;
-        private int _offset = 0;
-        private bool _gettingRows = false;
-
         public bool LazyLoad { get; private set; }
         public int LazyLoadLimit { get; private set; }
         public ChoiceMode ChoiceMode { get; private set; }
@@ -40,22 +32,75 @@ namespace DataTableView
         public Drawable HorizontalRowDivider { get; private set; }
         public Drawable VerticalRowDivider { get; private set; }
 
-        public SQLiteConnection Connection
-        {
-            get => _connection;
-            set => _connection = value;
-        }
+        public string TableName { get; set; }
+        public List<string> ColumnNames { get; private set; } = new List<string>();
 
         public IEnumerable<int> SelectedIDs => _adapter.SelectedIDs;
 
-        public EventHandler<DataTableAdapter.ItemClickEventArgs> ItemClick;
-        public EventHandler<DataTableAdapter.ItemLongClickEventArgs> ItemLongClick;
+        public event EventHandler<DataTableAdapter.ItemClickEventArgs> ItemClick;
+        public event EventHandler<DataTableAdapter.ItemLongClickEventArgs> ItemLongClick;
+
+        private LinearLayout _headers;
+        private RecyclerView _rows;
+        private DataTableAdapter _adapter;
+        private int _offset = 0;
+        private bool _gettingRows = false;
+
+        private IQueryPreparedListener _queryPreparedListener;
 
         public DataTableView(Context context) : base(context) { }
         public DataTableView(Context context, IAttributeSet attrs) : base(context, attrs) { InitializeFromAttributes(context, attrs); }
         public DataTableView(Context context, IAttributeSet attrs, int defStyle) : base(context, attrs, defStyle) { InitializeFromAttributes(context, attrs); }
 
         protected DataTableView(IntPtr javaReference, JniHandleOwnership transfer) : base(javaReference, transfer) { }
+
+        public void SetQueryPreparedListener(IQueryPreparedListener listener) => _queryPreparedListener = listener;
+
+        public void SetColumnNames(IEnumerable<string> columnNames)
+        {
+            ColumnNames.Clear();
+            ColumnNames.AddRange(columnNames);
+        }
+
+        public void LoadData()
+        {
+            if (string.IsNullOrEmpty(TableName)) throw new InvalidOperationException("TableName must be set");
+            if (ColumnNames.Count == 0) throw new InvalidOperationException("ColumnNames must be set");
+
+            _adapter.SetColumnNames(ColumnNames);
+
+            foreach (var row in GetNextRowSet())
+            {
+                _adapter.AddRow(row);
+            }
+
+            _rows.SetAdapter(_adapter);
+
+            for (var i = 0; i < ColumnNames.Count; i++)
+            {
+                var headerText = new TextView(Context)
+                {
+                    Text = ColumnNames[i],
+                    //Typeface = FontHelper.GetTypeface(Context, CustomFonts.RobotoCondensedRegular)
+                };
+                headerText.SetTextColor(HeaderTextColor);
+                headerText.SetPadding(20, 10, 10, 10);
+                headerText.SetTextSize(ComplexUnitType.Dip, HeaderTextSize);
+
+                var ems = _adapter.GetMaxCharacters(i);
+                headerText.SetMinEms(ems);
+
+                _headers.AddView(headerText);
+            }
+        }
+
+        public void SetMultiChoiceModeListener(AbsListView.IMultiChoiceModeListener listener) => _adapter.SetMultiChoiceModeListener(listener);
+
+        public void Filter(string text) => _adapter.Filter.InvokeFilter(text);
+
+        public void SelectAllItems() => _adapter.SetAllItemsChecked(true);
+
+        public void DeleteSelectedItems() => _adapter.DeleteSelectedItems();
 
         private void InitializeFromAttributes(Context context, IAttributeSet attrs)
         {
@@ -89,8 +134,23 @@ namespace DataTableView
             VerticalRowDivider = attr.GetDrawable(Resource.Styleable.DataTableView_verticalRowDivider)
                 ?? ResourcesCompat.GetDrawable(Resources, Resource.Drawable.vertical_divider, null);
 
+            CreateAdapter();
             CreateHeaderView();
             CreateRowView();
+        }
+
+        private void CreateAdapter()
+        {
+            _adapter = new DataTableAdapter(Context)
+            {
+                TextSize = RowTextSize,
+                TextColor = RowTextColor,
+                Typeface = RowTypeface,
+                RowBackground = RowBackground,
+                VerticalDivider = VerticalRowDivider
+            };
+            _adapter.ItemClick += Adapter_ItemClick;
+            _adapter.ItemLongClick += Adapter_ItemLongClick;
         }
 
         private void CreateHeaderView()
@@ -135,63 +195,36 @@ namespace DataTableView
                         dialog.SetCancelable(false);
                         dialog.Show();
 
+                        
+                        //var progressBar = new ProgressBar(Context, null, Android.Resource.Attribute.ProgressBarStyleLarge);
+
+                        /*var layout = FindViewById<RelativeLayout>(Context);
+                        RelativeLayout.LayoutParams layoutParams = new RelativeLayout.LayoutParams(100, 100);
+                        layoutParams.AddRule(LayoutRules.CenterInParent);
+                        layout.AddView(progressBar, layoutParams);*/
+
+                        //progressBar.Visibility = ViewStates.Visible;  //To show ProgressBar   
+                        //Window.SetFlags(WindowManagerFlags.NotTouchable, WindowManagerFlags.NotTouchable); // To disable the user interaction you just need to add the following code
+
                         _adapter.AddRows(GetNextRowSet());
 
-                        dialog.Dismiss();
+                        //progressBar.Visibility = ViewStates.Gone; // To Hide ProgressBar
+                        //Window.ClearFlags(WindowManagerFlags.NotTouchable); // To get user interaction back you just need to add the following code
+                        
+                        //dialog.Dismiss();
                         _gettingRows = false;
                     }
                 };
             }
         }
 
-        public void Adapter_ItemClick(object sender, DataTableAdapter.ItemClickEventArgs e) => ItemClick?.Invoke(sender, e);
+        private void Adapter_ItemClick(object sender, DataTableAdapter.ItemClickEventArgs e) => ItemClick?.Invoke(sender, e);
 
-        public void Adapter_ItemLongClick(object sender, DataTableAdapter.ItemLongClickEventArgs e) => ItemLongClick?.Invoke(sender, e);
+        private void Adapter_ItemLongClick(object sender, DataTableAdapter.ItemLongClickEventArgs e) => ItemLongClick?.Invoke(sender, e);
 
-        public void SetTableMapping(TableMapping mapping)
+        private IEnumerable<DataTableRow> GetNextRowSet()
         {
-            _tableMapping = mapping;
-
-            _adapter = new DataTableAdapter(Context)
-            {
-                TextSize = RowTextSize,
-                TextColor = RowTextColor,
-                Typeface = RowTypeface,
-                RowBackground = RowBackground,
-                VerticalDivider = VerticalRowDivider
-            };
-            _adapter.ItemClick += Adapter_ItemClick;
-            _adapter.ItemLongClick += Adapter_ItemLongClick;
-            _adapter.SetTableMapping(mapping);
-
-            foreach (var row in GetNextRowSet())
-            {
-                _adapter.AddRow(row);
-            }
-
-            _rows.SetAdapter(_adapter);
-
-            for (var i = 0; i < _tableMapping.Columns.Length; i++)
-            {
-                var headerText = new TextView(Context)
-                {
-                    Text = _tableMapping.Columns[i].Name,
-                    //Typeface = FontHelper.GetTypeface(Context, CustomFonts.RobotoCondensedRegular)
-                };
-                headerText.SetTextColor(HeaderTextColor);
-                headerText.SetPadding(20, 10, 10, 10);
-                headerText.SetTextSize(ComplexUnitType.Dip, HeaderTextSize);
-
-                var ems = _adapter.GetMaxCharacters(i);
-                headerText.SetMinEms(ems);
-
-                _headers.AddView(headerText);
-            }
-        }
-
-        public IEnumerable<DataTableRow> GetNextRowSet()
-        {
-            var queryBuilder = new StringBuilder("SELECT * FROM " + _tableMapping.TableName);
+            var queryBuilder = new StringBuilder("SELECT * FROM " + TableName);
 
             if (LazyLoad)
             {
@@ -199,33 +232,11 @@ namespace DataTableView
             }
             _offset += LazyLoadLimit;
 
-            foreach (var entity in Connection.Query(_tableMapping, queryBuilder.ToString()))
+            foreach (var row in _queryPreparedListener?.OnExecute(queryBuilder.ToString()))
             {
-                var row = new DataTableRow();
-
-                foreach (var column in _tableMapping.Columns)
-                {
-                    var value = column.GetValue(entity);
-
-                    if (column.IsPK)
-                    {
-                        row.ID = (int)value;
-                    }
-
-                    row.Cells.Add(value == null ? "NULL" : value.ToString());
-                }
-
                 yield return row;
             }
         }
-
-        public void Filter(string text) => _adapter.Filter.InvokeFilter(text);
-
-        public void SelectAllItems() => _adapter.SetAllItemsChecked(true);
-
-        public void DeleteSelectedItems() => _adapter.DeleteSelectedItems();
-
-        public void SetMultiChoiceModeListener(AbsListView.IMultiChoiceModeListener listener) => _adapter.SetMultiChoiceModeListener(listener);
 
         protected override void OnFinishInflate()
         {

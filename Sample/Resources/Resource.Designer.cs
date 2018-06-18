@@ -26,2046 +26,2035 @@ namespace Sample
 		
 		public static void UpdateIdValues()
 		{
-			global::DataTableView.Resource.Animation.abc_fade_in = global::Sample.Resource.Animation.abc_fade_in;
-			global::DataTableView.Resource.Animation.abc_fade_out = global::Sample.Resource.Animation.abc_fade_out;
-			global::DataTableView.Resource.Animation.abc_grow_fade_in_from_bottom = global::Sample.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::DataTableView.Resource.Animation.abc_popup_enter = global::Sample.Resource.Animation.abc_popup_enter;
-			global::DataTableView.Resource.Animation.abc_popup_exit = global::Sample.Resource.Animation.abc_popup_exit;
-			global::DataTableView.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Sample.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::DataTableView.Resource.Animation.abc_slide_in_bottom = global::Sample.Resource.Animation.abc_slide_in_bottom;
-			global::DataTableView.Resource.Animation.abc_slide_in_top = global::Sample.Resource.Animation.abc_slide_in_top;
-			global::DataTableView.Resource.Animation.abc_slide_out_bottom = global::Sample.Resource.Animation.abc_slide_out_bottom;
-			global::DataTableView.Resource.Animation.abc_slide_out_top = global::Sample.Resource.Animation.abc_slide_out_top;
-			global::DataTableView.Resource.Animation.child_grow = global::Sample.Resource.Animation.child_grow;
-			global::DataTableView.Resource.Animation.child_shrink = global::Sample.Resource.Animation.child_shrink;
-			global::DataTableView.Resource.Animation.design_bottom_sheet_slide_in = global::Sample.Resource.Animation.design_bottom_sheet_slide_in;
-			global::DataTableView.Resource.Animation.design_bottom_sheet_slide_out = global::Sample.Resource.Animation.design_bottom_sheet_slide_out;
-			global::DataTableView.Resource.Animation.design_snackbar_in = global::Sample.Resource.Animation.design_snackbar_in;
-			global::DataTableView.Resource.Animation.design_snackbar_out = global::Sample.Resource.Animation.design_snackbar_out;
-			global::DataTableView.Resource.Animation.fab_close = global::Sample.Resource.Animation.fab_close;
-			global::DataTableView.Resource.Animation.fab_open = global::Sample.Resource.Animation.fab_open;
-			global::DataTableView.Resource.Animation.label_slide_in_left = global::Sample.Resource.Animation.label_slide_in_left;
-			global::DataTableView.Resource.Animation.label_slide_in_right = global::Sample.Resource.Animation.label_slide_in_right;
-			global::DataTableView.Resource.Animation.label_slide_out_left = global::Sample.Resource.Animation.label_slide_out_left;
-			global::DataTableView.Resource.Animation.label_slide_out_right = global::Sample.Resource.Animation.label_slide_out_right;
-			global::DataTableView.Resource.Animation.tooltip_enter = global::Sample.Resource.Animation.tooltip_enter;
-			global::DataTableView.Resource.Animation.tooltip_exit = global::Sample.Resource.Animation.tooltip_exit;
-			global::DataTableView.Resource.Animator.design_appbar_state_list_animator = global::Sample.Resource.Animator.design_appbar_state_list_animator;
-			global::DataTableView.Resource.Attribute.actionBarDivider = global::Sample.Resource.Attribute.actionBarDivider;
-			global::DataTableView.Resource.Attribute.actionBarItemBackground = global::Sample.Resource.Attribute.actionBarItemBackground;
-			global::DataTableView.Resource.Attribute.actionBarPopupTheme = global::Sample.Resource.Attribute.actionBarPopupTheme;
-			global::DataTableView.Resource.Attribute.actionBarSize = global::Sample.Resource.Attribute.actionBarSize;
-			global::DataTableView.Resource.Attribute.actionBarSplitStyle = global::Sample.Resource.Attribute.actionBarSplitStyle;
-			global::DataTableView.Resource.Attribute.actionBarStyle = global::Sample.Resource.Attribute.actionBarStyle;
-			global::DataTableView.Resource.Attribute.actionBarTabBarStyle = global::Sample.Resource.Attribute.actionBarTabBarStyle;
-			global::DataTableView.Resource.Attribute.actionBarTabStyle = global::Sample.Resource.Attribute.actionBarTabStyle;
-			global::DataTableView.Resource.Attribute.actionBarTabTextStyle = global::Sample.Resource.Attribute.actionBarTabTextStyle;
-			global::DataTableView.Resource.Attribute.actionBarTheme = global::Sample.Resource.Attribute.actionBarTheme;
-			global::DataTableView.Resource.Attribute.actionBarWidgetTheme = global::Sample.Resource.Attribute.actionBarWidgetTheme;
-			global::DataTableView.Resource.Attribute.actionButtonStyle = global::Sample.Resource.Attribute.actionButtonStyle;
-			global::DataTableView.Resource.Attribute.actionDropDownStyle = global::Sample.Resource.Attribute.actionDropDownStyle;
-			global::DataTableView.Resource.Attribute.actionLayout = global::Sample.Resource.Attribute.actionLayout;
-			global::DataTableView.Resource.Attribute.actionMenuTextAppearance = global::Sample.Resource.Attribute.actionMenuTextAppearance;
-			global::DataTableView.Resource.Attribute.actionMenuTextColor = global::Sample.Resource.Attribute.actionMenuTextColor;
-			global::DataTableView.Resource.Attribute.actionModeBackground = global::Sample.Resource.Attribute.actionModeBackground;
-			global::DataTableView.Resource.Attribute.actionModeCloseButtonStyle = global::Sample.Resource.Attribute.actionModeCloseButtonStyle;
-			global::DataTableView.Resource.Attribute.actionModeCloseDrawable = global::Sample.Resource.Attribute.actionModeCloseDrawable;
-			global::DataTableView.Resource.Attribute.actionModeCopyDrawable = global::Sample.Resource.Attribute.actionModeCopyDrawable;
-			global::DataTableView.Resource.Attribute.actionModeCutDrawable = global::Sample.Resource.Attribute.actionModeCutDrawable;
-			global::DataTableView.Resource.Attribute.actionModeFindDrawable = global::Sample.Resource.Attribute.actionModeFindDrawable;
-			global::DataTableView.Resource.Attribute.actionModePasteDrawable = global::Sample.Resource.Attribute.actionModePasteDrawable;
-			global::DataTableView.Resource.Attribute.actionModePopupWindowStyle = global::Sample.Resource.Attribute.actionModePopupWindowStyle;
-			global::DataTableView.Resource.Attribute.actionModeSelectAllDrawable = global::Sample.Resource.Attribute.actionModeSelectAllDrawable;
-			global::DataTableView.Resource.Attribute.actionModeShareDrawable = global::Sample.Resource.Attribute.actionModeShareDrawable;
-			global::DataTableView.Resource.Attribute.actionModeSplitBackground = global::Sample.Resource.Attribute.actionModeSplitBackground;
-			global::DataTableView.Resource.Attribute.actionModeStyle = global::Sample.Resource.Attribute.actionModeStyle;
-			global::DataTableView.Resource.Attribute.actionModeWebSearchDrawable = global::Sample.Resource.Attribute.actionModeWebSearchDrawable;
-			global::DataTableView.Resource.Attribute.actionOverflowButtonStyle = global::Sample.Resource.Attribute.actionOverflowButtonStyle;
-			global::DataTableView.Resource.Attribute.actionOverflowMenuStyle = global::Sample.Resource.Attribute.actionOverflowMenuStyle;
-			global::DataTableView.Resource.Attribute.actionProviderClass = global::Sample.Resource.Attribute.actionProviderClass;
-			global::DataTableView.Resource.Attribute.actionViewClass = global::Sample.Resource.Attribute.actionViewClass;
-			global::DataTableView.Resource.Attribute.activityChooserViewStyle = global::Sample.Resource.Attribute.activityChooserViewStyle;
-			global::DataTableView.Resource.Attribute.alertDialogButtonGroupStyle = global::Sample.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::DataTableView.Resource.Attribute.alertDialogCenterButtons = global::Sample.Resource.Attribute.alertDialogCenterButtons;
-			global::DataTableView.Resource.Attribute.alertDialogStyle = global::Sample.Resource.Attribute.alertDialogStyle;
-			global::DataTableView.Resource.Attribute.alertDialogTheme = global::Sample.Resource.Attribute.alertDialogTheme;
-			global::DataTableView.Resource.Attribute.allowStacking = global::Sample.Resource.Attribute.allowStacking;
-			global::DataTableView.Resource.Attribute.alpha = global::Sample.Resource.Attribute.alpha;
-			global::DataTableView.Resource.Attribute.alphabeticModifiers = global::Sample.Resource.Attribute.alphabeticModifiers;
-			global::DataTableView.Resource.Attribute.arrowHeadLength = global::Sample.Resource.Attribute.arrowHeadLength;
-			global::DataTableView.Resource.Attribute.arrowShaftLength = global::Sample.Resource.Attribute.arrowShaftLength;
-			global::DataTableView.Resource.Attribute.autoCompleteTextViewStyle = global::Sample.Resource.Attribute.autoCompleteTextViewStyle;
-			global::DataTableView.Resource.Attribute.autoSizeMaxTextSize = global::Sample.Resource.Attribute.autoSizeMaxTextSize;
-			global::DataTableView.Resource.Attribute.autoSizeMinTextSize = global::Sample.Resource.Attribute.autoSizeMinTextSize;
-			global::DataTableView.Resource.Attribute.autoSizePresetSizes = global::Sample.Resource.Attribute.autoSizePresetSizes;
-			global::DataTableView.Resource.Attribute.autoSizeStepGranularity = global::Sample.Resource.Attribute.autoSizeStepGranularity;
-			global::DataTableView.Resource.Attribute.autoSizeTextType = global::Sample.Resource.Attribute.autoSizeTextType;
-			global::DataTableView.Resource.Attribute.background = global::Sample.Resource.Attribute.background;
-			global::DataTableView.Resource.Attribute.backgroundSplit = global::Sample.Resource.Attribute.backgroundSplit;
-			global::DataTableView.Resource.Attribute.backgroundStacked = global::Sample.Resource.Attribute.backgroundStacked;
-			global::DataTableView.Resource.Attribute.backgroundTint = global::Sample.Resource.Attribute.backgroundTint;
-			global::DataTableView.Resource.Attribute.backgroundTintMode = global::Sample.Resource.Attribute.backgroundTintMode;
-			global::DataTableView.Resource.Attribute.barLength = global::Sample.Resource.Attribute.barLength;
-			global::DataTableView.Resource.Attribute.behavior_autoHide = global::Sample.Resource.Attribute.behavior_autoHide;
-			global::DataTableView.Resource.Attribute.behavior_hideable = global::Sample.Resource.Attribute.behavior_hideable;
-			global::DataTableView.Resource.Attribute.behavior_overlapTop = global::Sample.Resource.Attribute.behavior_overlapTop;
-			global::DataTableView.Resource.Attribute.behavior_peekHeight = global::Sample.Resource.Attribute.behavior_peekHeight;
-			global::DataTableView.Resource.Attribute.behavior_skipCollapsed = global::Sample.Resource.Attribute.behavior_skipCollapsed;
-			global::DataTableView.Resource.Attribute.borderWidth = global::Sample.Resource.Attribute.borderWidth;
-			global::DataTableView.Resource.Attribute.borderlessButtonStyle = global::Sample.Resource.Attribute.borderlessButtonStyle;
-			global::DataTableView.Resource.Attribute.bottomSheetDialogTheme = global::Sample.Resource.Attribute.bottomSheetDialogTheme;
-			global::DataTableView.Resource.Attribute.bottomSheetStyle = global::Sample.Resource.Attribute.bottomSheetStyle;
-			global::DataTableView.Resource.Attribute.buttonBarButtonStyle = global::Sample.Resource.Attribute.buttonBarButtonStyle;
-			global::DataTableView.Resource.Attribute.buttonBarNegativeButtonStyle = global::Sample.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::DataTableView.Resource.Attribute.buttonBarNeutralButtonStyle = global::Sample.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::DataTableView.Resource.Attribute.buttonBarPositiveButtonStyle = global::Sample.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::DataTableView.Resource.Attribute.buttonBarStyle = global::Sample.Resource.Attribute.buttonBarStyle;
-			global::DataTableView.Resource.Attribute.buttonGravity = global::Sample.Resource.Attribute.buttonGravity;
-			global::DataTableView.Resource.Attribute.buttonPanelSideLayout = global::Sample.Resource.Attribute.buttonPanelSideLayout;
-			global::DataTableView.Resource.Attribute.buttonStyle = global::Sample.Resource.Attribute.buttonStyle;
-			global::DataTableView.Resource.Attribute.buttonStyleSmall = global::Sample.Resource.Attribute.buttonStyleSmall;
-			global::DataTableView.Resource.Attribute.buttonTint = global::Sample.Resource.Attribute.buttonTint;
-			global::DataTableView.Resource.Attribute.buttonTintMode = global::Sample.Resource.Attribute.buttonTintMode;
-			global::DataTableView.Resource.Attribute.checkboxStyle = global::Sample.Resource.Attribute.checkboxStyle;
-			global::DataTableView.Resource.Attribute.checkedTextViewStyle = global::Sample.Resource.Attribute.checkedTextViewStyle;
-			global::DataTableView.Resource.Attribute.closeIcon = global::Sample.Resource.Attribute.closeIcon;
-			global::DataTableView.Resource.Attribute.closeItemLayout = global::Sample.Resource.Attribute.closeItemLayout;
-			global::DataTableView.Resource.Attribute.collapseContentDescription = global::Sample.Resource.Attribute.collapseContentDescription;
-			global::DataTableView.Resource.Attribute.collapseIcon = global::Sample.Resource.Attribute.collapseIcon;
-			global::DataTableView.Resource.Attribute.collapsedTitleGravity = global::Sample.Resource.Attribute.collapsedTitleGravity;
-			global::DataTableView.Resource.Attribute.collapsedTitleTextAppearance = global::Sample.Resource.Attribute.collapsedTitleTextAppearance;
-			global::DataTableView.Resource.Attribute.color = global::Sample.Resource.Attribute.color;
-			global::DataTableView.Resource.Attribute.colorAccent = global::Sample.Resource.Attribute.colorAccent;
-			global::DataTableView.Resource.Attribute.colorBackgroundFloating = global::Sample.Resource.Attribute.colorBackgroundFloating;
-			global::DataTableView.Resource.Attribute.colorButtonNormal = global::Sample.Resource.Attribute.colorButtonNormal;
-			global::DataTableView.Resource.Attribute.colorControlActivated = global::Sample.Resource.Attribute.colorControlActivated;
-			global::DataTableView.Resource.Attribute.colorControlHighlight = global::Sample.Resource.Attribute.colorControlHighlight;
-			global::DataTableView.Resource.Attribute.colorControlNormal = global::Sample.Resource.Attribute.colorControlNormal;
-			global::DataTableView.Resource.Attribute.colorError = global::Sample.Resource.Attribute.colorError;
-			global::DataTableView.Resource.Attribute.colorPrimary = global::Sample.Resource.Attribute.colorPrimary;
-			global::DataTableView.Resource.Attribute.colorPrimaryDark = global::Sample.Resource.Attribute.colorPrimaryDark;
-			global::DataTableView.Resource.Attribute.colorSwitchThumbNormal = global::Sample.Resource.Attribute.colorSwitchThumbNormal;
-			global::DataTableView.Resource.Attribute.commitIcon = global::Sample.Resource.Attribute.commitIcon;
-			global::DataTableView.Resource.Attribute.contentDescription = global::Sample.Resource.Attribute.contentDescription;
-			global::DataTableView.Resource.Attribute.contentInsetEnd = global::Sample.Resource.Attribute.contentInsetEnd;
-			global::DataTableView.Resource.Attribute.contentInsetEndWithActions = global::Sample.Resource.Attribute.contentInsetEndWithActions;
-			global::DataTableView.Resource.Attribute.contentInsetLeft = global::Sample.Resource.Attribute.contentInsetLeft;
-			global::DataTableView.Resource.Attribute.contentInsetRight = global::Sample.Resource.Attribute.contentInsetRight;
-			global::DataTableView.Resource.Attribute.contentInsetStart = global::Sample.Resource.Attribute.contentInsetStart;
-			global::DataTableView.Resource.Attribute.contentInsetStartWithNavigation = global::Sample.Resource.Attribute.contentInsetStartWithNavigation;
-			global::DataTableView.Resource.Attribute.contentScrim = global::Sample.Resource.Attribute.contentScrim;
-			global::DataTableView.Resource.Attribute.controlBackground = global::Sample.Resource.Attribute.controlBackground;
-			global::DataTableView.Resource.Attribute.counterEnabled = global::Sample.Resource.Attribute.counterEnabled;
-			global::DataTableView.Resource.Attribute.counterMaxLength = global::Sample.Resource.Attribute.counterMaxLength;
-			global::DataTableView.Resource.Attribute.counterOverflowTextAppearance = global::Sample.Resource.Attribute.counterOverflowTextAppearance;
-			global::DataTableView.Resource.Attribute.counterTextAppearance = global::Sample.Resource.Attribute.counterTextAppearance;
-			global::DataTableView.Resource.Attribute.customNavigationLayout = global::Sample.Resource.Attribute.customNavigationLayout;
-			global::DataTableView.Resource.Attribute.defaultQueryHint = global::Sample.Resource.Attribute.defaultQueryHint;
-			global::DataTableView.Resource.Attribute.dialogPreferredPadding = global::Sample.Resource.Attribute.dialogPreferredPadding;
-			global::DataTableView.Resource.Attribute.dialogTheme = global::Sample.Resource.Attribute.dialogTheme;
-			global::DataTableView.Resource.Attribute.displayOptions = global::Sample.Resource.Attribute.displayOptions;
-			global::DataTableView.Resource.Attribute.divider = global::Sample.Resource.Attribute.divider;
-			global::DataTableView.Resource.Attribute.dividerHorizontal = global::Sample.Resource.Attribute.dividerHorizontal;
-			global::DataTableView.Resource.Attribute.dividerPadding = global::Sample.Resource.Attribute.dividerPadding;
-			global::DataTableView.Resource.Attribute.dividerVertical = global::Sample.Resource.Attribute.dividerVertical;
-			global::DataTableView.Resource.Attribute.drawableSize = global::Sample.Resource.Attribute.drawableSize;
-			global::DataTableView.Resource.Attribute.drawerArrowStyle = global::Sample.Resource.Attribute.drawerArrowStyle;
-			global::DataTableView.Resource.Attribute.dropDownListViewStyle = global::Sample.Resource.Attribute.dropDownListViewStyle;
-			global::DataTableView.Resource.Attribute.dropdownListPreferredItemHeight = global::Sample.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::DataTableView.Resource.Attribute.editTextBackground = global::Sample.Resource.Attribute.editTextBackground;
-			global::DataTableView.Resource.Attribute.editTextColor = global::Sample.Resource.Attribute.editTextColor;
-			global::DataTableView.Resource.Attribute.editTextStyle = global::Sample.Resource.Attribute.editTextStyle;
-			global::DataTableView.Resource.Attribute.elevation = global::Sample.Resource.Attribute.elevation;
-			global::DataTableView.Resource.Attribute.errorEnabled = global::Sample.Resource.Attribute.errorEnabled;
-			global::DataTableView.Resource.Attribute.errorTextAppearance = global::Sample.Resource.Attribute.errorTextAppearance;
-			global::DataTableView.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Sample.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::DataTableView.Resource.Attribute.expanded = global::Sample.Resource.Attribute.expanded;
-			global::DataTableView.Resource.Attribute.expandedTitleGravity = global::Sample.Resource.Attribute.expandedTitleGravity;
-			global::DataTableView.Resource.Attribute.expandedTitleMargin = global::Sample.Resource.Attribute.expandedTitleMargin;
-			global::DataTableView.Resource.Attribute.expandedTitleMarginBottom = global::Sample.Resource.Attribute.expandedTitleMarginBottom;
-			global::DataTableView.Resource.Attribute.expandedTitleMarginEnd = global::Sample.Resource.Attribute.expandedTitleMarginEnd;
-			global::DataTableView.Resource.Attribute.expandedTitleMarginStart = global::Sample.Resource.Attribute.expandedTitleMarginStart;
-			global::DataTableView.Resource.Attribute.expandedTitleMarginTop = global::Sample.Resource.Attribute.expandedTitleMarginTop;
-			global::DataTableView.Resource.Attribute.expandedTitleTextAppearance = global::Sample.Resource.Attribute.expandedTitleTextAppearance;
-			global::DataTableView.Resource.Attribute.fabSize = global::Sample.Resource.Attribute.fabSize;
-			global::DataTableView.Resource.Attribute.fastScrollEnabled = global::Sample.Resource.Attribute.fastScrollEnabled;
-			global::DataTableView.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Sample.Resource.Attribute.fastScrollHorizontalThumbDrawable;
-			global::DataTableView.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Sample.Resource.Attribute.fastScrollHorizontalTrackDrawable;
-			global::DataTableView.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Sample.Resource.Attribute.fastScrollVerticalThumbDrawable;
-			global::DataTableView.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Sample.Resource.Attribute.fastScrollVerticalTrackDrawable;
-			global::DataTableView.Resource.Attribute.font = global::Sample.Resource.Attribute.font;
-			global::DataTableView.Resource.Attribute.fontFamily = global::Sample.Resource.Attribute.fontFamily;
-			global::DataTableView.Resource.Attribute.fontProviderAuthority = global::Sample.Resource.Attribute.fontProviderAuthority;
-			global::DataTableView.Resource.Attribute.fontProviderCerts = global::Sample.Resource.Attribute.fontProviderCerts;
-			global::DataTableView.Resource.Attribute.fontProviderFetchStrategy = global::Sample.Resource.Attribute.fontProviderFetchStrategy;
-			global::DataTableView.Resource.Attribute.fontProviderFetchTimeout = global::Sample.Resource.Attribute.fontProviderFetchTimeout;
-			global::DataTableView.Resource.Attribute.fontProviderPackage = global::Sample.Resource.Attribute.fontProviderPackage;
-			global::DataTableView.Resource.Attribute.fontProviderQuery = global::Sample.Resource.Attribute.fontProviderQuery;
-			global::DataTableView.Resource.Attribute.fontStyle = global::Sample.Resource.Attribute.fontStyle;
-			global::DataTableView.Resource.Attribute.fontWeight = global::Sample.Resource.Attribute.fontWeight;
-			global::DataTableView.Resource.Attribute.foregroundInsidePadding = global::Sample.Resource.Attribute.foregroundInsidePadding;
-			global::DataTableView.Resource.Attribute.gapBetweenBars = global::Sample.Resource.Attribute.gapBetweenBars;
-			global::DataTableView.Resource.Attribute.goIcon = global::Sample.Resource.Attribute.goIcon;
-			global::DataTableView.Resource.Attribute.headerBackground = global::Sample.Resource.Attribute.headerBackground;
-			global::DataTableView.Resource.Attribute.headerFontFamily = global::Sample.Resource.Attribute.headerFontFamily;
-			global::DataTableView.Resource.Attribute.headerLayout = global::Sample.Resource.Attribute.headerLayout;
-			global::DataTableView.Resource.Attribute.headerTextColor = global::Sample.Resource.Attribute.headerTextColor;
-			global::DataTableView.Resource.Attribute.headerTextSize = global::Sample.Resource.Attribute.headerTextSize;
-			global::DataTableView.Resource.Attribute.height = global::Sample.Resource.Attribute.height;
-			global::DataTableView.Resource.Attribute.hideOnContentScroll = global::Sample.Resource.Attribute.hideOnContentScroll;
-			global::DataTableView.Resource.Attribute.hintAnimationEnabled = global::Sample.Resource.Attribute.hintAnimationEnabled;
-			global::DataTableView.Resource.Attribute.hintEnabled = global::Sample.Resource.Attribute.hintEnabled;
-			global::DataTableView.Resource.Attribute.hintTextAppearance = global::Sample.Resource.Attribute.hintTextAppearance;
-			global::DataTableView.Resource.Attribute.homeAsUpIndicator = global::Sample.Resource.Attribute.homeAsUpIndicator;
-			global::DataTableView.Resource.Attribute.homeLayout = global::Sample.Resource.Attribute.homeLayout;
-			global::DataTableView.Resource.Attribute.horizontalRowDivider = global::Sample.Resource.Attribute.horizontalRowDivider;
-			global::DataTableView.Resource.Attribute.icon = global::Sample.Resource.Attribute.icon;
-			global::DataTableView.Resource.Attribute.iconTint = global::Sample.Resource.Attribute.iconTint;
-			global::DataTableView.Resource.Attribute.iconTintMode = global::Sample.Resource.Attribute.iconTintMode;
-			global::DataTableView.Resource.Attribute.iconifiedByDefault = global::Sample.Resource.Attribute.iconifiedByDefault;
-			global::DataTableView.Resource.Attribute.imageButtonStyle = global::Sample.Resource.Attribute.imageButtonStyle;
-			global::DataTableView.Resource.Attribute.indeterminateProgressStyle = global::Sample.Resource.Attribute.indeterminateProgressStyle;
-			global::DataTableView.Resource.Attribute.initialActivityCount = global::Sample.Resource.Attribute.initialActivityCount;
-			global::DataTableView.Resource.Attribute.insetForeground = global::Sample.Resource.Attribute.insetForeground;
-			global::DataTableView.Resource.Attribute.isLightTheme = global::Sample.Resource.Attribute.isLightTheme;
-			global::DataTableView.Resource.Attribute.itemBackground = global::Sample.Resource.Attribute.itemBackground;
-			global::DataTableView.Resource.Attribute.itemIconTint = global::Sample.Resource.Attribute.itemIconTint;
-			global::DataTableView.Resource.Attribute.itemPadding = global::Sample.Resource.Attribute.itemPadding;
-			global::DataTableView.Resource.Attribute.itemTextAppearance = global::Sample.Resource.Attribute.itemTextAppearance;
-			global::DataTableView.Resource.Attribute.itemTextColor = global::Sample.Resource.Attribute.itemTextColor;
-			global::DataTableView.Resource.Attribute.keylines = global::Sample.Resource.Attribute.keylines;
-			global::DataTableView.Resource.Attribute.layout = global::Sample.Resource.Attribute.layout;
-			global::DataTableView.Resource.Attribute.layoutManager = global::Sample.Resource.Attribute.layoutManager;
-			global::DataTableView.Resource.Attribute.layout_anchor = global::Sample.Resource.Attribute.layout_anchor;
-			global::DataTableView.Resource.Attribute.layout_anchorGravity = global::Sample.Resource.Attribute.layout_anchorGravity;
-			global::DataTableView.Resource.Attribute.layout_behavior = global::Sample.Resource.Attribute.layout_behavior;
-			global::DataTableView.Resource.Attribute.layout_collapseMode = global::Sample.Resource.Attribute.layout_collapseMode;
-			global::DataTableView.Resource.Attribute.layout_collapseParallaxMultiplier = global::Sample.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::DataTableView.Resource.Attribute.layout_dodgeInsetEdges = global::Sample.Resource.Attribute.layout_dodgeInsetEdges;
-			global::DataTableView.Resource.Attribute.layout_insetEdge = global::Sample.Resource.Attribute.layout_insetEdge;
-			global::DataTableView.Resource.Attribute.layout_keyline = global::Sample.Resource.Attribute.layout_keyline;
-			global::DataTableView.Resource.Attribute.layout_scrollFlags = global::Sample.Resource.Attribute.layout_scrollFlags;
-			global::DataTableView.Resource.Attribute.layout_scrollInterpolator = global::Sample.Resource.Attribute.layout_scrollInterpolator;
-			global::DataTableView.Resource.Attribute.lazyLoad = global::Sample.Resource.Attribute.lazyLoad;
-			global::DataTableView.Resource.Attribute.lazyLoadLimit = global::Sample.Resource.Attribute.lazyLoadLimit;
-			global::DataTableView.Resource.Attribute.listChoiceBackgroundIndicator = global::Sample.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::DataTableView.Resource.Attribute.listDividerAlertDialog = global::Sample.Resource.Attribute.listDividerAlertDialog;
-			global::DataTableView.Resource.Attribute.listItemLayout = global::Sample.Resource.Attribute.listItemLayout;
-			global::DataTableView.Resource.Attribute.listLayout = global::Sample.Resource.Attribute.listLayout;
-			global::DataTableView.Resource.Attribute.listMenuViewStyle = global::Sample.Resource.Attribute.listMenuViewStyle;
-			global::DataTableView.Resource.Attribute.listPopupWindowStyle = global::Sample.Resource.Attribute.listPopupWindowStyle;
-			global::DataTableView.Resource.Attribute.listPreferredItemHeight = global::Sample.Resource.Attribute.listPreferredItemHeight;
-			global::DataTableView.Resource.Attribute.listPreferredItemHeightLarge = global::Sample.Resource.Attribute.listPreferredItemHeightLarge;
-			global::DataTableView.Resource.Attribute.listPreferredItemHeightSmall = global::Sample.Resource.Attribute.listPreferredItemHeightSmall;
-			global::DataTableView.Resource.Attribute.listPreferredItemPaddingLeft = global::Sample.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::DataTableView.Resource.Attribute.listPreferredItemPaddingRight = global::Sample.Resource.Attribute.listPreferredItemPaddingRight;
-			global::DataTableView.Resource.Attribute.logo = global::Sample.Resource.Attribute.logo;
-			global::DataTableView.Resource.Attribute.logoDescription = global::Sample.Resource.Attribute.logoDescription;
-			global::DataTableView.Resource.Attribute.maxActionInlineWidth = global::Sample.Resource.Attribute.maxActionInlineWidth;
-			global::DataTableView.Resource.Attribute.maxButtonHeight = global::Sample.Resource.Attribute.maxButtonHeight;
-			global::DataTableView.Resource.Attribute.measureWithLargestChild = global::Sample.Resource.Attribute.measureWithLargestChild;
-			global::DataTableView.Resource.Attribute.menu = global::Sample.Resource.Attribute.menu;
-			global::DataTableView.Resource.Attribute.multiChoiceItemLayout = global::Sample.Resource.Attribute.multiChoiceItemLayout;
-			global::DataTableView.Resource.Attribute.navigationContentDescription = global::Sample.Resource.Attribute.navigationContentDescription;
-			global::DataTableView.Resource.Attribute.navigationIcon = global::Sample.Resource.Attribute.navigationIcon;
-			global::DataTableView.Resource.Attribute.navigationMode = global::Sample.Resource.Attribute.navigationMode;
-			global::DataTableView.Resource.Attribute.numericModifiers = global::Sample.Resource.Attribute.numericModifiers;
-			global::DataTableView.Resource.Attribute.overlapAnchor = global::Sample.Resource.Attribute.overlapAnchor;
-			global::DataTableView.Resource.Attribute.paddingBottomNoButtons = global::Sample.Resource.Attribute.paddingBottomNoButtons;
-			global::DataTableView.Resource.Attribute.paddingEnd = global::Sample.Resource.Attribute.paddingEnd;
-			global::DataTableView.Resource.Attribute.paddingStart = global::Sample.Resource.Attribute.paddingStart;
-			global::DataTableView.Resource.Attribute.paddingTopNoTitle = global::Sample.Resource.Attribute.paddingTopNoTitle;
-			global::DataTableView.Resource.Attribute.panelBackground = global::Sample.Resource.Attribute.panelBackground;
-			global::DataTableView.Resource.Attribute.panelMenuListTheme = global::Sample.Resource.Attribute.panelMenuListTheme;
-			global::DataTableView.Resource.Attribute.panelMenuListWidth = global::Sample.Resource.Attribute.panelMenuListWidth;
-			global::DataTableView.Resource.Attribute.passwordToggleContentDescription = global::Sample.Resource.Attribute.passwordToggleContentDescription;
-			global::DataTableView.Resource.Attribute.passwordToggleDrawable = global::Sample.Resource.Attribute.passwordToggleDrawable;
-			global::DataTableView.Resource.Attribute.passwordToggleEnabled = global::Sample.Resource.Attribute.passwordToggleEnabled;
-			global::DataTableView.Resource.Attribute.passwordToggleTint = global::Sample.Resource.Attribute.passwordToggleTint;
-			global::DataTableView.Resource.Attribute.passwordToggleTintMode = global::Sample.Resource.Attribute.passwordToggleTintMode;
-			global::DataTableView.Resource.Attribute.popupMenuStyle = global::Sample.Resource.Attribute.popupMenuStyle;
-			global::DataTableView.Resource.Attribute.popupTheme = global::Sample.Resource.Attribute.popupTheme;
-			global::DataTableView.Resource.Attribute.popupWindowStyle = global::Sample.Resource.Attribute.popupWindowStyle;
-			global::DataTableView.Resource.Attribute.preserveIconSpacing = global::Sample.Resource.Attribute.preserveIconSpacing;
-			global::DataTableView.Resource.Attribute.pressedTranslationZ = global::Sample.Resource.Attribute.pressedTranslationZ;
-			global::DataTableView.Resource.Attribute.progressBarPadding = global::Sample.Resource.Attribute.progressBarPadding;
-			global::DataTableView.Resource.Attribute.progressBarStyle = global::Sample.Resource.Attribute.progressBarStyle;
-			global::DataTableView.Resource.Attribute.queryBackground = global::Sample.Resource.Attribute.queryBackground;
-			global::DataTableView.Resource.Attribute.queryHint = global::Sample.Resource.Attribute.queryHint;
-			global::DataTableView.Resource.Attribute.radioButtonStyle = global::Sample.Resource.Attribute.radioButtonStyle;
-			global::DataTableView.Resource.Attribute.ratingBarStyle = global::Sample.Resource.Attribute.ratingBarStyle;
-			global::DataTableView.Resource.Attribute.ratingBarStyleIndicator = global::Sample.Resource.Attribute.ratingBarStyleIndicator;
-			global::DataTableView.Resource.Attribute.ratingBarStyleSmall = global::Sample.Resource.Attribute.ratingBarStyleSmall;
-			global::DataTableView.Resource.Attribute.reverseLayout = global::Sample.Resource.Attribute.reverseLayout;
-			global::DataTableView.Resource.Attribute.rippleColor = global::Sample.Resource.Attribute.rippleColor;
-			global::DataTableView.Resource.Attribute.rowBackground = global::Sample.Resource.Attribute.rowBackground;
-			global::DataTableView.Resource.Attribute.rowFontFamily = global::Sample.Resource.Attribute.rowFontFamily;
-			global::DataTableView.Resource.Attribute.rowTextColor = global::Sample.Resource.Attribute.rowTextColor;
-			global::DataTableView.Resource.Attribute.rowTextSize = global::Sample.Resource.Attribute.rowTextSize;
-			global::DataTableView.Resource.Attribute.scrimAnimationDuration = global::Sample.Resource.Attribute.scrimAnimationDuration;
-			global::DataTableView.Resource.Attribute.scrimVisibleHeightTrigger = global::Sample.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::DataTableView.Resource.Attribute.searchHintIcon = global::Sample.Resource.Attribute.searchHintIcon;
-			global::DataTableView.Resource.Attribute.searchIcon = global::Sample.Resource.Attribute.searchIcon;
-			global::DataTableView.Resource.Attribute.searchViewStyle = global::Sample.Resource.Attribute.searchViewStyle;
-			global::DataTableView.Resource.Attribute.seekBarStyle = global::Sample.Resource.Attribute.seekBarStyle;
-			global::DataTableView.Resource.Attribute.selectableItemBackground = global::Sample.Resource.Attribute.selectableItemBackground;
-			global::DataTableView.Resource.Attribute.selectableItemBackgroundBorderless = global::Sample.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::DataTableView.Resource.Attribute.showAsAction = global::Sample.Resource.Attribute.showAsAction;
-			global::DataTableView.Resource.Attribute.showDividers = global::Sample.Resource.Attribute.showDividers;
-			global::DataTableView.Resource.Attribute.showText = global::Sample.Resource.Attribute.showText;
-			global::DataTableView.Resource.Attribute.showTitle = global::Sample.Resource.Attribute.showTitle;
-			global::DataTableView.Resource.Attribute.singleChoiceItemLayout = global::Sample.Resource.Attribute.singleChoiceItemLayout;
-			global::DataTableView.Resource.Attribute.spanCount = global::Sample.Resource.Attribute.spanCount;
-			global::DataTableView.Resource.Attribute.spinBars = global::Sample.Resource.Attribute.spinBars;
-			global::DataTableView.Resource.Attribute.spinnerDropDownItemStyle = global::Sample.Resource.Attribute.spinnerDropDownItemStyle;
-			global::DataTableView.Resource.Attribute.spinnerStyle = global::Sample.Resource.Attribute.spinnerStyle;
-			global::DataTableView.Resource.Attribute.splitTrack = global::Sample.Resource.Attribute.splitTrack;
-			global::DataTableView.Resource.Attribute.srcCompat = global::Sample.Resource.Attribute.srcCompat;
-			global::DataTableView.Resource.Attribute.stackFromEnd = global::Sample.Resource.Attribute.stackFromEnd;
-			global::DataTableView.Resource.Attribute.state_above_anchor = global::Sample.Resource.Attribute.state_above_anchor;
-			global::DataTableView.Resource.Attribute.state_collapsed = global::Sample.Resource.Attribute.state_collapsed;
-			global::DataTableView.Resource.Attribute.state_collapsible = global::Sample.Resource.Attribute.state_collapsible;
-			global::DataTableView.Resource.Attribute.statusBarBackground = global::Sample.Resource.Attribute.statusBarBackground;
-			global::DataTableView.Resource.Attribute.statusBarScrim = global::Sample.Resource.Attribute.statusBarScrim;
-			global::DataTableView.Resource.Attribute.subMenuArrow = global::Sample.Resource.Attribute.subMenuArrow;
-			global::DataTableView.Resource.Attribute.submitBackground = global::Sample.Resource.Attribute.submitBackground;
-			global::DataTableView.Resource.Attribute.subtitle = global::Sample.Resource.Attribute.subtitle;
-			global::DataTableView.Resource.Attribute.subtitleTextAppearance = global::Sample.Resource.Attribute.subtitleTextAppearance;
-			global::DataTableView.Resource.Attribute.subtitleTextColor = global::Sample.Resource.Attribute.subtitleTextColor;
-			global::DataTableView.Resource.Attribute.subtitleTextStyle = global::Sample.Resource.Attribute.subtitleTextStyle;
-			global::DataTableView.Resource.Attribute.suggestionRowLayout = global::Sample.Resource.Attribute.suggestionRowLayout;
-			global::DataTableView.Resource.Attribute.switchMinWidth = global::Sample.Resource.Attribute.switchMinWidth;
-			global::DataTableView.Resource.Attribute.switchPadding = global::Sample.Resource.Attribute.switchPadding;
-			global::DataTableView.Resource.Attribute.switchStyle = global::Sample.Resource.Attribute.switchStyle;
-			global::DataTableView.Resource.Attribute.switchTextAppearance = global::Sample.Resource.Attribute.switchTextAppearance;
-			global::DataTableView.Resource.Attribute.tabBackground = global::Sample.Resource.Attribute.tabBackground;
-			global::DataTableView.Resource.Attribute.tabContentStart = global::Sample.Resource.Attribute.tabContentStart;
-			global::DataTableView.Resource.Attribute.tabGravity = global::Sample.Resource.Attribute.tabGravity;
-			global::DataTableView.Resource.Attribute.tabIndicatorColor = global::Sample.Resource.Attribute.tabIndicatorColor;
-			global::DataTableView.Resource.Attribute.tabIndicatorHeight = global::Sample.Resource.Attribute.tabIndicatorHeight;
-			global::DataTableView.Resource.Attribute.tabMaxWidth = global::Sample.Resource.Attribute.tabMaxWidth;
-			global::DataTableView.Resource.Attribute.tabMinWidth = global::Sample.Resource.Attribute.tabMinWidth;
-			global::DataTableView.Resource.Attribute.tabMode = global::Sample.Resource.Attribute.tabMode;
-			global::DataTableView.Resource.Attribute.tabPadding = global::Sample.Resource.Attribute.tabPadding;
-			global::DataTableView.Resource.Attribute.tabPaddingBottom = global::Sample.Resource.Attribute.tabPaddingBottom;
-			global::DataTableView.Resource.Attribute.tabPaddingEnd = global::Sample.Resource.Attribute.tabPaddingEnd;
-			global::DataTableView.Resource.Attribute.tabPaddingStart = global::Sample.Resource.Attribute.tabPaddingStart;
-			global::DataTableView.Resource.Attribute.tabPaddingTop = global::Sample.Resource.Attribute.tabPaddingTop;
-			global::DataTableView.Resource.Attribute.tabSelectedTextColor = global::Sample.Resource.Attribute.tabSelectedTextColor;
-			global::DataTableView.Resource.Attribute.tabTextAppearance = global::Sample.Resource.Attribute.tabTextAppearance;
-			global::DataTableView.Resource.Attribute.tabTextColor = global::Sample.Resource.Attribute.tabTextColor;
-			global::DataTableView.Resource.Attribute.textAllCaps = global::Sample.Resource.Attribute.textAllCaps;
-			global::DataTableView.Resource.Attribute.textAppearanceLargePopupMenu = global::Sample.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::DataTableView.Resource.Attribute.textAppearanceListItem = global::Sample.Resource.Attribute.textAppearanceListItem;
-			global::DataTableView.Resource.Attribute.textAppearanceListItemSecondary = global::Sample.Resource.Attribute.textAppearanceListItemSecondary;
-			global::DataTableView.Resource.Attribute.textAppearanceListItemSmall = global::Sample.Resource.Attribute.textAppearanceListItemSmall;
-			global::DataTableView.Resource.Attribute.textAppearancePopupMenuHeader = global::Sample.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::DataTableView.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Sample.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::DataTableView.Resource.Attribute.textAppearanceSearchResultTitle = global::Sample.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::DataTableView.Resource.Attribute.textAppearanceSmallPopupMenu = global::Sample.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::DataTableView.Resource.Attribute.textColorAlertDialogListItem = global::Sample.Resource.Attribute.textColorAlertDialogListItem;
-			global::DataTableView.Resource.Attribute.textColorError = global::Sample.Resource.Attribute.textColorError;
-			global::DataTableView.Resource.Attribute.textColorSearchUrl = global::Sample.Resource.Attribute.textColorSearchUrl;
-			global::DataTableView.Resource.Attribute.theme = global::Sample.Resource.Attribute.theme;
-			global::DataTableView.Resource.Attribute.thickness = global::Sample.Resource.Attribute.thickness;
-			global::DataTableView.Resource.Attribute.thumbTextPadding = global::Sample.Resource.Attribute.thumbTextPadding;
-			global::DataTableView.Resource.Attribute.thumbTint = global::Sample.Resource.Attribute.thumbTint;
-			global::DataTableView.Resource.Attribute.thumbTintMode = global::Sample.Resource.Attribute.thumbTintMode;
-			global::DataTableView.Resource.Attribute.tickMark = global::Sample.Resource.Attribute.tickMark;
-			global::DataTableView.Resource.Attribute.tickMarkTint = global::Sample.Resource.Attribute.tickMarkTint;
-			global::DataTableView.Resource.Attribute.tickMarkTintMode = global::Sample.Resource.Attribute.tickMarkTintMode;
-			global::DataTableView.Resource.Attribute.tint = global::Sample.Resource.Attribute.tint;
-			global::DataTableView.Resource.Attribute.tintMode = global::Sample.Resource.Attribute.tintMode;
-			global::DataTableView.Resource.Attribute.title = global::Sample.Resource.Attribute.title;
-			global::DataTableView.Resource.Attribute.titleEnabled = global::Sample.Resource.Attribute.titleEnabled;
-			global::DataTableView.Resource.Attribute.titleMargin = global::Sample.Resource.Attribute.titleMargin;
-			global::DataTableView.Resource.Attribute.titleMarginBottom = global::Sample.Resource.Attribute.titleMarginBottom;
-			global::DataTableView.Resource.Attribute.titleMarginEnd = global::Sample.Resource.Attribute.titleMarginEnd;
-			global::DataTableView.Resource.Attribute.titleMarginStart = global::Sample.Resource.Attribute.titleMarginStart;
-			global::DataTableView.Resource.Attribute.titleMarginTop = global::Sample.Resource.Attribute.titleMarginTop;
-			global::DataTableView.Resource.Attribute.titleMargins = global::Sample.Resource.Attribute.titleMargins;
-			global::DataTableView.Resource.Attribute.titleTextAppearance = global::Sample.Resource.Attribute.titleTextAppearance;
-			global::DataTableView.Resource.Attribute.titleTextColor = global::Sample.Resource.Attribute.titleTextColor;
-			global::DataTableView.Resource.Attribute.titleTextStyle = global::Sample.Resource.Attribute.titleTextStyle;
-			global::DataTableView.Resource.Attribute.toolbarId = global::Sample.Resource.Attribute.toolbarId;
-			global::DataTableView.Resource.Attribute.toolbarNavigationButtonStyle = global::Sample.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::DataTableView.Resource.Attribute.toolbarStyle = global::Sample.Resource.Attribute.toolbarStyle;
-			global::DataTableView.Resource.Attribute.tooltipForegroundColor = global::Sample.Resource.Attribute.tooltipForegroundColor;
-			global::DataTableView.Resource.Attribute.tooltipFrameBackground = global::Sample.Resource.Attribute.tooltipFrameBackground;
-			global::DataTableView.Resource.Attribute.tooltipText = global::Sample.Resource.Attribute.tooltipText;
-			global::DataTableView.Resource.Attribute.track = global::Sample.Resource.Attribute.track;
-			global::DataTableView.Resource.Attribute.trackTint = global::Sample.Resource.Attribute.trackTint;
-			global::DataTableView.Resource.Attribute.trackTintMode = global::Sample.Resource.Attribute.trackTintMode;
-			global::DataTableView.Resource.Attribute.useCompatPadding = global::Sample.Resource.Attribute.useCompatPadding;
-			global::DataTableView.Resource.Attribute.verticalRowDivider = global::Sample.Resource.Attribute.verticalRowDivider;
-			global::DataTableView.Resource.Attribute.voiceIcon = global::Sample.Resource.Attribute.voiceIcon;
-			global::DataTableView.Resource.Attribute.windowActionBar = global::Sample.Resource.Attribute.windowActionBar;
-			global::DataTableView.Resource.Attribute.windowActionBarOverlay = global::Sample.Resource.Attribute.windowActionBarOverlay;
-			global::DataTableView.Resource.Attribute.windowActionModeOverlay = global::Sample.Resource.Attribute.windowActionModeOverlay;
-			global::DataTableView.Resource.Attribute.windowFixedHeightMajor = global::Sample.Resource.Attribute.windowFixedHeightMajor;
-			global::DataTableView.Resource.Attribute.windowFixedHeightMinor = global::Sample.Resource.Attribute.windowFixedHeightMinor;
-			global::DataTableView.Resource.Attribute.windowFixedWidthMajor = global::Sample.Resource.Attribute.windowFixedWidthMajor;
-			global::DataTableView.Resource.Attribute.windowFixedWidthMinor = global::Sample.Resource.Attribute.windowFixedWidthMinor;
-			global::DataTableView.Resource.Attribute.windowMinWidthMajor = global::Sample.Resource.Attribute.windowMinWidthMajor;
-			global::DataTableView.Resource.Attribute.windowMinWidthMinor = global::Sample.Resource.Attribute.windowMinWidthMinor;
-			global::DataTableView.Resource.Attribute.windowNoTitle = global::Sample.Resource.Attribute.windowNoTitle;
-			global::DataTableView.Resource.Boolean.abc_action_bar_embed_tabs = global::Sample.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::DataTableView.Resource.Boolean.abc_allow_stacked_button_bar = global::Sample.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::DataTableView.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Sample.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::DataTableView.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::Sample.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::DataTableView.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::Sample.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::DataTableView.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Sample.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::DataTableView.Resource.Color.abc_background_cache_hint_selector_material_light = global::Sample.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::DataTableView.Resource.Color.abc_btn_colored_borderless_text_material = global::Sample.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::DataTableView.Resource.Color.abc_btn_colored_text_material = global::Sample.Resource.Color.abc_btn_colored_text_material;
-			global::DataTableView.Resource.Color.abc_color_highlight_material = global::Sample.Resource.Color.abc_color_highlight_material;
-			global::DataTableView.Resource.Color.abc_hint_foreground_material_dark = global::Sample.Resource.Color.abc_hint_foreground_material_dark;
-			global::DataTableView.Resource.Color.abc_hint_foreground_material_light = global::Sample.Resource.Color.abc_hint_foreground_material_light;
-			global::DataTableView.Resource.Color.abc_input_method_navigation_guard = global::Sample.Resource.Color.abc_input_method_navigation_guard;
-			global::DataTableView.Resource.Color.abc_primary_text_disable_only_material_dark = global::Sample.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::DataTableView.Resource.Color.abc_primary_text_disable_only_material_light = global::Sample.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::DataTableView.Resource.Color.abc_primary_text_material_dark = global::Sample.Resource.Color.abc_primary_text_material_dark;
-			global::DataTableView.Resource.Color.abc_primary_text_material_light = global::Sample.Resource.Color.abc_primary_text_material_light;
-			global::DataTableView.Resource.Color.abc_search_url_text = global::Sample.Resource.Color.abc_search_url_text;
-			global::DataTableView.Resource.Color.abc_search_url_text_normal = global::Sample.Resource.Color.abc_search_url_text_normal;
-			global::DataTableView.Resource.Color.abc_search_url_text_pressed = global::Sample.Resource.Color.abc_search_url_text_pressed;
-			global::DataTableView.Resource.Color.abc_search_url_text_selected = global::Sample.Resource.Color.abc_search_url_text_selected;
-			global::DataTableView.Resource.Color.abc_secondary_text_material_dark = global::Sample.Resource.Color.abc_secondary_text_material_dark;
-			global::DataTableView.Resource.Color.abc_secondary_text_material_light = global::Sample.Resource.Color.abc_secondary_text_material_light;
-			global::DataTableView.Resource.Color.abc_tint_btn_checkable = global::Sample.Resource.Color.abc_tint_btn_checkable;
-			global::DataTableView.Resource.Color.abc_tint_default = global::Sample.Resource.Color.abc_tint_default;
-			global::DataTableView.Resource.Color.abc_tint_edittext = global::Sample.Resource.Color.abc_tint_edittext;
-			global::DataTableView.Resource.Color.abc_tint_seek_thumb = global::Sample.Resource.Color.abc_tint_seek_thumb;
-			global::DataTableView.Resource.Color.abc_tint_spinner = global::Sample.Resource.Color.abc_tint_spinner;
-			global::DataTableView.Resource.Color.abc_tint_switch_track = global::Sample.Resource.Color.abc_tint_switch_track;
-			global::DataTableView.Resource.Color.accent_material_dark = global::Sample.Resource.Color.accent_material_dark;
-			global::DataTableView.Resource.Color.accent_material_light = global::Sample.Resource.Color.accent_material_light;
-			global::DataTableView.Resource.Color.aluminum = global::Sample.Resource.Color.aluminum;
-			global::DataTableView.Resource.Color.background_floating_material_dark = global::Sample.Resource.Color.background_floating_material_dark;
-			global::DataTableView.Resource.Color.background_floating_material_light = global::Sample.Resource.Color.background_floating_material_light;
-			global::DataTableView.Resource.Color.background_material_dark = global::Sample.Resource.Color.background_material_dark;
-			global::DataTableView.Resource.Color.background_material_light = global::Sample.Resource.Color.background_material_light;
-			global::DataTableView.Resource.Color.@base = global::Sample.Resource.Color.@base;
-			global::DataTableView.Resource.Color.black = global::Sample.Resource.Color.black;
-			global::DataTableView.Resource.Color.bright_blue = global::Sample.Resource.Color.bright_blue;
-			global::DataTableView.Resource.Color.bright_foreground_disabled_material_dark = global::Sample.Resource.Color.bright_foreground_disabled_material_dark;
-			global::DataTableView.Resource.Color.bright_foreground_disabled_material_light = global::Sample.Resource.Color.bright_foreground_disabled_material_light;
-			global::DataTableView.Resource.Color.bright_foreground_inverse_material_dark = global::Sample.Resource.Color.bright_foreground_inverse_material_dark;
-			global::DataTableView.Resource.Color.bright_foreground_inverse_material_light = global::Sample.Resource.Color.bright_foreground_inverse_material_light;
-			global::DataTableView.Resource.Color.bright_foreground_material_dark = global::Sample.Resource.Color.bright_foreground_material_dark;
-			global::DataTableView.Resource.Color.bright_foreground_material_light = global::Sample.Resource.Color.bright_foreground_material_light;
-			global::DataTableView.Resource.Color.buttonAccent = global::Sample.Resource.Color.buttonAccent;
-			global::DataTableView.Resource.Color.button_material_dark = global::Sample.Resource.Color.button_material_dark;
-			global::DataTableView.Resource.Color.button_material_light = global::Sample.Resource.Color.button_material_light;
-			global::DataTableView.Resource.Color.colorAccent = global::Sample.Resource.Color.colorAccent;
-			global::DataTableView.Resource.Color.colorPrimary = global::Sample.Resource.Color.colorPrimary;
-			global::DataTableView.Resource.Color.colorPrimaryDark = global::Sample.Resource.Color.colorPrimaryDark;
-			global::DataTableView.Resource.Color.colorPrimaryDarker = global::Sample.Resource.Color.colorPrimaryDarker;
-			global::DataTableView.Resource.Color.dark_blue = global::Sample.Resource.Color.dark_blue;
-			global::DataTableView.Resource.Color.dark_purple = global::Sample.Resource.Color.dark_purple;
-			global::DataTableView.Resource.Color.design_bottom_navigation_shadow_color = global::Sample.Resource.Color.design_bottom_navigation_shadow_color;
-			global::DataTableView.Resource.Color.design_error = global::Sample.Resource.Color.design_error;
-			global::DataTableView.Resource.Color.design_fab_shadow_end_color = global::Sample.Resource.Color.design_fab_shadow_end_color;
-			global::DataTableView.Resource.Color.design_fab_shadow_mid_color = global::Sample.Resource.Color.design_fab_shadow_mid_color;
-			global::DataTableView.Resource.Color.design_fab_shadow_start_color = global::Sample.Resource.Color.design_fab_shadow_start_color;
-			global::DataTableView.Resource.Color.design_fab_stroke_end_inner_color = global::Sample.Resource.Color.design_fab_stroke_end_inner_color;
-			global::DataTableView.Resource.Color.design_fab_stroke_end_outer_color = global::Sample.Resource.Color.design_fab_stroke_end_outer_color;
-			global::DataTableView.Resource.Color.design_fab_stroke_top_inner_color = global::Sample.Resource.Color.design_fab_stroke_top_inner_color;
-			global::DataTableView.Resource.Color.design_fab_stroke_top_outer_color = global::Sample.Resource.Color.design_fab_stroke_top_outer_color;
-			global::DataTableView.Resource.Color.design_snackbar_background_color = global::Sample.Resource.Color.design_snackbar_background_color;
-			global::DataTableView.Resource.Color.design_tint_password_toggle = global::Sample.Resource.Color.design_tint_password_toggle;
-			global::DataTableView.Resource.Color.dim_foreground_disabled_material_dark = global::Sample.Resource.Color.dim_foreground_disabled_material_dark;
-			global::DataTableView.Resource.Color.dim_foreground_disabled_material_light = global::Sample.Resource.Color.dim_foreground_disabled_material_light;
-			global::DataTableView.Resource.Color.dim_foreground_material_dark = global::Sample.Resource.Color.dim_foreground_material_dark;
-			global::DataTableView.Resource.Color.dim_foreground_material_light = global::Sample.Resource.Color.dim_foreground_material_light;
-			global::DataTableView.Resource.Color.error_color_material = global::Sample.Resource.Color.error_color_material;
-			global::DataTableView.Resource.Color.foreground_material_dark = global::Sample.Resource.Color.foreground_material_dark;
-			global::DataTableView.Resource.Color.foreground_material_light = global::Sample.Resource.Color.foreground_material_light;
-			global::DataTableView.Resource.Color.gray = global::Sample.Resource.Color.gray;
-			global::DataTableView.Resource.Color.highlighted_text_material_dark = global::Sample.Resource.Color.highlighted_text_material_dark;
-			global::DataTableView.Resource.Color.highlighted_text_material_light = global::Sample.Resource.Color.highlighted_text_material_light;
-			global::DataTableView.Resource.Color.iron = global::Sample.Resource.Color.iron;
-			global::DataTableView.Resource.Color.jet = global::Sample.Resource.Color.jet;
-			global::DataTableView.Resource.Color.jumbo = global::Sample.Resource.Color.jumbo;
-			global::DataTableView.Resource.Color.light_blue = global::Sample.Resource.Color.light_blue;
-			global::DataTableView.Resource.Color.material_blue_grey_800 = global::Sample.Resource.Color.material_blue_grey_800;
-			global::DataTableView.Resource.Color.material_blue_grey_900 = global::Sample.Resource.Color.material_blue_grey_900;
-			global::DataTableView.Resource.Color.material_blue_grey_950 = global::Sample.Resource.Color.material_blue_grey_950;
-			global::DataTableView.Resource.Color.material_deep_teal_200 = global::Sample.Resource.Color.material_deep_teal_200;
-			global::DataTableView.Resource.Color.material_deep_teal_500 = global::Sample.Resource.Color.material_deep_teal_500;
-			global::DataTableView.Resource.Color.material_grey_100 = global::Sample.Resource.Color.material_grey_100;
-			global::DataTableView.Resource.Color.material_grey_300 = global::Sample.Resource.Color.material_grey_300;
-			global::DataTableView.Resource.Color.material_grey_50 = global::Sample.Resource.Color.material_grey_50;
-			global::DataTableView.Resource.Color.material_grey_600 = global::Sample.Resource.Color.material_grey_600;
-			global::DataTableView.Resource.Color.material_grey_800 = global::Sample.Resource.Color.material_grey_800;
-			global::DataTableView.Resource.Color.material_grey_850 = global::Sample.Resource.Color.material_grey_850;
-			global::DataTableView.Resource.Color.material_grey_900 = global::Sample.Resource.Color.material_grey_900;
-			global::DataTableView.Resource.Color.monsoon = global::Sample.Resource.Color.monsoon;
-			global::DataTableView.Resource.Color.muggy = global::Sample.Resource.Color.muggy;
-			global::DataTableView.Resource.Color.navBackgroundChecked = global::Sample.Resource.Color.navBackgroundChecked;
-			global::DataTableView.Resource.Color.navBackgroundUnchecked = global::Sample.Resource.Color.navBackgroundUnchecked;
-			global::DataTableView.Resource.Color.notification_action_color_filter = global::Sample.Resource.Color.notification_action_color_filter;
-			global::DataTableView.Resource.Color.notification_icon_bg_color = global::Sample.Resource.Color.notification_icon_bg_color;
-			global::DataTableView.Resource.Color.notification_material_background_media_default_color = global::Sample.Resource.Color.notification_material_background_media_default_color;
-			global::DataTableView.Resource.Color.oil = global::Sample.Resource.Color.oil;
-			global::DataTableView.Resource.Color.orange = global::Sample.Resource.Color.orange;
-			global::DataTableView.Resource.Color.prefs_bg = global::Sample.Resource.Color.prefs_bg;
-			global::DataTableView.Resource.Color.prefs_tc = global::Sample.Resource.Color.prefs_tc;
-			global::DataTableView.Resource.Color.primary_dark_material_dark = global::Sample.Resource.Color.primary_dark_material_dark;
-			global::DataTableView.Resource.Color.primary_dark_material_light = global::Sample.Resource.Color.primary_dark_material_light;
-			global::DataTableView.Resource.Color.primary_material_dark = global::Sample.Resource.Color.primary_material_dark;
-			global::DataTableView.Resource.Color.primary_material_light = global::Sample.Resource.Color.primary_material_light;
-			global::DataTableView.Resource.Color.primary_text_default_material_dark = global::Sample.Resource.Color.primary_text_default_material_dark;
-			global::DataTableView.Resource.Color.primary_text_default_material_light = global::Sample.Resource.Color.primary_text_default_material_light;
-			global::DataTableView.Resource.Color.primary_text_disabled_material_dark = global::Sample.Resource.Color.primary_text_disabled_material_dark;
-			global::DataTableView.Resource.Color.primary_text_disabled_material_light = global::Sample.Resource.Color.primary_text_disabled_material_light;
-			global::DataTableView.Resource.Color.ripple_material_dark = global::Sample.Resource.Color.ripple_material_dark;
-			global::DataTableView.Resource.Color.ripple_material_light = global::Sample.Resource.Color.ripple_material_light;
-			global::DataTableView.Resource.Color.secondary_text_default_material_dark = global::Sample.Resource.Color.secondary_text_default_material_dark;
-			global::DataTableView.Resource.Color.secondary_text_default_material_light = global::Sample.Resource.Color.secondary_text_default_material_light;
-			global::DataTableView.Resource.Color.secondary_text_disabled_material_dark = global::Sample.Resource.Color.secondary_text_disabled_material_dark;
-			global::DataTableView.Resource.Color.secondary_text_disabled_material_light = global::Sample.Resource.Color.secondary_text_disabled_material_light;
-			global::DataTableView.Resource.Color.semi_transparent = global::Sample.Resource.Color.semi_transparent;
-			global::DataTableView.Resource.Color.switch_thumb_disabled_material_dark = global::Sample.Resource.Color.switch_thumb_disabled_material_dark;
-			global::DataTableView.Resource.Color.switch_thumb_disabled_material_light = global::Sample.Resource.Color.switch_thumb_disabled_material_light;
-			global::DataTableView.Resource.Color.switch_thumb_material_dark = global::Sample.Resource.Color.switch_thumb_material_dark;
-			global::DataTableView.Resource.Color.switch_thumb_material_light = global::Sample.Resource.Color.switch_thumb_material_light;
-			global::DataTableView.Resource.Color.switch_thumb_normal_material_dark = global::Sample.Resource.Color.switch_thumb_normal_material_dark;
-			global::DataTableView.Resource.Color.switch_thumb_normal_material_light = global::Sample.Resource.Color.switch_thumb_normal_material_light;
-			global::DataTableView.Resource.Color.toolbarPrimary = global::Sample.Resource.Color.toolbarPrimary;
-			global::DataTableView.Resource.Color.tooltip_background_dark = global::Sample.Resource.Color.tooltip_background_dark;
-			global::DataTableView.Resource.Color.tooltip_background_light = global::Sample.Resource.Color.tooltip_background_light;
-			global::DataTableView.Resource.Color.transparent = global::Sample.Resource.Color.transparent;
-			global::DataTableView.Resource.Color.white = global::Sample.Resource.Color.white;
-			global::DataTableView.Resource.Dimension.abc_action_bar_content_inset_material = global::Sample.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::DataTableView.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Sample.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::DataTableView.Resource.Dimension.abc_action_bar_default_height_material = global::Sample.Resource.Dimension.abc_action_bar_default_height_material;
-			global::DataTableView.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Sample.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::DataTableView.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Sample.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::DataTableView.Resource.Dimension.abc_action_bar_elevation_material = global::Sample.Resource.Dimension.abc_action_bar_elevation_material;
-			global::DataTableView.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Sample.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::DataTableView.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Sample.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::DataTableView.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Sample.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::DataTableView.Resource.Dimension.abc_action_bar_progress_bar_size = global::Sample.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::DataTableView.Resource.Dimension.abc_action_bar_stacked_max_height = global::Sample.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::DataTableView.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Sample.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::DataTableView.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Sample.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::DataTableView.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Sample.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::DataTableView.Resource.Dimension.abc_action_button_min_height_material = global::Sample.Resource.Dimension.abc_action_button_min_height_material;
-			global::DataTableView.Resource.Dimension.abc_action_button_min_width_material = global::Sample.Resource.Dimension.abc_action_button_min_width_material;
-			global::DataTableView.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Sample.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::DataTableView.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Sample.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::DataTableView.Resource.Dimension.abc_button_inset_horizontal_material = global::Sample.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::DataTableView.Resource.Dimension.abc_button_inset_vertical_material = global::Sample.Resource.Dimension.abc_button_inset_vertical_material;
-			global::DataTableView.Resource.Dimension.abc_button_padding_horizontal_material = global::Sample.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::DataTableView.Resource.Dimension.abc_button_padding_vertical_material = global::Sample.Resource.Dimension.abc_button_padding_vertical_material;
-			global::DataTableView.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Sample.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::DataTableView.Resource.Dimension.abc_config_prefDialogWidth = global::Sample.Resource.Dimension.abc_config_prefDialogWidth;
-			global::DataTableView.Resource.Dimension.abc_control_corner_material = global::Sample.Resource.Dimension.abc_control_corner_material;
-			global::DataTableView.Resource.Dimension.abc_control_inset_material = global::Sample.Resource.Dimension.abc_control_inset_material;
-			global::DataTableView.Resource.Dimension.abc_control_padding_material = global::Sample.Resource.Dimension.abc_control_padding_material;
-			global::DataTableView.Resource.Dimension.abc_dialog_fixed_height_major = global::Sample.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::DataTableView.Resource.Dimension.abc_dialog_fixed_height_minor = global::Sample.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::DataTableView.Resource.Dimension.abc_dialog_fixed_width_major = global::Sample.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::DataTableView.Resource.Dimension.abc_dialog_fixed_width_minor = global::Sample.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::DataTableView.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Sample.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::DataTableView.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Sample.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::DataTableView.Resource.Dimension.abc_dialog_min_width_major = global::Sample.Resource.Dimension.abc_dialog_min_width_major;
-			global::DataTableView.Resource.Dimension.abc_dialog_min_width_minor = global::Sample.Resource.Dimension.abc_dialog_min_width_minor;
-			global::DataTableView.Resource.Dimension.abc_dialog_padding_material = global::Sample.Resource.Dimension.abc_dialog_padding_material;
-			global::DataTableView.Resource.Dimension.abc_dialog_padding_top_material = global::Sample.Resource.Dimension.abc_dialog_padding_top_material;
-			global::DataTableView.Resource.Dimension.abc_dialog_title_divider_material = global::Sample.Resource.Dimension.abc_dialog_title_divider_material;
-			global::DataTableView.Resource.Dimension.abc_disabled_alpha_material_dark = global::Sample.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::DataTableView.Resource.Dimension.abc_disabled_alpha_material_light = global::Sample.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::DataTableView.Resource.Dimension.abc_dropdownitem_icon_width = global::Sample.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::DataTableView.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Sample.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::DataTableView.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Sample.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::DataTableView.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Sample.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::DataTableView.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Sample.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::DataTableView.Resource.Dimension.abc_edit_text_inset_top_material = global::Sample.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::DataTableView.Resource.Dimension.abc_floating_window_z = global::Sample.Resource.Dimension.abc_floating_window_z;
-			global::DataTableView.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Sample.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::DataTableView.Resource.Dimension.abc_panel_menu_list_width = global::Sample.Resource.Dimension.abc_panel_menu_list_width;
-			global::DataTableView.Resource.Dimension.abc_progress_bar_height_material = global::Sample.Resource.Dimension.abc_progress_bar_height_material;
-			global::DataTableView.Resource.Dimension.abc_search_view_preferred_height = global::Sample.Resource.Dimension.abc_search_view_preferred_height;
-			global::DataTableView.Resource.Dimension.abc_search_view_preferred_width = global::Sample.Resource.Dimension.abc_search_view_preferred_width;
-			global::DataTableView.Resource.Dimension.abc_seekbar_track_background_height_material = global::Sample.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::DataTableView.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Sample.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::DataTableView.Resource.Dimension.abc_select_dialog_padding_start_material = global::Sample.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::DataTableView.Resource.Dimension.abc_switch_padding = global::Sample.Resource.Dimension.abc_switch_padding;
-			global::DataTableView.Resource.Dimension.abc_text_size_body_1_material = global::Sample.Resource.Dimension.abc_text_size_body_1_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_body_2_material = global::Sample.Resource.Dimension.abc_text_size_body_2_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_button_material = global::Sample.Resource.Dimension.abc_text_size_button_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_caption_material = global::Sample.Resource.Dimension.abc_text_size_caption_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_display_1_material = global::Sample.Resource.Dimension.abc_text_size_display_1_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_display_2_material = global::Sample.Resource.Dimension.abc_text_size_display_2_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_display_3_material = global::Sample.Resource.Dimension.abc_text_size_display_3_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_display_4_material = global::Sample.Resource.Dimension.abc_text_size_display_4_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_headline_material = global::Sample.Resource.Dimension.abc_text_size_headline_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_large_material = global::Sample.Resource.Dimension.abc_text_size_large_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_medium_material = global::Sample.Resource.Dimension.abc_text_size_medium_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_menu_header_material = global::Sample.Resource.Dimension.abc_text_size_menu_header_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_menu_material = global::Sample.Resource.Dimension.abc_text_size_menu_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_small_material = global::Sample.Resource.Dimension.abc_text_size_small_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_subhead_material = global::Sample.Resource.Dimension.abc_text_size_subhead_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Sample.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::DataTableView.Resource.Dimension.abc_text_size_title_material = global::Sample.Resource.Dimension.abc_text_size_title_material;
-			global::DataTableView.Resource.Dimension.abc_text_size_title_material_toolbar = global::Sample.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::DataTableView.Resource.Dimension.activity_horizontal_margin = global::Sample.Resource.Dimension.activity_horizontal_margin;
-			global::DataTableView.Resource.Dimension.activity_vertical_margin = global::Sample.Resource.Dimension.activity_vertical_margin;
-			global::DataTableView.Resource.Dimension.compat_button_inset_horizontal_material = global::Sample.Resource.Dimension.compat_button_inset_horizontal_material;
-			global::DataTableView.Resource.Dimension.compat_button_inset_vertical_material = global::Sample.Resource.Dimension.compat_button_inset_vertical_material;
-			global::DataTableView.Resource.Dimension.compat_button_padding_horizontal_material = global::Sample.Resource.Dimension.compat_button_padding_horizontal_material;
-			global::DataTableView.Resource.Dimension.compat_button_padding_vertical_material = global::Sample.Resource.Dimension.compat_button_padding_vertical_material;
-			global::DataTableView.Resource.Dimension.compat_control_corner_material = global::Sample.Resource.Dimension.compat_control_corner_material;
-			global::DataTableView.Resource.Dimension.design_appbar_elevation = global::Sample.Resource.Dimension.design_appbar_elevation;
-			global::DataTableView.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Sample.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::DataTableView.Resource.Dimension.design_bottom_navigation_active_text_size = global::Sample.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::DataTableView.Resource.Dimension.design_bottom_navigation_elevation = global::Sample.Resource.Dimension.design_bottom_navigation_elevation;
-			global::DataTableView.Resource.Dimension.design_bottom_navigation_height = global::Sample.Resource.Dimension.design_bottom_navigation_height;
-			global::DataTableView.Resource.Dimension.design_bottom_navigation_item_max_width = global::Sample.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::DataTableView.Resource.Dimension.design_bottom_navigation_item_min_width = global::Sample.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::DataTableView.Resource.Dimension.design_bottom_navigation_margin = global::Sample.Resource.Dimension.design_bottom_navigation_margin;
-			global::DataTableView.Resource.Dimension.design_bottom_navigation_shadow_height = global::Sample.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::DataTableView.Resource.Dimension.design_bottom_navigation_text_size = global::Sample.Resource.Dimension.design_bottom_navigation_text_size;
-			global::DataTableView.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Sample.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::DataTableView.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Sample.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::DataTableView.Resource.Dimension.design_fab_border_width = global::Sample.Resource.Dimension.design_fab_border_width;
-			global::DataTableView.Resource.Dimension.design_fab_elevation = global::Sample.Resource.Dimension.design_fab_elevation;
-			global::DataTableView.Resource.Dimension.design_fab_image_size = global::Sample.Resource.Dimension.design_fab_image_size;
-			global::DataTableView.Resource.Dimension.design_fab_size_mini = global::Sample.Resource.Dimension.design_fab_size_mini;
-			global::DataTableView.Resource.Dimension.design_fab_size_normal = global::Sample.Resource.Dimension.design_fab_size_normal;
-			global::DataTableView.Resource.Dimension.design_fab_translation_z_pressed = global::Sample.Resource.Dimension.design_fab_translation_z_pressed;
-			global::DataTableView.Resource.Dimension.design_navigation_elevation = global::Sample.Resource.Dimension.design_navigation_elevation;
-			global::DataTableView.Resource.Dimension.design_navigation_icon_padding = global::Sample.Resource.Dimension.design_navigation_icon_padding;
-			global::DataTableView.Resource.Dimension.design_navigation_icon_size = global::Sample.Resource.Dimension.design_navigation_icon_size;
-			global::DataTableView.Resource.Dimension.design_navigation_max_width = global::Sample.Resource.Dimension.design_navigation_max_width;
-			global::DataTableView.Resource.Dimension.design_navigation_padding_bottom = global::Sample.Resource.Dimension.design_navigation_padding_bottom;
-			global::DataTableView.Resource.Dimension.design_navigation_separator_vertical_padding = global::Sample.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::DataTableView.Resource.Dimension.design_snackbar_action_inline_max_width = global::Sample.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::DataTableView.Resource.Dimension.design_snackbar_background_corner_radius = global::Sample.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::DataTableView.Resource.Dimension.design_snackbar_elevation = global::Sample.Resource.Dimension.design_snackbar_elevation;
-			global::DataTableView.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Sample.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::DataTableView.Resource.Dimension.design_snackbar_max_width = global::Sample.Resource.Dimension.design_snackbar_max_width;
-			global::DataTableView.Resource.Dimension.design_snackbar_min_width = global::Sample.Resource.Dimension.design_snackbar_min_width;
-			global::DataTableView.Resource.Dimension.design_snackbar_padding_horizontal = global::Sample.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::DataTableView.Resource.Dimension.design_snackbar_padding_vertical = global::Sample.Resource.Dimension.design_snackbar_padding_vertical;
-			global::DataTableView.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Sample.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::DataTableView.Resource.Dimension.design_snackbar_text_size = global::Sample.Resource.Dimension.design_snackbar_text_size;
-			global::DataTableView.Resource.Dimension.design_tab_max_width = global::Sample.Resource.Dimension.design_tab_max_width;
-			global::DataTableView.Resource.Dimension.design_tab_scrollable_min_width = global::Sample.Resource.Dimension.design_tab_scrollable_min_width;
-			global::DataTableView.Resource.Dimension.design_tab_text_size = global::Sample.Resource.Dimension.design_tab_text_size;
-			global::DataTableView.Resource.Dimension.design_tab_text_size_2line = global::Sample.Resource.Dimension.design_tab_text_size_2line;
-			global::DataTableView.Resource.Dimension.dimen_0dp = global::Sample.Resource.Dimension.dimen_0dp;
-			global::DataTableView.Resource.Dimension.dimen_128dp = global::Sample.Resource.Dimension.dimen_128dp;
-			global::DataTableView.Resource.Dimension.dimen_14sp = global::Sample.Resource.Dimension.dimen_14sp;
-			global::DataTableView.Resource.Dimension.dimen_16sp = global::Sample.Resource.Dimension.dimen_16sp;
-			global::DataTableView.Resource.Dimension.dimen_1dp = global::Sample.Resource.Dimension.dimen_1dp;
-			global::DataTableView.Resource.Dimension.dimen_24dp = global::Sample.Resource.Dimension.dimen_24dp;
-			global::DataTableView.Resource.Dimension.dimen_2dp = global::Sample.Resource.Dimension.dimen_2dp;
-			global::DataTableView.Resource.Dimension.dimen_32dp = global::Sample.Resource.Dimension.dimen_32dp;
-			global::DataTableView.Resource.Dimension.dimen_48dp = global::Sample.Resource.Dimension.dimen_48dp;
-			global::DataTableView.Resource.Dimension.dimen_4dp = global::Sample.Resource.Dimension.dimen_4dp;
-			global::DataTableView.Resource.Dimension.dimen_56dp = global::Sample.Resource.Dimension.dimen_56dp;
-			global::DataTableView.Resource.Dimension.dimen_64dp = global::Sample.Resource.Dimension.dimen_64dp;
-			global::DataTableView.Resource.Dimension.dimen_84dp = global::Sample.Resource.Dimension.dimen_84dp;
-			global::DataTableView.Resource.Dimension.dimen_8dp = global::Sample.Resource.Dimension.dimen_8dp;
-			global::DataTableView.Resource.Dimension.disabled_alpha_material_dark = global::Sample.Resource.Dimension.disabled_alpha_material_dark;
-			global::DataTableView.Resource.Dimension.disabled_alpha_material_light = global::Sample.Resource.Dimension.disabled_alpha_material_light;
-			global::DataTableView.Resource.Dimension.fastscroll_default_thickness = global::Sample.Resource.Dimension.fastscroll_default_thickness;
-			global::DataTableView.Resource.Dimension.fastscroll_margin = global::Sample.Resource.Dimension.fastscroll_margin;
-			global::DataTableView.Resource.Dimension.fastscroll_minimum_range = global::Sample.Resource.Dimension.fastscroll_minimum_range;
-			global::DataTableView.Resource.Dimension.highlight_alpha_material_colored = global::Sample.Resource.Dimension.highlight_alpha_material_colored;
-			global::DataTableView.Resource.Dimension.highlight_alpha_material_dark = global::Sample.Resource.Dimension.highlight_alpha_material_dark;
-			global::DataTableView.Resource.Dimension.highlight_alpha_material_light = global::Sample.Resource.Dimension.highlight_alpha_material_light;
-			global::DataTableView.Resource.Dimension.hint_alpha_material_dark = global::Sample.Resource.Dimension.hint_alpha_material_dark;
-			global::DataTableView.Resource.Dimension.hint_alpha_material_light = global::Sample.Resource.Dimension.hint_alpha_material_light;
-			global::DataTableView.Resource.Dimension.hint_pressed_alpha_material_dark = global::Sample.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::DataTableView.Resource.Dimension.hint_pressed_alpha_material_light = global::Sample.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::DataTableView.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Sample.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::DataTableView.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Sample.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::DataTableView.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Sample.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::DataTableView.Resource.Dimension.notification_action_icon_size = global::Sample.Resource.Dimension.notification_action_icon_size;
-			global::DataTableView.Resource.Dimension.notification_action_text_size = global::Sample.Resource.Dimension.notification_action_text_size;
-			global::DataTableView.Resource.Dimension.notification_big_circle_margin = global::Sample.Resource.Dimension.notification_big_circle_margin;
-			global::DataTableView.Resource.Dimension.notification_content_margin_start = global::Sample.Resource.Dimension.notification_content_margin_start;
-			global::DataTableView.Resource.Dimension.notification_large_icon_height = global::Sample.Resource.Dimension.notification_large_icon_height;
-			global::DataTableView.Resource.Dimension.notification_large_icon_width = global::Sample.Resource.Dimension.notification_large_icon_width;
-			global::DataTableView.Resource.Dimension.notification_main_column_padding_top = global::Sample.Resource.Dimension.notification_main_column_padding_top;
-			global::DataTableView.Resource.Dimension.notification_media_narrow_margin = global::Sample.Resource.Dimension.notification_media_narrow_margin;
-			global::DataTableView.Resource.Dimension.notification_right_icon_size = global::Sample.Resource.Dimension.notification_right_icon_size;
-			global::DataTableView.Resource.Dimension.notification_right_side_padding_top = global::Sample.Resource.Dimension.notification_right_side_padding_top;
-			global::DataTableView.Resource.Dimension.notification_small_icon_background_padding = global::Sample.Resource.Dimension.notification_small_icon_background_padding;
-			global::DataTableView.Resource.Dimension.notification_small_icon_size_as_large = global::Sample.Resource.Dimension.notification_small_icon_size_as_large;
-			global::DataTableView.Resource.Dimension.notification_subtext_size = global::Sample.Resource.Dimension.notification_subtext_size;
-			global::DataTableView.Resource.Dimension.notification_top_pad = global::Sample.Resource.Dimension.notification_top_pad;
-			global::DataTableView.Resource.Dimension.notification_top_pad_large_text = global::Sample.Resource.Dimension.notification_top_pad_large_text;
-			global::DataTableView.Resource.Dimension.tooltip_corner_radius = global::Sample.Resource.Dimension.tooltip_corner_radius;
-			global::DataTableView.Resource.Dimension.tooltip_horizontal_padding = global::Sample.Resource.Dimension.tooltip_horizontal_padding;
-			global::DataTableView.Resource.Dimension.tooltip_margin = global::Sample.Resource.Dimension.tooltip_margin;
-			global::DataTableView.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Sample.Resource.Dimension.tooltip_precise_anchor_extra_offset;
-			global::DataTableView.Resource.Dimension.tooltip_precise_anchor_threshold = global::Sample.Resource.Dimension.tooltip_precise_anchor_threshold;
-			global::DataTableView.Resource.Dimension.tooltip_vertical_padding = global::Sample.Resource.Dimension.tooltip_vertical_padding;
-			global::DataTableView.Resource.Dimension.tooltip_y_offset_non_touch = global::Sample.Resource.Dimension.tooltip_y_offset_non_touch;
-			global::DataTableView.Resource.Dimension.tooltip_y_offset_touch = global::Sample.Resource.Dimension.tooltip_y_offset_touch;
-			global::DataTableView.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Sample.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_action_bar_item_background_material = global::Sample.Resource.Drawable.abc_action_bar_item_background_material;
-			global::DataTableView.Resource.Drawable.abc_btn_borderless_material = global::Sample.Resource.Drawable.abc_btn_borderless_material;
-			global::DataTableView.Resource.Drawable.abc_btn_check_material = global::Sample.Resource.Drawable.abc_btn_check_material;
-			global::DataTableView.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Sample.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::DataTableView.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Sample.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::DataTableView.Resource.Drawable.abc_btn_colored_material = global::Sample.Resource.Drawable.abc_btn_colored_material;
-			global::DataTableView.Resource.Drawable.abc_btn_default_mtrl_shape = global::Sample.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::DataTableView.Resource.Drawable.abc_btn_radio_material = global::Sample.Resource.Drawable.abc_btn_radio_material;
-			global::DataTableView.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Sample.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::DataTableView.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Sample.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::DataTableView.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Sample.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::DataTableView.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Sample.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::DataTableView.Resource.Drawable.abc_cab_background_internal_bg = global::Sample.Resource.Drawable.abc_cab_background_internal_bg;
-			global::DataTableView.Resource.Drawable.abc_cab_background_top_material = global::Sample.Resource.Drawable.abc_cab_background_top_material;
-			global::DataTableView.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Sample.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_control_background_material = global::Sample.Resource.Drawable.abc_control_background_material;
-			global::DataTableView.Resource.Drawable.abc_dialog_material_background = global::Sample.Resource.Drawable.abc_dialog_material_background;
-			global::DataTableView.Resource.Drawable.abc_edit_text_material = global::Sample.Resource.Drawable.abc_edit_text_material;
-			global::DataTableView.Resource.Drawable.abc_ic_ab_back_material = global::Sample.Resource.Drawable.abc_ic_ab_back_material;
-			global::DataTableView.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Sample.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::DataTableView.Resource.Drawable.abc_ic_clear_material = global::Sample.Resource.Drawable.abc_ic_clear_material;
-			global::DataTableView.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_ic_go_search_api_material = global::Sample.Resource.Drawable.abc_ic_go_search_api_material;
-			global::DataTableView.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::DataTableView.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_ic_menu_overflow_material = global::Sample.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::DataTableView.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::DataTableView.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_ic_search_api_material = global::Sample.Resource.Drawable.abc_ic_search_api_material;
-			global::DataTableView.Resource.Drawable.abc_ic_star_black_16dp = global::Sample.Resource.Drawable.abc_ic_star_black_16dp;
-			global::DataTableView.Resource.Drawable.abc_ic_star_black_36dp = global::Sample.Resource.Drawable.abc_ic_star_black_36dp;
-			global::DataTableView.Resource.Drawable.abc_ic_star_black_48dp = global::Sample.Resource.Drawable.abc_ic_star_black_48dp;
-			global::DataTableView.Resource.Drawable.abc_ic_star_half_black_16dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::DataTableView.Resource.Drawable.abc_ic_star_half_black_36dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::DataTableView.Resource.Drawable.abc_ic_star_half_black_48dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::DataTableView.Resource.Drawable.abc_ic_voice_search_api_material = global::Sample.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::DataTableView.Resource.Drawable.abc_item_background_holo_dark = global::Sample.Resource.Drawable.abc_item_background_holo_dark;
-			global::DataTableView.Resource.Drawable.abc_item_background_holo_light = global::Sample.Resource.Drawable.abc_item_background_holo_light;
-			global::DataTableView.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Sample.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_list_focused_holo = global::Sample.Resource.Drawable.abc_list_focused_holo;
-			global::DataTableView.Resource.Drawable.abc_list_longpressed_holo = global::Sample.Resource.Drawable.abc_list_longpressed_holo;
-			global::DataTableView.Resource.Drawable.abc_list_pressed_holo_dark = global::Sample.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::DataTableView.Resource.Drawable.abc_list_pressed_holo_light = global::Sample.Resource.Drawable.abc_list_pressed_holo_light;
-			global::DataTableView.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::DataTableView.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Sample.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::DataTableView.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::DataTableView.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Sample.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::DataTableView.Resource.Drawable.abc_list_selector_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_holo_dark;
-			global::DataTableView.Resource.Drawable.abc_list_selector_holo_light = global::Sample.Resource.Drawable.abc_list_selector_holo_light;
-			global::DataTableView.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Sample.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::DataTableView.Resource.Drawable.abc_popup_background_mtrl_mult = global::Sample.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::DataTableView.Resource.Drawable.abc_ratingbar_indicator_material = global::Sample.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::DataTableView.Resource.Drawable.abc_ratingbar_material = global::Sample.Resource.Drawable.abc_ratingbar_material;
-			global::DataTableView.Resource.Drawable.abc_ratingbar_small_material = global::Sample.Resource.Drawable.abc_ratingbar_small_material;
-			global::DataTableView.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Sample.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::DataTableView.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Sample.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::DataTableView.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_seekbar_thumb_material = global::Sample.Resource.Drawable.abc_seekbar_thumb_material;
-			global::DataTableView.Resource.Drawable.abc_seekbar_tick_mark_material = global::Sample.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::DataTableView.Resource.Drawable.abc_seekbar_track_material = global::Sample.Resource.Drawable.abc_seekbar_track_material;
-			global::DataTableView.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::DataTableView.Resource.Drawable.abc_spinner_textfield_background_material = global::Sample.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::DataTableView.Resource.Drawable.abc_switch_thumb_material = global::Sample.Resource.Drawable.abc_switch_thumb_material;
-			global::DataTableView.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Sample.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_tab_indicator_material = global::Sample.Resource.Drawable.abc_tab_indicator_material;
-			global::DataTableView.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Sample.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_text_cursor_material = global::Sample.Resource.Drawable.abc_text_cursor_material;
-			global::DataTableView.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::DataTableView.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::DataTableView.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::DataTableView.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::DataTableView.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::DataTableView.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::DataTableView.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::DataTableView.Resource.Drawable.abc_textfield_search_material = global::Sample.Resource.Drawable.abc_textfield_search_material;
-			global::DataTableView.Resource.Drawable.abc_vector_test = global::Sample.Resource.Drawable.abc_vector_test;
-			global::DataTableView.Resource.Drawable.avd_hide_password = global::Sample.Resource.Drawable.avd_hide_password;
-			global::DataTableView.Resource.Drawable.avd_hide_password_1 = global::Sample.Resource.Drawable.avd_hide_password_1;
-			global::DataTableView.Resource.Drawable.avd_hide_password_2 = global::Sample.Resource.Drawable.avd_hide_password_2;
-			global::DataTableView.Resource.Drawable.avd_hide_password_3 = global::Sample.Resource.Drawable.avd_hide_password_3;
-			global::DataTableView.Resource.Drawable.avd_show_password = global::Sample.Resource.Drawable.avd_show_password;
-			global::DataTableView.Resource.Drawable.avd_show_password_1 = global::Sample.Resource.Drawable.avd_show_password_1;
-			global::DataTableView.Resource.Drawable.avd_show_password_2 = global::Sample.Resource.Drawable.avd_show_password_2;
-			global::DataTableView.Resource.Drawable.avd_show_password_3 = global::Sample.Resource.Drawable.avd_show_password_3;
-			global::DataTableView.Resource.Drawable.design_bottom_navigation_item_background = global::Sample.Resource.Drawable.design_bottom_navigation_item_background;
-			global::DataTableView.Resource.Drawable.design_fab_background = global::Sample.Resource.Drawable.design_fab_background;
-			global::DataTableView.Resource.Drawable.design_ic_visibility = global::Sample.Resource.Drawable.design_ic_visibility;
-			global::DataTableView.Resource.Drawable.design_ic_visibility_off = global::Sample.Resource.Drawable.design_ic_visibility_off;
-			global::DataTableView.Resource.Drawable.design_password_eye = global::Sample.Resource.Drawable.design_password_eye;
-			global::DataTableView.Resource.Drawable.design_snackbar_background = global::Sample.Resource.Drawable.design_snackbar_background;
-			global::DataTableView.Resource.Drawable.fab_add = global::Sample.Resource.Drawable.fab_add;
-			global::DataTableView.Resource.Drawable.fab_label_background = global::Sample.Resource.Drawable.fab_label_background;
-			global::DataTableView.Resource.Drawable.horizontal_divider = global::Sample.Resource.Drawable.horizontal_divider;
-			global::DataTableView.Resource.Drawable.navigation_empty_icon = global::Sample.Resource.Drawable.navigation_empty_icon;
-			global::DataTableView.Resource.Drawable.notification_action_background = global::Sample.Resource.Drawable.notification_action_background;
-			global::DataTableView.Resource.Drawable.notification_bg = global::Sample.Resource.Drawable.notification_bg;
-			global::DataTableView.Resource.Drawable.notification_bg_low = global::Sample.Resource.Drawable.notification_bg_low;
-			global::DataTableView.Resource.Drawable.notification_bg_low_normal = global::Sample.Resource.Drawable.notification_bg_low_normal;
-			global::DataTableView.Resource.Drawable.notification_bg_low_pressed = global::Sample.Resource.Drawable.notification_bg_low_pressed;
-			global::DataTableView.Resource.Drawable.notification_bg_normal = global::Sample.Resource.Drawable.notification_bg_normal;
-			global::DataTableView.Resource.Drawable.notification_bg_normal_pressed = global::Sample.Resource.Drawable.notification_bg_normal_pressed;
-			global::DataTableView.Resource.Drawable.notification_icon_background = global::Sample.Resource.Drawable.notification_icon_background;
-			global::DataTableView.Resource.Drawable.notification_template_icon_bg = global::Sample.Resource.Drawable.notification_template_icon_bg;
-			global::DataTableView.Resource.Drawable.notification_template_icon_low_bg = global::Sample.Resource.Drawable.notification_template_icon_low_bg;
-			global::DataTableView.Resource.Drawable.notification_tile_bg = global::Sample.Resource.Drawable.notification_tile_bg;
-			global::DataTableView.Resource.Drawable.notify_panel_notification_icon_bg = global::Sample.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::DataTableView.Resource.Drawable.rounded_border_dark = global::Sample.Resource.Drawable.rounded_border_dark;
-			global::DataTableView.Resource.Drawable.tooltip_frame_dark = global::Sample.Resource.Drawable.tooltip_frame_dark;
-			global::DataTableView.Resource.Drawable.tooltip_frame_light = global::Sample.Resource.Drawable.tooltip_frame_light;
-			global::DataTableView.Resource.Drawable.vertical_divider = global::Sample.Resource.Drawable.vertical_divider;
-			global::DataTableView.Resource.Id.ALT = global::Sample.Resource.Id.ALT;
-			global::DataTableView.Resource.Id.CTRL = global::Sample.Resource.Id.CTRL;
-			global::DataTableView.Resource.Id.FUNCTION = global::Sample.Resource.Id.FUNCTION;
-			global::DataTableView.Resource.Id.META = global::Sample.Resource.Id.META;
-			global::DataTableView.Resource.Id.SHIFT = global::Sample.Resource.Id.SHIFT;
-			global::DataTableView.Resource.Id.SYM = global::Sample.Resource.Id.SYM;
-			global::DataTableView.Resource.Id.action0 = global::Sample.Resource.Id.action0;
-			global::DataTableView.Resource.Id.action_bar = global::Sample.Resource.Id.action_bar;
-			global::DataTableView.Resource.Id.action_bar_activity_content = global::Sample.Resource.Id.action_bar_activity_content;
-			global::DataTableView.Resource.Id.action_bar_container = global::Sample.Resource.Id.action_bar_container;
-			global::DataTableView.Resource.Id.action_bar_root = global::Sample.Resource.Id.action_bar_root;
-			global::DataTableView.Resource.Id.action_bar_spinner = global::Sample.Resource.Id.action_bar_spinner;
-			global::DataTableView.Resource.Id.action_bar_subtitle = global::Sample.Resource.Id.action_bar_subtitle;
-			global::DataTableView.Resource.Id.action_bar_title = global::Sample.Resource.Id.action_bar_title;
-			global::DataTableView.Resource.Id.action_container = global::Sample.Resource.Id.action_container;
-			global::DataTableView.Resource.Id.action_context_bar = global::Sample.Resource.Id.action_context_bar;
-			global::DataTableView.Resource.Id.action_divider = global::Sample.Resource.Id.action_divider;
-			global::DataTableView.Resource.Id.action_image = global::Sample.Resource.Id.action_image;
-			global::DataTableView.Resource.Id.action_menu_divider = global::Sample.Resource.Id.action_menu_divider;
-			global::DataTableView.Resource.Id.action_menu_presenter = global::Sample.Resource.Id.action_menu_presenter;
-			global::DataTableView.Resource.Id.action_mode_bar = global::Sample.Resource.Id.action_mode_bar;
-			global::DataTableView.Resource.Id.action_mode_bar_stub = global::Sample.Resource.Id.action_mode_bar_stub;
-			global::DataTableView.Resource.Id.action_mode_close_button = global::Sample.Resource.Id.action_mode_close_button;
-			global::DataTableView.Resource.Id.action_text = global::Sample.Resource.Id.action_text;
-			global::DataTableView.Resource.Id.actions = global::Sample.Resource.Id.actions;
-			global::DataTableView.Resource.Id.activity_chooser_view_content = global::Sample.Resource.Id.activity_chooser_view_content;
-			global::DataTableView.Resource.Id.add = global::Sample.Resource.Id.add;
-			global::DataTableView.Resource.Id.alertTitle = global::Sample.Resource.Id.alertTitle;
-			global::DataTableView.Resource.Id.all = global::Sample.Resource.Id.all;
-			global::DataTableView.Resource.Id.always = global::Sample.Resource.Id.always;
-			global::DataTableView.Resource.Id.async = global::Sample.Resource.Id.async;
-			global::DataTableView.Resource.Id.auto = global::Sample.Resource.Id.auto;
-			global::DataTableView.Resource.Id.beginning = global::Sample.Resource.Id.beginning;
-			global::DataTableView.Resource.Id.blocking = global::Sample.Resource.Id.blocking;
-			global::DataTableView.Resource.Id.bottom = global::Sample.Resource.Id.bottom;
-			global::DataTableView.Resource.Id.buttonPanel = global::Sample.Resource.Id.buttonPanel;
-			global::DataTableView.Resource.Id.cancel_action = global::Sample.Resource.Id.cancel_action;
-			global::DataTableView.Resource.Id.center = global::Sample.Resource.Id.center;
-			global::DataTableView.Resource.Id.center_horizontal = global::Sample.Resource.Id.center_horizontal;
-			global::DataTableView.Resource.Id.center_vertical = global::Sample.Resource.Id.center_vertical;
-			global::DataTableView.Resource.Id.checkbox = global::Sample.Resource.Id.checkbox;
-			global::DataTableView.Resource.Id.chronometer = global::Sample.Resource.Id.chronometer;
-			global::DataTableView.Resource.Id.clip_horizontal = global::Sample.Resource.Id.clip_horizontal;
-			global::DataTableView.Resource.Id.clip_vertical = global::Sample.Resource.Id.clip_vertical;
-			global::DataTableView.Resource.Id.collapseActionView = global::Sample.Resource.Id.collapseActionView;
-			global::DataTableView.Resource.Id.container = global::Sample.Resource.Id.container;
-			global::DataTableView.Resource.Id.contentPanel = global::Sample.Resource.Id.contentPanel;
-			global::DataTableView.Resource.Id.coordinator = global::Sample.Resource.Id.coordinator;
-			global::DataTableView.Resource.Id.custom = global::Sample.Resource.Id.custom;
-			global::DataTableView.Resource.Id.customPanel = global::Sample.Resource.Id.customPanel;
-			global::DataTableView.Resource.Id.decor_content_parent = global::Sample.Resource.Id.decor_content_parent;
-			global::DataTableView.Resource.Id.default_activity_button = global::Sample.Resource.Id.default_activity_button;
-			global::DataTableView.Resource.Id.design_bottom_sheet = global::Sample.Resource.Id.design_bottom_sheet;
-			global::DataTableView.Resource.Id.design_menu_item_action_area = global::Sample.Resource.Id.design_menu_item_action_area;
-			global::DataTableView.Resource.Id.design_menu_item_action_area_stub = global::Sample.Resource.Id.design_menu_item_action_area_stub;
-			global::DataTableView.Resource.Id.design_menu_item_text = global::Sample.Resource.Id.design_menu_item_text;
-			global::DataTableView.Resource.Id.design_navigation_view = global::Sample.Resource.Id.design_navigation_view;
-			global::DataTableView.Resource.Id.disableHome = global::Sample.Resource.Id.disableHome;
-			global::DataTableView.Resource.Id.edit_query = global::Sample.Resource.Id.edit_query;
-			global::DataTableView.Resource.Id.end = global::Sample.Resource.Id.end;
-			global::DataTableView.Resource.Id.end_padder = global::Sample.Resource.Id.end_padder;
-			global::DataTableView.Resource.Id.enterAlways = global::Sample.Resource.Id.enterAlways;
-			global::DataTableView.Resource.Id.enterAlwaysCollapsed = global::Sample.Resource.Id.enterAlwaysCollapsed;
-			global::DataTableView.Resource.Id.exitUntilCollapsed = global::Sample.Resource.Id.exitUntilCollapsed;
-			global::DataTableView.Resource.Id.expand_activities_button = global::Sample.Resource.Id.expand_activities_button;
-			global::DataTableView.Resource.Id.expanded_menu = global::Sample.Resource.Id.expanded_menu;
-			global::DataTableView.Resource.Id.fab_label = global::Sample.Resource.Id.fab_label;
-			global::DataTableView.Resource.Id.fill = global::Sample.Resource.Id.fill;
-			global::DataTableView.Resource.Id.fill_horizontal = global::Sample.Resource.Id.fill_horizontal;
-			global::DataTableView.Resource.Id.fill_vertical = global::Sample.Resource.Id.fill_vertical;
-			global::DataTableView.Resource.Id.@fixed = global::Sample.Resource.Id.@fixed;
-			global::DataTableView.Resource.Id.forever = global::Sample.Resource.Id.forever;
-			global::DataTableView.Resource.Id.ghost_view = global::Sample.Resource.Id.ghost_view;
-			global::DataTableView.Resource.Id.home = global::Sample.Resource.Id.home;
-			global::DataTableView.Resource.Id.homeAsUp = global::Sample.Resource.Id.homeAsUp;
-			global::DataTableView.Resource.Id.icon = global::Sample.Resource.Id.icon;
-			global::DataTableView.Resource.Id.icon_group = global::Sample.Resource.Id.icon_group;
-			global::DataTableView.Resource.Id.ifRoom = global::Sample.Resource.Id.ifRoom;
-			global::DataTableView.Resource.Id.image = global::Sample.Resource.Id.image;
-			global::DataTableView.Resource.Id.info = global::Sample.Resource.Id.info;
-			global::DataTableView.Resource.Id.italic = global::Sample.Resource.Id.italic;
-			global::DataTableView.Resource.Id.item_touch_helper_previous_elevation = global::Sample.Resource.Id.item_touch_helper_previous_elevation;
-			global::DataTableView.Resource.Id.largeLabel = global::Sample.Resource.Id.largeLabel;
-			global::DataTableView.Resource.Id.left = global::Sample.Resource.Id.left;
-			global::DataTableView.Resource.Id.line1 = global::Sample.Resource.Id.line1;
-			global::DataTableView.Resource.Id.line3 = global::Sample.Resource.Id.line3;
-			global::DataTableView.Resource.Id.listMode = global::Sample.Resource.Id.listMode;
-			global::DataTableView.Resource.Id.list_item = global::Sample.Resource.Id.list_item;
-			global::DataTableView.Resource.Id.masked = global::Sample.Resource.Id.masked;
-			global::DataTableView.Resource.Id.media_actions = global::Sample.Resource.Id.media_actions;
-			global::DataTableView.Resource.Id.message = global::Sample.Resource.Id.message;
-			global::DataTableView.Resource.Id.middle = global::Sample.Resource.Id.middle;
-			global::DataTableView.Resource.Id.mini = global::Sample.Resource.Id.mini;
-			global::DataTableView.Resource.Id.multiply = global::Sample.Resource.Id.multiply;
-			global::DataTableView.Resource.Id.navigation_header_container = global::Sample.Resource.Id.navigation_header_container;
-			global::DataTableView.Resource.Id.never = global::Sample.Resource.Id.never;
-			global::DataTableView.Resource.Id.none = global::Sample.Resource.Id.none;
-			global::DataTableView.Resource.Id.normal = global::Sample.Resource.Id.normal;
-			global::DataTableView.Resource.Id.notification_background = global::Sample.Resource.Id.notification_background;
-			global::DataTableView.Resource.Id.notification_main_column = global::Sample.Resource.Id.notification_main_column;
-			global::DataTableView.Resource.Id.notification_main_column_container = global::Sample.Resource.Id.notification_main_column_container;
-			global::DataTableView.Resource.Id.parallax = global::Sample.Resource.Id.parallax;
-			global::DataTableView.Resource.Id.parentPanel = global::Sample.Resource.Id.parentPanel;
-			global::DataTableView.Resource.Id.parent_matrix = global::Sample.Resource.Id.parent_matrix;
-			global::DataTableView.Resource.Id.pin = global::Sample.Resource.Id.pin;
-			global::DataTableView.Resource.Id.progress_circular = global::Sample.Resource.Id.progress_circular;
-			global::DataTableView.Resource.Id.progress_horizontal = global::Sample.Resource.Id.progress_horizontal;
-			global::DataTableView.Resource.Id.radio = global::Sample.Resource.Id.radio;
-			global::DataTableView.Resource.Id.right = global::Sample.Resource.Id.right;
-			global::DataTableView.Resource.Id.right_icon = global::Sample.Resource.Id.right_icon;
-			global::DataTableView.Resource.Id.right_side = global::Sample.Resource.Id.right_side;
-			global::DataTableView.Resource.Id.save_image_matrix = global::Sample.Resource.Id.save_image_matrix;
-			global::DataTableView.Resource.Id.save_non_transition_alpha = global::Sample.Resource.Id.save_non_transition_alpha;
-			global::DataTableView.Resource.Id.save_scale_type = global::Sample.Resource.Id.save_scale_type;
-			global::DataTableView.Resource.Id.screen = global::Sample.Resource.Id.screen;
-			global::DataTableView.Resource.Id.scroll = global::Sample.Resource.Id.scroll;
-			global::DataTableView.Resource.Id.scrollIndicatorDown = global::Sample.Resource.Id.scrollIndicatorDown;
-			global::DataTableView.Resource.Id.scrollIndicatorUp = global::Sample.Resource.Id.scrollIndicatorUp;
-			global::DataTableView.Resource.Id.scrollView = global::Sample.Resource.Id.scrollView;
-			global::DataTableView.Resource.Id.scrollable = global::Sample.Resource.Id.scrollable;
-			global::DataTableView.Resource.Id.search_badge = global::Sample.Resource.Id.search_badge;
-			global::DataTableView.Resource.Id.search_bar = global::Sample.Resource.Id.search_bar;
-			global::DataTableView.Resource.Id.search_button = global::Sample.Resource.Id.search_button;
-			global::DataTableView.Resource.Id.search_close_btn = global::Sample.Resource.Id.search_close_btn;
-			global::DataTableView.Resource.Id.search_edit_frame = global::Sample.Resource.Id.search_edit_frame;
-			global::DataTableView.Resource.Id.search_go_btn = global::Sample.Resource.Id.search_go_btn;
-			global::DataTableView.Resource.Id.search_mag_icon = global::Sample.Resource.Id.search_mag_icon;
-			global::DataTableView.Resource.Id.search_plate = global::Sample.Resource.Id.search_plate;
-			global::DataTableView.Resource.Id.search_src_text = global::Sample.Resource.Id.search_src_text;
-			global::DataTableView.Resource.Id.search_voice_btn = global::Sample.Resource.Id.search_voice_btn;
-			global::DataTableView.Resource.Id.select_dialog_listview = global::Sample.Resource.Id.select_dialog_listview;
-			global::DataTableView.Resource.Id.shortcut = global::Sample.Resource.Id.shortcut;
-			global::DataTableView.Resource.Id.showCustom = global::Sample.Resource.Id.showCustom;
-			global::DataTableView.Resource.Id.showHome = global::Sample.Resource.Id.showHome;
-			global::DataTableView.Resource.Id.showTitle = global::Sample.Resource.Id.showTitle;
-			global::DataTableView.Resource.Id.smallLabel = global::Sample.Resource.Id.smallLabel;
-			global::DataTableView.Resource.Id.snackbar_action = global::Sample.Resource.Id.snackbar_action;
-			global::DataTableView.Resource.Id.snackbar_text = global::Sample.Resource.Id.snackbar_text;
-			global::DataTableView.Resource.Id.snap = global::Sample.Resource.Id.snap;
-			global::DataTableView.Resource.Id.spacer = global::Sample.Resource.Id.spacer;
-			global::DataTableView.Resource.Id.split_action_bar = global::Sample.Resource.Id.split_action_bar;
-			global::DataTableView.Resource.Id.src_atop = global::Sample.Resource.Id.src_atop;
-			global::DataTableView.Resource.Id.src_in = global::Sample.Resource.Id.src_in;
-			global::DataTableView.Resource.Id.src_over = global::Sample.Resource.Id.src_over;
-			global::DataTableView.Resource.Id.start = global::Sample.Resource.Id.start;
-			global::DataTableView.Resource.Id.status_bar_latest_event_content = global::Sample.Resource.Id.status_bar_latest_event_content;
-			global::DataTableView.Resource.Id.submenuarrow = global::Sample.Resource.Id.submenuarrow;
-			global::DataTableView.Resource.Id.submit_area = global::Sample.Resource.Id.submit_area;
-			global::DataTableView.Resource.Id.tabMode = global::Sample.Resource.Id.tabMode;
-			global::DataTableView.Resource.Id.text = global::Sample.Resource.Id.text;
-			global::DataTableView.Resource.Id.text2 = global::Sample.Resource.Id.text2;
-			global::DataTableView.Resource.Id.textSpacerNoButtons = global::Sample.Resource.Id.textSpacerNoButtons;
-			global::DataTableView.Resource.Id.textSpacerNoTitle = global::Sample.Resource.Id.textSpacerNoTitle;
-			global::DataTableView.Resource.Id.text_input_password_toggle = global::Sample.Resource.Id.text_input_password_toggle;
-			global::DataTableView.Resource.Id.textinput_counter = global::Sample.Resource.Id.textinput_counter;
-			global::DataTableView.Resource.Id.textinput_error = global::Sample.Resource.Id.textinput_error;
-			global::DataTableView.Resource.Id.time = global::Sample.Resource.Id.time;
-			global::DataTableView.Resource.Id.title = global::Sample.Resource.Id.title;
-			global::DataTableView.Resource.Id.titleDividerNoCustom = global::Sample.Resource.Id.titleDividerNoCustom;
-			global::DataTableView.Resource.Id.title_template = global::Sample.Resource.Id.title_template;
-			global::DataTableView.Resource.Id.top = global::Sample.Resource.Id.top;
-			global::DataTableView.Resource.Id.topPanel = global::Sample.Resource.Id.topPanel;
-			global::DataTableView.Resource.Id.touch_outside = global::Sample.Resource.Id.touch_outside;
-			global::DataTableView.Resource.Id.transition_current_scene = global::Sample.Resource.Id.transition_current_scene;
-			global::DataTableView.Resource.Id.transition_layout_save = global::Sample.Resource.Id.transition_layout_save;
-			global::DataTableView.Resource.Id.transition_position = global::Sample.Resource.Id.transition_position;
-			global::DataTableView.Resource.Id.transition_scene_layoutid_cache = global::Sample.Resource.Id.transition_scene_layoutid_cache;
-			global::DataTableView.Resource.Id.transition_transform = global::Sample.Resource.Id.transition_transform;
-			global::DataTableView.Resource.Id.uniform = global::Sample.Resource.Id.uniform;
-			global::DataTableView.Resource.Id.up = global::Sample.Resource.Id.up;
-			global::DataTableView.Resource.Id.useLogo = global::Sample.Resource.Id.useLogo;
-			global::DataTableView.Resource.Id.view_offset_helper = global::Sample.Resource.Id.view_offset_helper;
-			global::DataTableView.Resource.Id.visible = global::Sample.Resource.Id.visible;
-			global::DataTableView.Resource.Id.withText = global::Sample.Resource.Id.withText;
-			global::DataTableView.Resource.Id.wrap_content = global::Sample.Resource.Id.wrap_content;
-			global::DataTableView.Resource.Integer.abc_config_activityDefaultDur = global::Sample.Resource.Integer.abc_config_activityDefaultDur;
-			global::DataTableView.Resource.Integer.abc_config_activityShortDur = global::Sample.Resource.Integer.abc_config_activityShortDur;
-			global::DataTableView.Resource.Integer.app_bar_elevation_anim_duration = global::Sample.Resource.Integer.app_bar_elevation_anim_duration;
-			global::DataTableView.Resource.Integer.bottom_sheet_slide_duration = global::Sample.Resource.Integer.bottom_sheet_slide_duration;
-			global::DataTableView.Resource.Integer.cancel_button_image_alpha = global::Sample.Resource.Integer.cancel_button_image_alpha;
-			global::DataTableView.Resource.Integer.config_tooltipAnimTime = global::Sample.Resource.Integer.config_tooltipAnimTime;
-			global::DataTableView.Resource.Integer.design_snackbar_text_max_lines = global::Sample.Resource.Integer.design_snackbar_text_max_lines;
-			global::DataTableView.Resource.Integer.hide_password_duration = global::Sample.Resource.Integer.hide_password_duration;
-			global::DataTableView.Resource.Integer.show_password_duration = global::Sample.Resource.Integer.show_password_duration;
-			global::DataTableView.Resource.Integer.status_bar_notification_info_maxnum = global::Sample.Resource.Integer.status_bar_notification_info_maxnum;
-			global::DataTableView.Resource.Layout.abc_action_bar_title_item = global::Sample.Resource.Layout.abc_action_bar_title_item;
-			global::DataTableView.Resource.Layout.abc_action_bar_up_container = global::Sample.Resource.Layout.abc_action_bar_up_container;
-			global::DataTableView.Resource.Layout.abc_action_bar_view_list_nav_layout = global::Sample.Resource.Layout.abc_action_bar_view_list_nav_layout;
-			global::DataTableView.Resource.Layout.abc_action_menu_item_layout = global::Sample.Resource.Layout.abc_action_menu_item_layout;
-			global::DataTableView.Resource.Layout.abc_action_menu_layout = global::Sample.Resource.Layout.abc_action_menu_layout;
-			global::DataTableView.Resource.Layout.abc_action_mode_bar = global::Sample.Resource.Layout.abc_action_mode_bar;
-			global::DataTableView.Resource.Layout.abc_action_mode_close_item_material = global::Sample.Resource.Layout.abc_action_mode_close_item_material;
-			global::DataTableView.Resource.Layout.abc_activity_chooser_view = global::Sample.Resource.Layout.abc_activity_chooser_view;
-			global::DataTableView.Resource.Layout.abc_activity_chooser_view_list_item = global::Sample.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::DataTableView.Resource.Layout.abc_alert_dialog_button_bar_material = global::Sample.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::DataTableView.Resource.Layout.abc_alert_dialog_material = global::Sample.Resource.Layout.abc_alert_dialog_material;
-			global::DataTableView.Resource.Layout.abc_alert_dialog_title_material = global::Sample.Resource.Layout.abc_alert_dialog_title_material;
-			global::DataTableView.Resource.Layout.abc_dialog_title_material = global::Sample.Resource.Layout.abc_dialog_title_material;
-			global::DataTableView.Resource.Layout.abc_expanded_menu_layout = global::Sample.Resource.Layout.abc_expanded_menu_layout;
-			global::DataTableView.Resource.Layout.abc_list_menu_item_checkbox = global::Sample.Resource.Layout.abc_list_menu_item_checkbox;
-			global::DataTableView.Resource.Layout.abc_list_menu_item_icon = global::Sample.Resource.Layout.abc_list_menu_item_icon;
-			global::DataTableView.Resource.Layout.abc_list_menu_item_layout = global::Sample.Resource.Layout.abc_list_menu_item_layout;
-			global::DataTableView.Resource.Layout.abc_list_menu_item_radio = global::Sample.Resource.Layout.abc_list_menu_item_radio;
-			global::DataTableView.Resource.Layout.abc_popup_menu_header_item_layout = global::Sample.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::DataTableView.Resource.Layout.abc_popup_menu_item_layout = global::Sample.Resource.Layout.abc_popup_menu_item_layout;
-			global::DataTableView.Resource.Layout.abc_screen_content_include = global::Sample.Resource.Layout.abc_screen_content_include;
-			global::DataTableView.Resource.Layout.abc_screen_simple = global::Sample.Resource.Layout.abc_screen_simple;
-			global::DataTableView.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Sample.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::DataTableView.Resource.Layout.abc_screen_toolbar = global::Sample.Resource.Layout.abc_screen_toolbar;
-			global::DataTableView.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Sample.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::DataTableView.Resource.Layout.abc_search_view = global::Sample.Resource.Layout.abc_search_view;
-			global::DataTableView.Resource.Layout.abc_select_dialog_material = global::Sample.Resource.Layout.abc_select_dialog_material;
-			global::DataTableView.Resource.Layout.design_bottom_navigation_item = global::Sample.Resource.Layout.design_bottom_navigation_item;
-			global::DataTableView.Resource.Layout.design_bottom_sheet_dialog = global::Sample.Resource.Layout.design_bottom_sheet_dialog;
-			global::DataTableView.Resource.Layout.design_layout_snackbar = global::Sample.Resource.Layout.design_layout_snackbar;
-			global::DataTableView.Resource.Layout.design_layout_snackbar_include = global::Sample.Resource.Layout.design_layout_snackbar_include;
-			global::DataTableView.Resource.Layout.design_layout_tab_icon = global::Sample.Resource.Layout.design_layout_tab_icon;
-			global::DataTableView.Resource.Layout.design_layout_tab_text = global::Sample.Resource.Layout.design_layout_tab_text;
-			global::DataTableView.Resource.Layout.design_menu_item_action_area = global::Sample.Resource.Layout.design_menu_item_action_area;
-			global::DataTableView.Resource.Layout.design_navigation_item = global::Sample.Resource.Layout.design_navigation_item;
-			global::DataTableView.Resource.Layout.design_navigation_item_header = global::Sample.Resource.Layout.design_navigation_item_header;
-			global::DataTableView.Resource.Layout.design_navigation_item_separator = global::Sample.Resource.Layout.design_navigation_item_separator;
-			global::DataTableView.Resource.Layout.design_navigation_item_subheader = global::Sample.Resource.Layout.design_navigation_item_subheader;
-			global::DataTableView.Resource.Layout.design_navigation_menu = global::Sample.Resource.Layout.design_navigation_menu;
-			global::DataTableView.Resource.Layout.design_navigation_menu_item = global::Sample.Resource.Layout.design_navigation_menu_item;
-			global::DataTableView.Resource.Layout.design_text_input_password_icon = global::Sample.Resource.Layout.design_text_input_password_icon;
-			global::DataTableView.Resource.Layout.notification_action = global::Sample.Resource.Layout.notification_action;
-			global::DataTableView.Resource.Layout.notification_action_tombstone = global::Sample.Resource.Layout.notification_action_tombstone;
-			global::DataTableView.Resource.Layout.notification_media_action = global::Sample.Resource.Layout.notification_media_action;
-			global::DataTableView.Resource.Layout.notification_media_cancel_action = global::Sample.Resource.Layout.notification_media_cancel_action;
-			global::DataTableView.Resource.Layout.notification_template_big_media = global::Sample.Resource.Layout.notification_template_big_media;
-			global::DataTableView.Resource.Layout.notification_template_big_media_custom = global::Sample.Resource.Layout.notification_template_big_media_custom;
-			global::DataTableView.Resource.Layout.notification_template_big_media_narrow = global::Sample.Resource.Layout.notification_template_big_media_narrow;
-			global::DataTableView.Resource.Layout.notification_template_big_media_narrow_custom = global::Sample.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::DataTableView.Resource.Layout.notification_template_custom_big = global::Sample.Resource.Layout.notification_template_custom_big;
-			global::DataTableView.Resource.Layout.notification_template_icon_group = global::Sample.Resource.Layout.notification_template_icon_group;
-			global::DataTableView.Resource.Layout.notification_template_lines_media = global::Sample.Resource.Layout.notification_template_lines_media;
-			global::DataTableView.Resource.Layout.notification_template_media = global::Sample.Resource.Layout.notification_template_media;
-			global::DataTableView.Resource.Layout.notification_template_media_custom = global::Sample.Resource.Layout.notification_template_media_custom;
-			global::DataTableView.Resource.Layout.notification_template_part_chronometer = global::Sample.Resource.Layout.notification_template_part_chronometer;
-			global::DataTableView.Resource.Layout.notification_template_part_time = global::Sample.Resource.Layout.notification_template_part_time;
-			global::DataTableView.Resource.Layout.select_dialog_item_material = global::Sample.Resource.Layout.select_dialog_item_material;
-			global::DataTableView.Resource.Layout.select_dialog_multichoice_material = global::Sample.Resource.Layout.select_dialog_multichoice_material;
-			global::DataTableView.Resource.Layout.select_dialog_singlechoice_material = global::Sample.Resource.Layout.select_dialog_singlechoice_material;
-			global::DataTableView.Resource.Layout.support_simple_spinner_dropdown_item = global::Sample.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::DataTableView.Resource.Layout.tooltip = global::Sample.Resource.Layout.tooltip;
-			global::DataTableView.Resource.String.abc_action_bar_home_description = global::Sample.Resource.String.abc_action_bar_home_description;
-			global::DataTableView.Resource.String.abc_action_bar_home_description_format = global::Sample.Resource.String.abc_action_bar_home_description_format;
-			global::DataTableView.Resource.String.abc_action_bar_home_subtitle_description_format = global::Sample.Resource.String.abc_action_bar_home_subtitle_description_format;
-			global::DataTableView.Resource.String.abc_action_bar_up_description = global::Sample.Resource.String.abc_action_bar_up_description;
-			global::DataTableView.Resource.String.abc_action_menu_overflow_description = global::Sample.Resource.String.abc_action_menu_overflow_description;
-			global::DataTableView.Resource.String.abc_action_mode_done = global::Sample.Resource.String.abc_action_mode_done;
-			global::DataTableView.Resource.String.abc_activity_chooser_view_see_all = global::Sample.Resource.String.abc_activity_chooser_view_see_all;
-			global::DataTableView.Resource.String.abc_activitychooserview_choose_application = global::Sample.Resource.String.abc_activitychooserview_choose_application;
-			global::DataTableView.Resource.String.abc_capital_off = global::Sample.Resource.String.abc_capital_off;
-			global::DataTableView.Resource.String.abc_capital_on = global::Sample.Resource.String.abc_capital_on;
-			global::DataTableView.Resource.String.abc_font_family_body_1_material = global::Sample.Resource.String.abc_font_family_body_1_material;
-			global::DataTableView.Resource.String.abc_font_family_body_2_material = global::Sample.Resource.String.abc_font_family_body_2_material;
-			global::DataTableView.Resource.String.abc_font_family_button_material = global::Sample.Resource.String.abc_font_family_button_material;
-			global::DataTableView.Resource.String.abc_font_family_caption_material = global::Sample.Resource.String.abc_font_family_caption_material;
-			global::DataTableView.Resource.String.abc_font_family_display_1_material = global::Sample.Resource.String.abc_font_family_display_1_material;
-			global::DataTableView.Resource.String.abc_font_family_display_2_material = global::Sample.Resource.String.abc_font_family_display_2_material;
-			global::DataTableView.Resource.String.abc_font_family_display_3_material = global::Sample.Resource.String.abc_font_family_display_3_material;
-			global::DataTableView.Resource.String.abc_font_family_display_4_material = global::Sample.Resource.String.abc_font_family_display_4_material;
-			global::DataTableView.Resource.String.abc_font_family_headline_material = global::Sample.Resource.String.abc_font_family_headline_material;
-			global::DataTableView.Resource.String.abc_font_family_menu_material = global::Sample.Resource.String.abc_font_family_menu_material;
-			global::DataTableView.Resource.String.abc_font_family_subhead_material = global::Sample.Resource.String.abc_font_family_subhead_material;
-			global::DataTableView.Resource.String.abc_font_family_title_material = global::Sample.Resource.String.abc_font_family_title_material;
-			global::DataTableView.Resource.String.abc_search_hint = global::Sample.Resource.String.abc_search_hint;
-			global::DataTableView.Resource.String.abc_searchview_description_clear = global::Sample.Resource.String.abc_searchview_description_clear;
-			global::DataTableView.Resource.String.abc_searchview_description_query = global::Sample.Resource.String.abc_searchview_description_query;
-			global::DataTableView.Resource.String.abc_searchview_description_search = global::Sample.Resource.String.abc_searchview_description_search;
-			global::DataTableView.Resource.String.abc_searchview_description_submit = global::Sample.Resource.String.abc_searchview_description_submit;
-			global::DataTableView.Resource.String.abc_searchview_description_voice = global::Sample.Resource.String.abc_searchview_description_voice;
-			global::DataTableView.Resource.String.abc_shareactionprovider_share_with = global::Sample.Resource.String.abc_shareactionprovider_share_with;
-			global::DataTableView.Resource.String.abc_shareactionprovider_share_with_application = global::Sample.Resource.String.abc_shareactionprovider_share_with_application;
-			global::DataTableView.Resource.String.abc_toolbar_collapse_description = global::Sample.Resource.String.abc_toolbar_collapse_description;
-			global::DataTableView.Resource.String.app_name = global::Sample.Resource.String.app_name;
-			global::DataTableView.Resource.String.appbar_scrolling_view_behavior = global::Sample.Resource.String.appbar_scrolling_view_behavior;
-			global::DataTableView.Resource.String.bottom_sheet_behavior = global::Sample.Resource.String.bottom_sheet_behavior;
-			global::DataTableView.Resource.String.character_counter_pattern = global::Sample.Resource.String.character_counter_pattern;
-			global::DataTableView.Resource.String.password_toggle_content_description = global::Sample.Resource.String.password_toggle_content_description;
-			global::DataTableView.Resource.String.path_password_eye = global::Sample.Resource.String.path_password_eye;
-			global::DataTableView.Resource.String.path_password_eye_mask_strike_through = global::Sample.Resource.String.path_password_eye_mask_strike_through;
-			global::DataTableView.Resource.String.path_password_eye_mask_visible = global::Sample.Resource.String.path_password_eye_mask_visible;
-			global::DataTableView.Resource.String.path_password_strike_through = global::Sample.Resource.String.path_password_strike_through;
-			global::DataTableView.Resource.String.search_menu_title = global::Sample.Resource.String.search_menu_title;
-			global::DataTableView.Resource.String.status_bar_notification_info_overflow = global::Sample.Resource.String.status_bar_notification_info_overflow;
-			global::DataTableView.Resource.Style.AlertDialog_AppCompat = global::Sample.Resource.Style.AlertDialog_AppCompat;
-			global::DataTableView.Resource.Style.AlertDialog_AppCompat_Light = global::Sample.Resource.Style.AlertDialog_AppCompat_Light;
-			global::DataTableView.Resource.Style.AlertsDialogTheme = global::Sample.Resource.Style.AlertsDialogTheme;
-			global::DataTableView.Resource.Style.Animation_AppCompat_Dialog = global::Sample.Resource.Style.Animation_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Animation_AppCompat_DropDownUp = global::Sample.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::DataTableView.Resource.Style.Animation_AppCompat_Tooltip = global::Sample.Resource.Style.Animation_AppCompat_Tooltip;
-			global::DataTableView.Resource.Style.Animation_Design_BottomSheetDialog = global::Sample.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::DataTableView.Resource.Style.AppTheme = global::Sample.Resource.Style.AppTheme;
-			global::DataTableView.Resource.Style.AppTheme_Dark_Dialog = global::Sample.Resource.Style.AppTheme_Dark_Dialog;
-			global::DataTableView.Resource.Style.BackupTheme = global::Sample.Resource.Style.BackupTheme;
-			global::DataTableView.Resource.Style.Base_AlertDialog_AppCompat = global::Sample.Resource.Style.Base_AlertDialog_AppCompat;
-			global::DataTableView.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Sample.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::DataTableView.Resource.Style.Base_Animation_AppCompat_Dialog = global::Sample.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Sample.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::DataTableView.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Sample.Resource.Style.Base_Animation_AppCompat_Tooltip;
-			global::DataTableView.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Sample.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::DataTableView.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Sample.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat = global::Sample.Resource.Style.Base_TextAppearance_AppCompat;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::DataTableView.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::DataTableView.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::DataTableView.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::DataTableView.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat = global::Sample.Resource.Style.Base_Theme_AppCompat;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Sample.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Sample.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_Theme_AppCompat_Light;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::DataTableView.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::DataTableView.Resource.Style.Base_ThemeOverlay_AppCompat = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::DataTableView.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::DataTableView.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::DataTableView.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::DataTableView.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::DataTableView.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::DataTableView.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::DataTableView.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::DataTableView.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::DataTableView.Resource.Style.Base_V14_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V14_Widget_Design_AppBarLayout;
-			global::DataTableView.Resource.Style.Base_V21_Theme_AppCompat = global::Sample.Resource.Style.Base_V21_Theme_AppCompat;
-			global::DataTableView.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::DataTableView.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::DataTableView.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Base_V21_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V21_Widget_Design_AppBarLayout;
-			global::DataTableView.Resource.Style.Base_V22_Theme_AppCompat = global::Sample.Resource.Style.Base_V22_Theme_AppCompat;
-			global::DataTableView.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::DataTableView.Resource.Style.Base_V23_Theme_AppCompat = global::Sample.Resource.Style.Base_V23_Theme_AppCompat;
-			global::DataTableView.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::DataTableView.Resource.Style.Base_V26_Theme_AppCompat = global::Sample.Resource.Style.Base_V26_Theme_AppCompat;
-			global::DataTableView.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V26_Theme_AppCompat_Light;
-			global::DataTableView.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
-			global::DataTableView.Resource.Style.Base_V26_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V26_Widget_Design_AppBarLayout;
-			global::DataTableView.Resource.Style.Base_V7_Theme_AppCompat = global::Sample.Resource.Style.Base_V7_Theme_AppCompat;
-			global::DataTableView.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::DataTableView.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::DataTableView.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::DataTableView.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::DataTableView.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Sample.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Button = global::Sample.Resource.Style.Base_Widget_AppCompat_Button;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Sample.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Sample.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Sample.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Sample.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Sample.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Sample.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ListView = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_SearchView = global::Sample.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Sample.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Sample.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Spinner = global::Sample.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Sample.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Sample.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::DataTableView.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::DataTableView.Resource.Style.Base_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_Widget_Design_AppBarLayout;
-			global::DataTableView.Resource.Style.Base_Widget_Design_TabLayout = global::Sample.Resource.Style.Base_Widget_Design_TabLayout;
-			global::DataTableView.Resource.Style.Platform_AppCompat = global::Sample.Resource.Style.Platform_AppCompat;
-			global::DataTableView.Resource.Style.Platform_AppCompat_Light = global::Sample.Resource.Style.Platform_AppCompat_Light;
-			global::DataTableView.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::DataTableView.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::DataTableView.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::DataTableView.Resource.Style.Platform_V11_AppCompat = global::Sample.Resource.Style.Platform_V11_AppCompat;
-			global::DataTableView.Resource.Style.Platform_V11_AppCompat_Light = global::Sample.Resource.Style.Platform_V11_AppCompat_Light;
-			global::DataTableView.Resource.Style.Platform_V14_AppCompat = global::Sample.Resource.Style.Platform_V14_AppCompat;
-			global::DataTableView.Resource.Style.Platform_V14_AppCompat_Light = global::Sample.Resource.Style.Platform_V14_AppCompat_Light;
-			global::DataTableView.Resource.Style.Platform_V21_AppCompat = global::Sample.Resource.Style.Platform_V21_AppCompat;
-			global::DataTableView.Resource.Style.Platform_V21_AppCompat_Light = global::Sample.Resource.Style.Platform_V21_AppCompat_Light;
-			global::DataTableView.Resource.Style.Platform_V25_AppCompat = global::Sample.Resource.Style.Platform_V25_AppCompat;
-			global::DataTableView.Resource.Style.Platform_V25_AppCompat_Light = global::Sample.Resource.Style.Platform_V25_AppCompat_Light;
-			global::DataTableView.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Sample.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::DataTableView.Resource.Style.PrefsTheme = global::Sample.Resource.Style.PrefsTheme;
-			global::DataTableView.Resource.Style.ProgressDialogTheme = global::Sample.Resource.Style.ProgressDialogTheme;
-			global::DataTableView.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Sample.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::DataTableView.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::DataTableView.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Sample.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::DataTableView.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat = global::Sample.Resource.Style.TextAppearance_AppCompat;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Body1 = global::Sample.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Body2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Button = global::Sample.Resource.Style.TextAppearance_AppCompat_Button;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Caption = global::Sample.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Display1 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Display2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Display3 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Display4 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Headline = global::Sample.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Large;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Medium = global::Sample.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Menu = global::Sample.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification_Info = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Info;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification_Line2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Line2;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Media;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification_Time = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Time;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Title;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Small;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Subhead = global::Sample.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Title;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Sample.Resource.Style.TextAppearance_AppCompat_Tooltip;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::DataTableView.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification = global::Sample.Resource.Style.TextAppearance_Compat_Notification;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification_Info = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Info;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Line2;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Media;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification_Time = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Time;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification_Title = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Title;
-			global::DataTableView.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
-			global::DataTableView.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Sample.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::DataTableView.Resource.Style.TextAppearance_Design_Counter = global::Sample.Resource.Style.TextAppearance_Design_Counter;
-			global::DataTableView.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Sample.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::DataTableView.Resource.Style.TextAppearance_Design_Error = global::Sample.Resource.Style.TextAppearance_Design_Error;
-			global::DataTableView.Resource.Style.TextAppearance_Design_Hint = global::Sample.Resource.Style.TextAppearance_Design_Hint;
-			global::DataTableView.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Sample.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::DataTableView.Resource.Style.TextAppearance_Design_Tab = global::Sample.Resource.Style.TextAppearance_Design_Tab;
-			global::DataTableView.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::DataTableView.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::DataTableView.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::DataTableView.Resource.Style.Theme_AppCompat = global::Sample.Resource.Style.Theme_AppCompat;
-			global::DataTableView.Resource.Style.Theme_AppCompat_CompactMenu = global::Sample.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::DataTableView.Resource.Style.Theme_AppCompat_DayNight = global::Sample.Resource.Style.Theme_AppCompat_DayNight;
-			global::DataTableView.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Sample.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::DataTableView.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::DataTableView.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::DataTableView.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::DataTableView.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::DataTableView.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Dialog = global::Sample.Resource.Style.Theme_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::DataTableView.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Light = global::Sample.Resource.Style.Theme_AppCompat_Light;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Sample.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::DataTableView.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::DataTableView.Resource.Style.Theme_AppCompat_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::DataTableView.Resource.Style.Theme_Design = global::Sample.Resource.Style.Theme_Design;
-			global::DataTableView.Resource.Style.Theme_Design_BottomSheetDialog = global::Sample.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::DataTableView.Resource.Style.Theme_Design_Light = global::Sample.Resource.Style.Theme_Design_Light;
-			global::DataTableView.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Sample.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::DataTableView.Resource.Style.Theme_Design_Light_NoActionBar = global::Sample.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::DataTableView.Resource.Style.Theme_Design_NoActionBar = global::Sample.Resource.Style.Theme_Design_NoActionBar;
-			global::DataTableView.Resource.Style.ThemeOverlay_AppCompat = global::Sample.Resource.Style.ThemeOverlay_AppCompat;
-			global::DataTableView.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Sample.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::DataTableView.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::DataTableView.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::DataTableView.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::DataTableView.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::DataTableView.Resource.Style.ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_ActionBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActionButton = global::Sample.Resource.Style.Widget_AppCompat_ActionButton;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Sample.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActionMode = global::Sample.Resource.Style.Widget_AppCompat_ActionMode;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Sample.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Button = global::Sample.Resource.Style.Widget_AppCompat_Button;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Button_Borderless = global::Sample.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Sample.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Button_Colored = global::Sample.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Button_Small = global::Sample.Resource.Style.Widget_AppCompat_Button_Small;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ButtonBar = global::Sample.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::DataTableView.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::DataTableView.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::DataTableView.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::DataTableView.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Sample.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::DataTableView.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Sample.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::DataTableView.Resource.Style.Widget_AppCompat_EditText = global::Sample.Resource.Style.Widget_AppCompat_EditText;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ImageButton = global::Sample.Resource.Style.Widget_AppCompat_ImageButton;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Sample.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Sample.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Sample.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Sample.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Sample.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Sample.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_SearchView = global::Sample.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ListMenuView = global::Sample.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Sample.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ListView = global::Sample.Resource.Style.Widget_AppCompat_ListView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Sample.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ListView_Menu = global::Sample.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::DataTableView.Resource.Style.Widget_AppCompat_PopupMenu = global::Sample.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::DataTableView.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Sample.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::DataTableView.Resource.Style.Widget_AppCompat_PopupWindow = global::Sample.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ProgressBar = global::Sample.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::DataTableView.Resource.Style.Widget_AppCompat_RatingBar = global::Sample.Resource.Style.Widget_AppCompat_RatingBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Sample.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::DataTableView.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Sample.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::DataTableView.Resource.Style.Widget_AppCompat_SearchView = global::Sample.Resource.Style.Widget_AppCompat_SearchView;
-			global::DataTableView.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_SeekBar = global::Sample.Resource.Style.Widget_AppCompat_SeekBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Sample.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Spinner = global::Sample.Resource.Style.Widget_AppCompat_Spinner;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Sample.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Sample.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::DataTableView.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Sample.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Widget_AppCompat_Toolbar;
-			global::DataTableView.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::DataTableView.Resource.Style.Widget_Compat_NotificationActionContainer = global::Sample.Resource.Style.Widget_Compat_NotificationActionContainer;
-			global::DataTableView.Resource.Style.Widget_Compat_NotificationActionText = global::Sample.Resource.Style.Widget_Compat_NotificationActionText;
-			global::DataTableView.Resource.Style.Widget_Design_AppBarLayout = global::Sample.Resource.Style.Widget_Design_AppBarLayout;
-			global::DataTableView.Resource.Style.Widget_Design_BottomNavigationView = global::Sample.Resource.Style.Widget_Design_BottomNavigationView;
-			global::DataTableView.Resource.Style.Widget_Design_BottomSheet_Modal = global::Sample.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::DataTableView.Resource.Style.Widget_Design_CollapsingToolbar = global::Sample.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::DataTableView.Resource.Style.Widget_Design_CoordinatorLayout = global::Sample.Resource.Style.Widget_Design_CoordinatorLayout;
-			global::DataTableView.Resource.Style.Widget_Design_FloatingActionButton = global::Sample.Resource.Style.Widget_Design_FloatingActionButton;
-			global::DataTableView.Resource.Style.Widget_Design_NavigationView = global::Sample.Resource.Style.Widget_Design_NavigationView;
-			global::DataTableView.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Sample.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::DataTableView.Resource.Style.Widget_Design_Snackbar = global::Sample.Resource.Style.Widget_Design_Snackbar;
-			global::DataTableView.Resource.Style.Widget_Design_TabLayout = global::Sample.Resource.Style.Widget_Design_TabLayout;
-			global::DataTableView.Resource.Style.Widget_Design_TextInputLayout = global::Sample.Resource.Style.Widget_Design_TextInputLayout;
-			global::DataTableView.Resource.Style.dialogPrefs = global::Sample.Resource.Style.dialogPrefs;
-			global::DataTableView.Resource.Style.editTextPrefs = global::Sample.Resource.Style.editTextPrefs;
-			global::DataTableView.Resource.Style.listViewPrefs = global::Sample.Resource.Style.listViewPrefs;
-			global::DataTableView.Resource.Styleable.ActionBar = global::Sample.Resource.Styleable.ActionBar;
-			global::DataTableView.Resource.Styleable.ActionBar_background = global::Sample.Resource.Styleable.ActionBar_background;
-			global::DataTableView.Resource.Styleable.ActionBar_backgroundSplit = global::Sample.Resource.Styleable.ActionBar_backgroundSplit;
-			global::DataTableView.Resource.Styleable.ActionBar_backgroundStacked = global::Sample.Resource.Styleable.ActionBar_backgroundStacked;
-			global::DataTableView.Resource.Styleable.ActionBar_contentInsetEnd = global::Sample.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::DataTableView.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Sample.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::DataTableView.Resource.Styleable.ActionBar_contentInsetLeft = global::Sample.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::DataTableView.Resource.Styleable.ActionBar_contentInsetRight = global::Sample.Resource.Styleable.ActionBar_contentInsetRight;
-			global::DataTableView.Resource.Styleable.ActionBar_contentInsetStart = global::Sample.Resource.Styleable.ActionBar_contentInsetStart;
-			global::DataTableView.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Sample.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::DataTableView.Resource.Styleable.ActionBar_customNavigationLayout = global::Sample.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::DataTableView.Resource.Styleable.ActionBar_displayOptions = global::Sample.Resource.Styleable.ActionBar_displayOptions;
-			global::DataTableView.Resource.Styleable.ActionBar_divider = global::Sample.Resource.Styleable.ActionBar_divider;
-			global::DataTableView.Resource.Styleable.ActionBar_elevation = global::Sample.Resource.Styleable.ActionBar_elevation;
-			global::DataTableView.Resource.Styleable.ActionBar_height = global::Sample.Resource.Styleable.ActionBar_height;
-			global::DataTableView.Resource.Styleable.ActionBar_hideOnContentScroll = global::Sample.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::DataTableView.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Sample.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::DataTableView.Resource.Styleable.ActionBar_homeLayout = global::Sample.Resource.Styleable.ActionBar_homeLayout;
-			global::DataTableView.Resource.Styleable.ActionBar_icon = global::Sample.Resource.Styleable.ActionBar_icon;
-			global::DataTableView.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Sample.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::DataTableView.Resource.Styleable.ActionBar_itemPadding = global::Sample.Resource.Styleable.ActionBar_itemPadding;
-			global::DataTableView.Resource.Styleable.ActionBar_logo = global::Sample.Resource.Styleable.ActionBar_logo;
-			global::DataTableView.Resource.Styleable.ActionBar_navigationMode = global::Sample.Resource.Styleable.ActionBar_navigationMode;
-			global::DataTableView.Resource.Styleable.ActionBar_popupTheme = global::Sample.Resource.Styleable.ActionBar_popupTheme;
-			global::DataTableView.Resource.Styleable.ActionBar_progressBarPadding = global::Sample.Resource.Styleable.ActionBar_progressBarPadding;
-			global::DataTableView.Resource.Styleable.ActionBar_progressBarStyle = global::Sample.Resource.Styleable.ActionBar_progressBarStyle;
-			global::DataTableView.Resource.Styleable.ActionBar_subtitle = global::Sample.Resource.Styleable.ActionBar_subtitle;
-			global::DataTableView.Resource.Styleable.ActionBar_subtitleTextStyle = global::Sample.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::DataTableView.Resource.Styleable.ActionBar_title = global::Sample.Resource.Styleable.ActionBar_title;
-			global::DataTableView.Resource.Styleable.ActionBar_titleTextStyle = global::Sample.Resource.Styleable.ActionBar_titleTextStyle;
-			global::DataTableView.Resource.Styleable.ActionBarLayout = global::Sample.Resource.Styleable.ActionBarLayout;
-			global::DataTableView.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Sample.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::DataTableView.Resource.Styleable.ActionMenuItemView = global::Sample.Resource.Styleable.ActionMenuItemView;
-			global::DataTableView.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Sample.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::DataTableView.Resource.Styleable.ActionMenuView = global::Sample.Resource.Styleable.ActionMenuView;
-			global::DataTableView.Resource.Styleable.ActionMode = global::Sample.Resource.Styleable.ActionMode;
-			global::DataTableView.Resource.Styleable.ActionMode_background = global::Sample.Resource.Styleable.ActionMode_background;
-			global::DataTableView.Resource.Styleable.ActionMode_backgroundSplit = global::Sample.Resource.Styleable.ActionMode_backgroundSplit;
-			global::DataTableView.Resource.Styleable.ActionMode_closeItemLayout = global::Sample.Resource.Styleable.ActionMode_closeItemLayout;
-			global::DataTableView.Resource.Styleable.ActionMode_height = global::Sample.Resource.Styleable.ActionMode_height;
-			global::DataTableView.Resource.Styleable.ActionMode_subtitleTextStyle = global::Sample.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::DataTableView.Resource.Styleable.ActionMode_titleTextStyle = global::Sample.Resource.Styleable.ActionMode_titleTextStyle;
-			global::DataTableView.Resource.Styleable.ActivityChooserView = global::Sample.Resource.Styleable.ActivityChooserView;
-			global::DataTableView.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Sample.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::DataTableView.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Sample.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::DataTableView.Resource.Styleable.AlertDialog = global::Sample.Resource.Styleable.AlertDialog;
-			global::DataTableView.Resource.Styleable.AlertDialog_android_layout = global::Sample.Resource.Styleable.AlertDialog_android_layout;
-			global::DataTableView.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Sample.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::DataTableView.Resource.Styleable.AlertDialog_listItemLayout = global::Sample.Resource.Styleable.AlertDialog_listItemLayout;
-			global::DataTableView.Resource.Styleable.AlertDialog_listLayout = global::Sample.Resource.Styleable.AlertDialog_listLayout;
-			global::DataTableView.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Sample.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::DataTableView.Resource.Styleable.AlertDialog_showTitle = global::Sample.Resource.Styleable.AlertDialog_showTitle;
-			global::DataTableView.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Sample.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::DataTableView.Resource.Styleable.AppBarLayout = global::Sample.Resource.Styleable.AppBarLayout;
-			global::DataTableView.Resource.Styleable.AppBarLayout_android_background = global::Sample.Resource.Styleable.AppBarLayout_android_background;
-			global::DataTableView.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Sample.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
-			global::DataTableView.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Sample.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
-			global::DataTableView.Resource.Styleable.AppBarLayout_elevation = global::Sample.Resource.Styleable.AppBarLayout_elevation;
-			global::DataTableView.Resource.Styleable.AppBarLayout_expanded = global::Sample.Resource.Styleable.AppBarLayout_expanded;
-			global::DataTableView.Resource.Styleable.AppBarLayoutStates = global::Sample.Resource.Styleable.AppBarLayoutStates;
-			global::DataTableView.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Sample.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::DataTableView.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Sample.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::DataTableView.Resource.Styleable.AppBarLayout_Layout = global::Sample.Resource.Styleable.AppBarLayout_Layout;
-			global::DataTableView.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Sample.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::DataTableView.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Sample.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::DataTableView.Resource.Styleable.AppCompatImageView = global::Sample.Resource.Styleable.AppCompatImageView;
-			global::DataTableView.Resource.Styleable.AppCompatImageView_android_src = global::Sample.Resource.Styleable.AppCompatImageView_android_src;
-			global::DataTableView.Resource.Styleable.AppCompatImageView_srcCompat = global::Sample.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::DataTableView.Resource.Styleable.AppCompatImageView_tint = global::Sample.Resource.Styleable.AppCompatImageView_tint;
-			global::DataTableView.Resource.Styleable.AppCompatImageView_tintMode = global::Sample.Resource.Styleable.AppCompatImageView_tintMode;
-			global::DataTableView.Resource.Styleable.AppCompatSeekBar = global::Sample.Resource.Styleable.AppCompatSeekBar;
-			global::DataTableView.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Sample.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::DataTableView.Resource.Styleable.AppCompatSeekBar_tickMark = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::DataTableView.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::DataTableView.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::DataTableView.Resource.Styleable.AppCompatTextHelper = global::Sample.Resource.Styleable.AppCompatTextHelper;
-			global::DataTableView.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::DataTableView.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::DataTableView.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::DataTableView.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::DataTableView.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::DataTableView.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::DataTableView.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Sample.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::DataTableView.Resource.Styleable.AppCompatTextView = global::Sample.Resource.Styleable.AppCompatTextView;
-			global::DataTableView.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Sample.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::DataTableView.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
-			global::DataTableView.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
-			global::DataTableView.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Sample.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
-			global::DataTableView.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
-			global::DataTableView.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeTextType;
-			global::DataTableView.Resource.Styleable.AppCompatTextView_fontFamily = global::Sample.Resource.Styleable.AppCompatTextView_fontFamily;
-			global::DataTableView.Resource.Styleable.AppCompatTextView_textAllCaps = global::Sample.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::DataTableView.Resource.Styleable.AppCompatTheme = global::Sample.Resource.Styleable.AppCompatTheme;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Sample.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarSize = global::Sample.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Sample.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Sample.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Sample.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Sample.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_buttonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Sample.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Sample.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorAccent = global::Sample.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Sample.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Sample.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Sample.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorError = global::Sample.Resource.Styleable.AppCompatTheme_colorError;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorPrimary = global::Sample.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Sample.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_controlBackground = global::Sample.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Sample.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_dialogTheme = global::Sample.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Sample.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_dividerVertical = global::Sample.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Sample.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_editTextBackground = global::Sample.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_editTextColor = global::Sample.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_editTextStyle = global::Sample.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Sample.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Sample.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Sample.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_panelBackground = global::Sample.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Sample.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Sample.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Sample.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Sample.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Sample.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Sample.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Sample.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_switchStyle = global::Sample.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Sample.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Sample.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Sample.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Sample.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Sample.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Sample.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowActionBar = global::Sample.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Sample.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Sample.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::DataTableView.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Sample.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::DataTableView.Resource.Styleable.BottomNavigationView = global::Sample.Resource.Styleable.BottomNavigationView;
-			global::DataTableView.Resource.Styleable.BottomNavigationView_elevation = global::Sample.Resource.Styleable.BottomNavigationView_elevation;
-			global::DataTableView.Resource.Styleable.BottomNavigationView_itemBackground = global::Sample.Resource.Styleable.BottomNavigationView_itemBackground;
-			global::DataTableView.Resource.Styleable.BottomNavigationView_itemIconTint = global::Sample.Resource.Styleable.BottomNavigationView_itemIconTint;
-			global::DataTableView.Resource.Styleable.BottomNavigationView_itemTextColor = global::Sample.Resource.Styleable.BottomNavigationView_itemTextColor;
-			global::DataTableView.Resource.Styleable.BottomNavigationView_menu = global::Sample.Resource.Styleable.BottomNavigationView_menu;
-			global::DataTableView.Resource.Styleable.BottomSheetBehavior_Layout = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::DataTableView.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::DataTableView.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::DataTableView.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::DataTableView.Resource.Styleable.ButtonBarLayout = global::Sample.Resource.Styleable.ButtonBarLayout;
-			global::DataTableView.Resource.Styleable.ButtonBarLayout_allowStacking = global::Sample.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout = global::Sample.Resource.Styleable.CollapsingToolbarLayout;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Sample.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Sample.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Sample.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Sample.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Sample.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Sample.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_title = global::Sample.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Sample.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Sample.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::DataTableView.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::DataTableView.Resource.Styleable.ColorStateListItem = global::Sample.Resource.Styleable.ColorStateListItem;
-			global::DataTableView.Resource.Styleable.ColorStateListItem_alpha = global::Sample.Resource.Styleable.ColorStateListItem_alpha;
-			global::DataTableView.Resource.Styleable.ColorStateListItem_android_alpha = global::Sample.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::DataTableView.Resource.Styleable.ColorStateListItem_android_color = global::Sample.Resource.Styleable.ColorStateListItem_android_color;
-			global::DataTableView.Resource.Styleable.CompoundButton = global::Sample.Resource.Styleable.CompoundButton;
-			global::DataTableView.Resource.Styleable.CompoundButton_android_button = global::Sample.Resource.Styleable.CompoundButton_android_button;
-			global::DataTableView.Resource.Styleable.CompoundButton_buttonTint = global::Sample.Resource.Styleable.CompoundButton_buttonTint;
-			global::DataTableView.Resource.Styleable.CompoundButton_buttonTintMode = global::Sample.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout = global::Sample.Resource.Styleable.CoordinatorLayout;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_keylines = global::Sample.Resource.Styleable.CoordinatorLayout_keylines;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Sample.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_Layout = global::Sample.Resource.Styleable.CoordinatorLayout_Layout;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::DataTableView.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::DataTableView.Resource.Styleable.DataTableView = global::Sample.Resource.Styleable.DataTableView;
-			global::DataTableView.Resource.Styleable.DataTableView_android_choiceMode = global::Sample.Resource.Styleable.DataTableView_android_choiceMode;
-			global::DataTableView.Resource.Styleable.DataTableView_headerBackground = global::Sample.Resource.Styleable.DataTableView_headerBackground;
-			global::DataTableView.Resource.Styleable.DataTableView_headerFontFamily = global::Sample.Resource.Styleable.DataTableView_headerFontFamily;
-			global::DataTableView.Resource.Styleable.DataTableView_headerTextColor = global::Sample.Resource.Styleable.DataTableView_headerTextColor;
-			global::DataTableView.Resource.Styleable.DataTableView_headerTextSize = global::Sample.Resource.Styleable.DataTableView_headerTextSize;
-			global::DataTableView.Resource.Styleable.DataTableView_horizontalRowDivider = global::Sample.Resource.Styleable.DataTableView_horizontalRowDivider;
-			global::DataTableView.Resource.Styleable.DataTableView_lazyLoad = global::Sample.Resource.Styleable.DataTableView_lazyLoad;
-			global::DataTableView.Resource.Styleable.DataTableView_lazyLoadLimit = global::Sample.Resource.Styleable.DataTableView_lazyLoadLimit;
-			global::DataTableView.Resource.Styleable.DataTableView_rowBackground = global::Sample.Resource.Styleable.DataTableView_rowBackground;
-			global::DataTableView.Resource.Styleable.DataTableView_rowFontFamily = global::Sample.Resource.Styleable.DataTableView_rowFontFamily;
-			global::DataTableView.Resource.Styleable.DataTableView_rowTextColor = global::Sample.Resource.Styleable.DataTableView_rowTextColor;
-			global::DataTableView.Resource.Styleable.DataTableView_rowTextSize = global::Sample.Resource.Styleable.DataTableView_rowTextSize;
-			global::DataTableView.Resource.Styleable.DataTableView_verticalRowDivider = global::Sample.Resource.Styleable.DataTableView_verticalRowDivider;
-			global::DataTableView.Resource.Styleable.DesignTheme = global::Sample.Resource.Styleable.DesignTheme;
-			global::DataTableView.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::Sample.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::DataTableView.Resource.Styleable.DesignTheme_bottomSheetStyle = global::Sample.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::DataTableView.Resource.Styleable.DesignTheme_textColorError = global::Sample.Resource.Styleable.DesignTheme_textColorError;
-			global::DataTableView.Resource.Styleable.DrawerArrowToggle = global::Sample.Resource.Styleable.DrawerArrowToggle;
-			global::DataTableView.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Sample.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::DataTableView.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Sample.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::DataTableView.Resource.Styleable.DrawerArrowToggle_barLength = global::Sample.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::DataTableView.Resource.Styleable.DrawerArrowToggle_color = global::Sample.Resource.Styleable.DrawerArrowToggle_color;
-			global::DataTableView.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Sample.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::DataTableView.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Sample.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::DataTableView.Resource.Styleable.DrawerArrowToggle_spinBars = global::Sample.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::DataTableView.Resource.Styleable.DrawerArrowToggle_thickness = global::Sample.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::DataTableView.Resource.Styleable.FloatingActionButton = global::Sample.Resource.Styleable.FloatingActionButton;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_backgroundTint = global::Sample.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Sample.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_borderWidth = global::Sample.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_elevation = global::Sample.Resource.Styleable.FloatingActionButton_elevation;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_fabSize = global::Sample.Resource.Styleable.FloatingActionButton_fabSize;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Sample.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_rippleColor = global::Sample.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Sample.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Sample.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::DataTableView.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Sample.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::DataTableView.Resource.Styleable.FontFamily = global::Sample.Resource.Styleable.FontFamily;
-			global::DataTableView.Resource.Styleable.FontFamily_fontProviderAuthority = global::Sample.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::DataTableView.Resource.Styleable.FontFamily_fontProviderCerts = global::Sample.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::DataTableView.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Sample.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::DataTableView.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Sample.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::DataTableView.Resource.Styleable.FontFamily_fontProviderPackage = global::Sample.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::DataTableView.Resource.Styleable.FontFamily_fontProviderQuery = global::Sample.Resource.Styleable.FontFamily_fontProviderQuery;
-			global::DataTableView.Resource.Styleable.FontFamilyFont = global::Sample.Resource.Styleable.FontFamilyFont;
-			global::DataTableView.Resource.Styleable.FontFamilyFont_font = global::Sample.Resource.Styleable.FontFamilyFont_font;
-			global::DataTableView.Resource.Styleable.FontFamilyFont_fontStyle = global::Sample.Resource.Styleable.FontFamilyFont_fontStyle;
-			global::DataTableView.Resource.Styleable.FontFamilyFont_fontWeight = global::Sample.Resource.Styleable.FontFamilyFont_fontWeight;
-			global::DataTableView.Resource.Styleable.ForegroundLinearLayout = global::Sample.Resource.Styleable.ForegroundLinearLayout;
-			global::DataTableView.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Sample.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::DataTableView.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Sample.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::DataTableView.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Sample.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat = global::Sample.Resource.Styleable.LinearLayoutCompat;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Sample.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Sample.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Sample.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Sample.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Sample.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_divider = global::Sample.Resource.Styleable.LinearLayoutCompat_divider;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Sample.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Sample.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_showDividers = global::Sample.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_Layout = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::DataTableView.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::DataTableView.Resource.Styleable.ListPopupWindow = global::Sample.Resource.Styleable.ListPopupWindow;
-			global::DataTableView.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Sample.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::DataTableView.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Sample.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::DataTableView.Resource.Styleable.MenuGroup = global::Sample.Resource.Styleable.MenuGroup;
-			global::DataTableView.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Sample.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::DataTableView.Resource.Styleable.MenuGroup_android_enabled = global::Sample.Resource.Styleable.MenuGroup_android_enabled;
-			global::DataTableView.Resource.Styleable.MenuGroup_android_id = global::Sample.Resource.Styleable.MenuGroup_android_id;
-			global::DataTableView.Resource.Styleable.MenuGroup_android_menuCategory = global::Sample.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::DataTableView.Resource.Styleable.MenuGroup_android_orderInCategory = global::Sample.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::DataTableView.Resource.Styleable.MenuGroup_android_visible = global::Sample.Resource.Styleable.MenuGroup_android_visible;
-			global::DataTableView.Resource.Styleable.MenuItem = global::Sample.Resource.Styleable.MenuItem;
-			global::DataTableView.Resource.Styleable.MenuItem_actionLayout = global::Sample.Resource.Styleable.MenuItem_actionLayout;
-			global::DataTableView.Resource.Styleable.MenuItem_actionProviderClass = global::Sample.Resource.Styleable.MenuItem_actionProviderClass;
-			global::DataTableView.Resource.Styleable.MenuItem_actionViewClass = global::Sample.Resource.Styleable.MenuItem_actionViewClass;
-			global::DataTableView.Resource.Styleable.MenuItem_alphabeticModifiers = global::Sample.Resource.Styleable.MenuItem_alphabeticModifiers;
-			global::DataTableView.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Sample.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::DataTableView.Resource.Styleable.MenuItem_android_checkable = global::Sample.Resource.Styleable.MenuItem_android_checkable;
-			global::DataTableView.Resource.Styleable.MenuItem_android_checked = global::Sample.Resource.Styleable.MenuItem_android_checked;
-			global::DataTableView.Resource.Styleable.MenuItem_android_enabled = global::Sample.Resource.Styleable.MenuItem_android_enabled;
-			global::DataTableView.Resource.Styleable.MenuItem_android_icon = global::Sample.Resource.Styleable.MenuItem_android_icon;
-			global::DataTableView.Resource.Styleable.MenuItem_android_id = global::Sample.Resource.Styleable.MenuItem_android_id;
-			global::DataTableView.Resource.Styleable.MenuItem_android_menuCategory = global::Sample.Resource.Styleable.MenuItem_android_menuCategory;
-			global::DataTableView.Resource.Styleable.MenuItem_android_numericShortcut = global::Sample.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::DataTableView.Resource.Styleable.MenuItem_android_onClick = global::Sample.Resource.Styleable.MenuItem_android_onClick;
-			global::DataTableView.Resource.Styleable.MenuItem_android_orderInCategory = global::Sample.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::DataTableView.Resource.Styleable.MenuItem_android_title = global::Sample.Resource.Styleable.MenuItem_android_title;
-			global::DataTableView.Resource.Styleable.MenuItem_android_titleCondensed = global::Sample.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::DataTableView.Resource.Styleable.MenuItem_android_visible = global::Sample.Resource.Styleable.MenuItem_android_visible;
-			global::DataTableView.Resource.Styleable.MenuItem_contentDescription = global::Sample.Resource.Styleable.MenuItem_contentDescription;
-			global::DataTableView.Resource.Styleable.MenuItem_iconTint = global::Sample.Resource.Styleable.MenuItem_iconTint;
-			global::DataTableView.Resource.Styleable.MenuItem_iconTintMode = global::Sample.Resource.Styleable.MenuItem_iconTintMode;
-			global::DataTableView.Resource.Styleable.MenuItem_numericModifiers = global::Sample.Resource.Styleable.MenuItem_numericModifiers;
-			global::DataTableView.Resource.Styleable.MenuItem_showAsAction = global::Sample.Resource.Styleable.MenuItem_showAsAction;
-			global::DataTableView.Resource.Styleable.MenuItem_tooltipText = global::Sample.Resource.Styleable.MenuItem_tooltipText;
-			global::DataTableView.Resource.Styleable.MenuView = global::Sample.Resource.Styleable.MenuView;
-			global::DataTableView.Resource.Styleable.MenuView_android_headerBackground = global::Sample.Resource.Styleable.MenuView_android_headerBackground;
-			global::DataTableView.Resource.Styleable.MenuView_android_horizontalDivider = global::Sample.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::DataTableView.Resource.Styleable.MenuView_android_itemBackground = global::Sample.Resource.Styleable.MenuView_android_itemBackground;
-			global::DataTableView.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Sample.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::DataTableView.Resource.Styleable.MenuView_android_itemTextAppearance = global::Sample.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::DataTableView.Resource.Styleable.MenuView_android_verticalDivider = global::Sample.Resource.Styleable.MenuView_android_verticalDivider;
-			global::DataTableView.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Sample.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::DataTableView.Resource.Styleable.MenuView_preserveIconSpacing = global::Sample.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::DataTableView.Resource.Styleable.MenuView_subMenuArrow = global::Sample.Resource.Styleable.MenuView_subMenuArrow;
-			global::DataTableView.Resource.Styleable.NavigationView = global::Sample.Resource.Styleable.NavigationView;
-			global::DataTableView.Resource.Styleable.NavigationView_android_background = global::Sample.Resource.Styleable.NavigationView_android_background;
-			global::DataTableView.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Sample.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::DataTableView.Resource.Styleable.NavigationView_android_maxWidth = global::Sample.Resource.Styleable.NavigationView_android_maxWidth;
-			global::DataTableView.Resource.Styleable.NavigationView_elevation = global::Sample.Resource.Styleable.NavigationView_elevation;
-			global::DataTableView.Resource.Styleable.NavigationView_headerLayout = global::Sample.Resource.Styleable.NavigationView_headerLayout;
-			global::DataTableView.Resource.Styleable.NavigationView_itemBackground = global::Sample.Resource.Styleable.NavigationView_itemBackground;
-			global::DataTableView.Resource.Styleable.NavigationView_itemIconTint = global::Sample.Resource.Styleable.NavigationView_itemIconTint;
-			global::DataTableView.Resource.Styleable.NavigationView_itemTextAppearance = global::Sample.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::DataTableView.Resource.Styleable.NavigationView_itemTextColor = global::Sample.Resource.Styleable.NavigationView_itemTextColor;
-			global::DataTableView.Resource.Styleable.NavigationView_menu = global::Sample.Resource.Styleable.NavigationView_menu;
-			global::DataTableView.Resource.Styleable.PopupWindow = global::Sample.Resource.Styleable.PopupWindow;
-			global::DataTableView.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Sample.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::DataTableView.Resource.Styleable.PopupWindow_android_popupBackground = global::Sample.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::DataTableView.Resource.Styleable.PopupWindow_overlapAnchor = global::Sample.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::DataTableView.Resource.Styleable.PopupWindowBackgroundState = global::Sample.Resource.Styleable.PopupWindowBackgroundState;
-			global::DataTableView.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Sample.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::DataTableView.Resource.Styleable.RecycleListView = global::Sample.Resource.Styleable.RecycleListView;
-			global::DataTableView.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Sample.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::DataTableView.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Sample.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::DataTableView.Resource.Styleable.RecyclerView = global::Sample.Resource.Styleable.RecyclerView;
-			global::DataTableView.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Sample.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::DataTableView.Resource.Styleable.RecyclerView_android_orientation = global::Sample.Resource.Styleable.RecyclerView_android_orientation;
-			global::DataTableView.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Sample.Resource.Styleable.RecyclerView_fastScrollEnabled;
-			global::DataTableView.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
-			global::DataTableView.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
-			global::DataTableView.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
-			global::DataTableView.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
-			global::DataTableView.Resource.Styleable.RecyclerView_layoutManager = global::Sample.Resource.Styleable.RecyclerView_layoutManager;
-			global::DataTableView.Resource.Styleable.RecyclerView_reverseLayout = global::Sample.Resource.Styleable.RecyclerView_reverseLayout;
-			global::DataTableView.Resource.Styleable.RecyclerView_spanCount = global::Sample.Resource.Styleable.RecyclerView_spanCount;
-			global::DataTableView.Resource.Styleable.RecyclerView_stackFromEnd = global::Sample.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::DataTableView.Resource.Styleable.ScrimInsetsFrameLayout = global::Sample.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::DataTableView.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Sample.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::DataTableView.Resource.Styleable.ScrollingViewBehavior_Layout = global::Sample.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::DataTableView.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Sample.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::DataTableView.Resource.Styleable.SearchView = global::Sample.Resource.Styleable.SearchView;
-			global::DataTableView.Resource.Styleable.SearchView_android_focusable = global::Sample.Resource.Styleable.SearchView_android_focusable;
-			global::DataTableView.Resource.Styleable.SearchView_android_imeOptions = global::Sample.Resource.Styleable.SearchView_android_imeOptions;
-			global::DataTableView.Resource.Styleable.SearchView_android_inputType = global::Sample.Resource.Styleable.SearchView_android_inputType;
-			global::DataTableView.Resource.Styleable.SearchView_android_maxWidth = global::Sample.Resource.Styleable.SearchView_android_maxWidth;
-			global::DataTableView.Resource.Styleable.SearchView_closeIcon = global::Sample.Resource.Styleable.SearchView_closeIcon;
-			global::DataTableView.Resource.Styleable.SearchView_commitIcon = global::Sample.Resource.Styleable.SearchView_commitIcon;
-			global::DataTableView.Resource.Styleable.SearchView_defaultQueryHint = global::Sample.Resource.Styleable.SearchView_defaultQueryHint;
-			global::DataTableView.Resource.Styleable.SearchView_goIcon = global::Sample.Resource.Styleable.SearchView_goIcon;
-			global::DataTableView.Resource.Styleable.SearchView_iconifiedByDefault = global::Sample.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::DataTableView.Resource.Styleable.SearchView_layout = global::Sample.Resource.Styleable.SearchView_layout;
-			global::DataTableView.Resource.Styleable.SearchView_queryBackground = global::Sample.Resource.Styleable.SearchView_queryBackground;
-			global::DataTableView.Resource.Styleable.SearchView_queryHint = global::Sample.Resource.Styleable.SearchView_queryHint;
-			global::DataTableView.Resource.Styleable.SearchView_searchHintIcon = global::Sample.Resource.Styleable.SearchView_searchHintIcon;
-			global::DataTableView.Resource.Styleable.SearchView_searchIcon = global::Sample.Resource.Styleable.SearchView_searchIcon;
-			global::DataTableView.Resource.Styleable.SearchView_submitBackground = global::Sample.Resource.Styleable.SearchView_submitBackground;
-			global::DataTableView.Resource.Styleable.SearchView_suggestionRowLayout = global::Sample.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::DataTableView.Resource.Styleable.SearchView_voiceIcon = global::Sample.Resource.Styleable.SearchView_voiceIcon;
-			global::DataTableView.Resource.Styleable.SnackbarLayout = global::Sample.Resource.Styleable.SnackbarLayout;
-			global::DataTableView.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Sample.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::DataTableView.Resource.Styleable.SnackbarLayout_elevation = global::Sample.Resource.Styleable.SnackbarLayout_elevation;
-			global::DataTableView.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Sample.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::DataTableView.Resource.Styleable.Spinner = global::Sample.Resource.Styleable.Spinner;
-			global::DataTableView.Resource.Styleable.Spinner_android_dropDownWidth = global::Sample.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::DataTableView.Resource.Styleable.Spinner_android_entries = global::Sample.Resource.Styleable.Spinner_android_entries;
-			global::DataTableView.Resource.Styleable.Spinner_android_popupBackground = global::Sample.Resource.Styleable.Spinner_android_popupBackground;
-			global::DataTableView.Resource.Styleable.Spinner_android_prompt = global::Sample.Resource.Styleable.Spinner_android_prompt;
-			global::DataTableView.Resource.Styleable.Spinner_popupTheme = global::Sample.Resource.Styleable.Spinner_popupTheme;
-			global::DataTableView.Resource.Styleable.SwitchCompat = global::Sample.Resource.Styleable.SwitchCompat;
-			global::DataTableView.Resource.Styleable.SwitchCompat_android_textOff = global::Sample.Resource.Styleable.SwitchCompat_android_textOff;
-			global::DataTableView.Resource.Styleable.SwitchCompat_android_textOn = global::Sample.Resource.Styleable.SwitchCompat_android_textOn;
-			global::DataTableView.Resource.Styleable.SwitchCompat_android_thumb = global::Sample.Resource.Styleable.SwitchCompat_android_thumb;
-			global::DataTableView.Resource.Styleable.SwitchCompat_showText = global::Sample.Resource.Styleable.SwitchCompat_showText;
-			global::DataTableView.Resource.Styleable.SwitchCompat_splitTrack = global::Sample.Resource.Styleable.SwitchCompat_splitTrack;
-			global::DataTableView.Resource.Styleable.SwitchCompat_switchMinWidth = global::Sample.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::DataTableView.Resource.Styleable.SwitchCompat_switchPadding = global::Sample.Resource.Styleable.SwitchCompat_switchPadding;
-			global::DataTableView.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Sample.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::DataTableView.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Sample.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::DataTableView.Resource.Styleable.SwitchCompat_thumbTint = global::Sample.Resource.Styleable.SwitchCompat_thumbTint;
-			global::DataTableView.Resource.Styleable.SwitchCompat_thumbTintMode = global::Sample.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::DataTableView.Resource.Styleable.SwitchCompat_track = global::Sample.Resource.Styleable.SwitchCompat_track;
-			global::DataTableView.Resource.Styleable.SwitchCompat_trackTint = global::Sample.Resource.Styleable.SwitchCompat_trackTint;
-			global::DataTableView.Resource.Styleable.SwitchCompat_trackTintMode = global::Sample.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::DataTableView.Resource.Styleable.TabItem = global::Sample.Resource.Styleable.TabItem;
-			global::DataTableView.Resource.Styleable.TabItem_android_icon = global::Sample.Resource.Styleable.TabItem_android_icon;
-			global::DataTableView.Resource.Styleable.TabItem_android_layout = global::Sample.Resource.Styleable.TabItem_android_layout;
-			global::DataTableView.Resource.Styleable.TabItem_android_text = global::Sample.Resource.Styleable.TabItem_android_text;
-			global::DataTableView.Resource.Styleable.TabLayout = global::Sample.Resource.Styleable.TabLayout;
-			global::DataTableView.Resource.Styleable.TabLayout_tabBackground = global::Sample.Resource.Styleable.TabLayout_tabBackground;
-			global::DataTableView.Resource.Styleable.TabLayout_tabContentStart = global::Sample.Resource.Styleable.TabLayout_tabContentStart;
-			global::DataTableView.Resource.Styleable.TabLayout_tabGravity = global::Sample.Resource.Styleable.TabLayout_tabGravity;
-			global::DataTableView.Resource.Styleable.TabLayout_tabIndicatorColor = global::Sample.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::DataTableView.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Sample.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::DataTableView.Resource.Styleable.TabLayout_tabMaxWidth = global::Sample.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::DataTableView.Resource.Styleable.TabLayout_tabMinWidth = global::Sample.Resource.Styleable.TabLayout_tabMinWidth;
-			global::DataTableView.Resource.Styleable.TabLayout_tabMode = global::Sample.Resource.Styleable.TabLayout_tabMode;
-			global::DataTableView.Resource.Styleable.TabLayout_tabPadding = global::Sample.Resource.Styleable.TabLayout_tabPadding;
-			global::DataTableView.Resource.Styleable.TabLayout_tabPaddingBottom = global::Sample.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::DataTableView.Resource.Styleable.TabLayout_tabPaddingEnd = global::Sample.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::DataTableView.Resource.Styleable.TabLayout_tabPaddingStart = global::Sample.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::DataTableView.Resource.Styleable.TabLayout_tabPaddingTop = global::Sample.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::DataTableView.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Sample.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::DataTableView.Resource.Styleable.TabLayout_tabTextAppearance = global::Sample.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::DataTableView.Resource.Styleable.TabLayout_tabTextColor = global::Sample.Resource.Styleable.TabLayout_tabTextColor;
-			global::DataTableView.Resource.Styleable.TextAppearance = global::Sample.Resource.Styleable.TextAppearance;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_fontFamily = global::Sample.Resource.Styleable.TextAppearance_android_fontFamily;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_shadowColor = global::Sample.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_shadowDx = global::Sample.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_shadowDy = global::Sample.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_shadowRadius = global::Sample.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_textColor = global::Sample.Resource.Styleable.TextAppearance_android_textColor;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_textColorHint = global::Sample.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_textColorLink = global::Sample.Resource.Styleable.TextAppearance_android_textColorLink;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_textSize = global::Sample.Resource.Styleable.TextAppearance_android_textSize;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_textStyle = global::Sample.Resource.Styleable.TextAppearance_android_textStyle;
-			global::DataTableView.Resource.Styleable.TextAppearance_android_typeface = global::Sample.Resource.Styleable.TextAppearance_android_typeface;
-			global::DataTableView.Resource.Styleable.TextAppearance_fontFamily = global::Sample.Resource.Styleable.TextAppearance_fontFamily;
-			global::DataTableView.Resource.Styleable.TextAppearance_textAllCaps = global::Sample.Resource.Styleable.TextAppearance_textAllCaps;
-			global::DataTableView.Resource.Styleable.TextInputLayout = global::Sample.Resource.Styleable.TextInputLayout;
-			global::DataTableView.Resource.Styleable.TextInputLayout_android_hint = global::Sample.Resource.Styleable.TextInputLayout_android_hint;
-			global::DataTableView.Resource.Styleable.TextInputLayout_android_textColorHint = global::Sample.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::DataTableView.Resource.Styleable.TextInputLayout_counterEnabled = global::Sample.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::DataTableView.Resource.Styleable.TextInputLayout_counterMaxLength = global::Sample.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::DataTableView.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::DataTableView.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::DataTableView.Resource.Styleable.TextInputLayout_errorEnabled = global::Sample.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::DataTableView.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::DataTableView.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Sample.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::DataTableView.Resource.Styleable.TextInputLayout_hintEnabled = global::Sample.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::DataTableView.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::DataTableView.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::DataTableView.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::DataTableView.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::DataTableView.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::DataTableView.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::DataTableView.Resource.Styleable.Toolbar = global::Sample.Resource.Styleable.Toolbar;
-			global::DataTableView.Resource.Styleable.Toolbar_android_gravity = global::Sample.Resource.Styleable.Toolbar_android_gravity;
-			global::DataTableView.Resource.Styleable.Toolbar_android_minHeight = global::Sample.Resource.Styleable.Toolbar_android_minHeight;
-			global::DataTableView.Resource.Styleable.Toolbar_buttonGravity = global::Sample.Resource.Styleable.Toolbar_buttonGravity;
-			global::DataTableView.Resource.Styleable.Toolbar_collapseContentDescription = global::Sample.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::DataTableView.Resource.Styleable.Toolbar_collapseIcon = global::Sample.Resource.Styleable.Toolbar_collapseIcon;
-			global::DataTableView.Resource.Styleable.Toolbar_contentInsetEnd = global::Sample.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::DataTableView.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Sample.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::DataTableView.Resource.Styleable.Toolbar_contentInsetLeft = global::Sample.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::DataTableView.Resource.Styleable.Toolbar_contentInsetRight = global::Sample.Resource.Styleable.Toolbar_contentInsetRight;
-			global::DataTableView.Resource.Styleable.Toolbar_contentInsetStart = global::Sample.Resource.Styleable.Toolbar_contentInsetStart;
-			global::DataTableView.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Sample.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::DataTableView.Resource.Styleable.Toolbar_logo = global::Sample.Resource.Styleable.Toolbar_logo;
-			global::DataTableView.Resource.Styleable.Toolbar_logoDescription = global::Sample.Resource.Styleable.Toolbar_logoDescription;
-			global::DataTableView.Resource.Styleable.Toolbar_maxButtonHeight = global::Sample.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::DataTableView.Resource.Styleable.Toolbar_navigationContentDescription = global::Sample.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::DataTableView.Resource.Styleable.Toolbar_navigationIcon = global::Sample.Resource.Styleable.Toolbar_navigationIcon;
-			global::DataTableView.Resource.Styleable.Toolbar_popupTheme = global::Sample.Resource.Styleable.Toolbar_popupTheme;
-			global::DataTableView.Resource.Styleable.Toolbar_subtitle = global::Sample.Resource.Styleable.Toolbar_subtitle;
-			global::DataTableView.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Sample.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::DataTableView.Resource.Styleable.Toolbar_subtitleTextColor = global::Sample.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::DataTableView.Resource.Styleable.Toolbar_title = global::Sample.Resource.Styleable.Toolbar_title;
-			global::DataTableView.Resource.Styleable.Toolbar_titleMargin = global::Sample.Resource.Styleable.Toolbar_titleMargin;
-			global::DataTableView.Resource.Styleable.Toolbar_titleMarginBottom = global::Sample.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::DataTableView.Resource.Styleable.Toolbar_titleMarginEnd = global::Sample.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::DataTableView.Resource.Styleable.Toolbar_titleMarginStart = global::Sample.Resource.Styleable.Toolbar_titleMarginStart;
-			global::DataTableView.Resource.Styleable.Toolbar_titleMarginTop = global::Sample.Resource.Styleable.Toolbar_titleMarginTop;
-			global::DataTableView.Resource.Styleable.Toolbar_titleMargins = global::Sample.Resource.Styleable.Toolbar_titleMargins;
-			global::DataTableView.Resource.Styleable.Toolbar_titleTextAppearance = global::Sample.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::DataTableView.Resource.Styleable.Toolbar_titleTextColor = global::Sample.Resource.Styleable.Toolbar_titleTextColor;
-			global::DataTableView.Resource.Styleable.View = global::Sample.Resource.Styleable.View;
-			global::DataTableView.Resource.Styleable.View_android_focusable = global::Sample.Resource.Styleable.View_android_focusable;
-			global::DataTableView.Resource.Styleable.View_android_theme = global::Sample.Resource.Styleable.View_android_theme;
-			global::DataTableView.Resource.Styleable.View_paddingEnd = global::Sample.Resource.Styleable.View_paddingEnd;
-			global::DataTableView.Resource.Styleable.View_paddingStart = global::Sample.Resource.Styleable.View_paddingStart;
-			global::DataTableView.Resource.Styleable.View_theme = global::Sample.Resource.Styleable.View_theme;
-			global::DataTableView.Resource.Styleable.ViewBackgroundHelper = global::Sample.Resource.Styleable.ViewBackgroundHelper;
-			global::DataTableView.Resource.Styleable.ViewBackgroundHelper_android_background = global::Sample.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::DataTableView.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Sample.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::DataTableView.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Sample.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::DataTableView.Resource.Styleable.ViewStubCompat = global::Sample.Resource.Styleable.ViewStubCompat;
-			global::DataTableView.Resource.Styleable.ViewStubCompat_android_id = global::Sample.Resource.Styleable.ViewStubCompat_android_id;
-			global::DataTableView.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Sample.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::DataTableView.Resource.Styleable.ViewStubCompat_android_layout = global::Sample.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Messert.Controls.Droid.Resource.Animation.abc_fade_in = global::Sample.Resource.Animation.abc_fade_in;
+			global::Messert.Controls.Droid.Resource.Animation.abc_fade_out = global::Sample.Resource.Animation.abc_fade_out;
+			global::Messert.Controls.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::Sample.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Messert.Controls.Droid.Resource.Animation.abc_popup_enter = global::Sample.Resource.Animation.abc_popup_enter;
+			global::Messert.Controls.Droid.Resource.Animation.abc_popup_exit = global::Sample.Resource.Animation.abc_popup_exit;
+			global::Messert.Controls.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Sample.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Messert.Controls.Droid.Resource.Animation.abc_slide_in_bottom = global::Sample.Resource.Animation.abc_slide_in_bottom;
+			global::Messert.Controls.Droid.Resource.Animation.abc_slide_in_top = global::Sample.Resource.Animation.abc_slide_in_top;
+			global::Messert.Controls.Droid.Resource.Animation.abc_slide_out_bottom = global::Sample.Resource.Animation.abc_slide_out_bottom;
+			global::Messert.Controls.Droid.Resource.Animation.abc_slide_out_top = global::Sample.Resource.Animation.abc_slide_out_top;
+			global::Messert.Controls.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::Sample.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Messert.Controls.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::Sample.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Messert.Controls.Droid.Resource.Animation.design_snackbar_in = global::Sample.Resource.Animation.design_snackbar_in;
+			global::Messert.Controls.Droid.Resource.Animation.design_snackbar_out = global::Sample.Resource.Animation.design_snackbar_out;
+			global::Messert.Controls.Droid.Resource.Animation.tooltip_enter = global::Sample.Resource.Animation.tooltip_enter;
+			global::Messert.Controls.Droid.Resource.Animation.tooltip_exit = global::Sample.Resource.Animation.tooltip_exit;
+			global::Messert.Controls.Droid.Resource.Animator.design_appbar_state_list_animator = global::Sample.Resource.Animator.design_appbar_state_list_animator;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarDivider = global::Sample.Resource.Attribute.actionBarDivider;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarItemBackground = global::Sample.Resource.Attribute.actionBarItemBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarPopupTheme = global::Sample.Resource.Attribute.actionBarPopupTheme;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarSize = global::Sample.Resource.Attribute.actionBarSize;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarSplitStyle = global::Sample.Resource.Attribute.actionBarSplitStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarStyle = global::Sample.Resource.Attribute.actionBarStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarTabBarStyle = global::Sample.Resource.Attribute.actionBarTabBarStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarTabStyle = global::Sample.Resource.Attribute.actionBarTabStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarTabTextStyle = global::Sample.Resource.Attribute.actionBarTabTextStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarTheme = global::Sample.Resource.Attribute.actionBarTheme;
+			global::Messert.Controls.Droid.Resource.Attribute.actionBarWidgetTheme = global::Sample.Resource.Attribute.actionBarWidgetTheme;
+			global::Messert.Controls.Droid.Resource.Attribute.actionButtonStyle = global::Sample.Resource.Attribute.actionButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionDropDownStyle = global::Sample.Resource.Attribute.actionDropDownStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionLayout = global::Sample.Resource.Attribute.actionLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.actionMenuTextAppearance = global::Sample.Resource.Attribute.actionMenuTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.actionMenuTextColor = global::Sample.Resource.Attribute.actionMenuTextColor;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeBackground = global::Sample.Resource.Attribute.actionModeBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::Sample.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeCloseDrawable = global::Sample.Resource.Attribute.actionModeCloseDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeCopyDrawable = global::Sample.Resource.Attribute.actionModeCopyDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeCutDrawable = global::Sample.Resource.Attribute.actionModeCutDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeFindDrawable = global::Sample.Resource.Attribute.actionModeFindDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModePasteDrawable = global::Sample.Resource.Attribute.actionModePasteDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModePopupWindowStyle = global::Sample.Resource.Attribute.actionModePopupWindowStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::Sample.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeShareDrawable = global::Sample.Resource.Attribute.actionModeShareDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeSplitBackground = global::Sample.Resource.Attribute.actionModeSplitBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeStyle = global::Sample.Resource.Attribute.actionModeStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::Sample.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.actionOverflowButtonStyle = global::Sample.Resource.Attribute.actionOverflowButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionOverflowMenuStyle = global::Sample.Resource.Attribute.actionOverflowMenuStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.actionProviderClass = global::Sample.Resource.Attribute.actionProviderClass;
+			global::Messert.Controls.Droid.Resource.Attribute.actionViewClass = global::Sample.Resource.Attribute.actionViewClass;
+			global::Messert.Controls.Droid.Resource.Attribute.activityChooserViewStyle = global::Sample.Resource.Attribute.activityChooserViewStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::Sample.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.alertDialogCenterButtons = global::Sample.Resource.Attribute.alertDialogCenterButtons;
+			global::Messert.Controls.Droid.Resource.Attribute.alertDialogStyle = global::Sample.Resource.Attribute.alertDialogStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.alertDialogTheme = global::Sample.Resource.Attribute.alertDialogTheme;
+			global::Messert.Controls.Droid.Resource.Attribute.allowStacking = global::Sample.Resource.Attribute.allowStacking;
+			global::Messert.Controls.Droid.Resource.Attribute.alpha = global::Sample.Resource.Attribute.alpha;
+			global::Messert.Controls.Droid.Resource.Attribute.alphabeticModifiers = global::Sample.Resource.Attribute.alphabeticModifiers;
+			global::Messert.Controls.Droid.Resource.Attribute.arrowHeadLength = global::Sample.Resource.Attribute.arrowHeadLength;
+			global::Messert.Controls.Droid.Resource.Attribute.arrowShaftLength = global::Sample.Resource.Attribute.arrowShaftLength;
+			global::Messert.Controls.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::Sample.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.autoSizeMaxTextSize = global::Sample.Resource.Attribute.autoSizeMaxTextSize;
+			global::Messert.Controls.Droid.Resource.Attribute.autoSizeMinTextSize = global::Sample.Resource.Attribute.autoSizeMinTextSize;
+			global::Messert.Controls.Droid.Resource.Attribute.autoSizePresetSizes = global::Sample.Resource.Attribute.autoSizePresetSizes;
+			global::Messert.Controls.Droid.Resource.Attribute.autoSizeStepGranularity = global::Sample.Resource.Attribute.autoSizeStepGranularity;
+			global::Messert.Controls.Droid.Resource.Attribute.autoSizeTextType = global::Sample.Resource.Attribute.autoSizeTextType;
+			global::Messert.Controls.Droid.Resource.Attribute.background = global::Sample.Resource.Attribute.background;
+			global::Messert.Controls.Droid.Resource.Attribute.backgroundSplit = global::Sample.Resource.Attribute.backgroundSplit;
+			global::Messert.Controls.Droid.Resource.Attribute.backgroundStacked = global::Sample.Resource.Attribute.backgroundStacked;
+			global::Messert.Controls.Droid.Resource.Attribute.backgroundTint = global::Sample.Resource.Attribute.backgroundTint;
+			global::Messert.Controls.Droid.Resource.Attribute.backgroundTintMode = global::Sample.Resource.Attribute.backgroundTintMode;
+			global::Messert.Controls.Droid.Resource.Attribute.barLength = global::Sample.Resource.Attribute.barLength;
+			global::Messert.Controls.Droid.Resource.Attribute.behavior_autoHide = global::Sample.Resource.Attribute.behavior_autoHide;
+			global::Messert.Controls.Droid.Resource.Attribute.behavior_hideable = global::Sample.Resource.Attribute.behavior_hideable;
+			global::Messert.Controls.Droid.Resource.Attribute.behavior_overlapTop = global::Sample.Resource.Attribute.behavior_overlapTop;
+			global::Messert.Controls.Droid.Resource.Attribute.behavior_peekHeight = global::Sample.Resource.Attribute.behavior_peekHeight;
+			global::Messert.Controls.Droid.Resource.Attribute.behavior_skipCollapsed = global::Sample.Resource.Attribute.behavior_skipCollapsed;
+			global::Messert.Controls.Droid.Resource.Attribute.borderWidth = global::Sample.Resource.Attribute.borderWidth;
+			global::Messert.Controls.Droid.Resource.Attribute.borderlessButtonStyle = global::Sample.Resource.Attribute.borderlessButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.bottomSheetDialogTheme = global::Sample.Resource.Attribute.bottomSheetDialogTheme;
+			global::Messert.Controls.Droid.Resource.Attribute.bottomSheetStyle = global::Sample.Resource.Attribute.bottomSheetStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonBarButtonStyle = global::Sample.Resource.Attribute.buttonBarButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::Sample.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::Sample.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::Sample.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonBarStyle = global::Sample.Resource.Attribute.buttonBarStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonGravity = global::Sample.Resource.Attribute.buttonGravity;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonPanelSideLayout = global::Sample.Resource.Attribute.buttonPanelSideLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonStyle = global::Sample.Resource.Attribute.buttonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonStyleSmall = global::Sample.Resource.Attribute.buttonStyleSmall;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonTint = global::Sample.Resource.Attribute.buttonTint;
+			global::Messert.Controls.Droid.Resource.Attribute.buttonTintMode = global::Sample.Resource.Attribute.buttonTintMode;
+			global::Messert.Controls.Droid.Resource.Attribute.checkboxStyle = global::Sample.Resource.Attribute.checkboxStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.checkedTextViewStyle = global::Sample.Resource.Attribute.checkedTextViewStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.closeIcon = global::Sample.Resource.Attribute.closeIcon;
+			global::Messert.Controls.Droid.Resource.Attribute.closeItemLayout = global::Sample.Resource.Attribute.closeItemLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.collapseContentDescription = global::Sample.Resource.Attribute.collapseContentDescription;
+			global::Messert.Controls.Droid.Resource.Attribute.collapseIcon = global::Sample.Resource.Attribute.collapseIcon;
+			global::Messert.Controls.Droid.Resource.Attribute.collapsedTitleGravity = global::Sample.Resource.Attribute.collapsedTitleGravity;
+			global::Messert.Controls.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::Sample.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.color = global::Sample.Resource.Attribute.color;
+			global::Messert.Controls.Droid.Resource.Attribute.colorAccent = global::Sample.Resource.Attribute.colorAccent;
+			global::Messert.Controls.Droid.Resource.Attribute.colorBackgroundFloating = global::Sample.Resource.Attribute.colorBackgroundFloating;
+			global::Messert.Controls.Droid.Resource.Attribute.colorButtonNormal = global::Sample.Resource.Attribute.colorButtonNormal;
+			global::Messert.Controls.Droid.Resource.Attribute.colorControlActivated = global::Sample.Resource.Attribute.colorControlActivated;
+			global::Messert.Controls.Droid.Resource.Attribute.colorControlHighlight = global::Sample.Resource.Attribute.colorControlHighlight;
+			global::Messert.Controls.Droid.Resource.Attribute.colorControlNormal = global::Sample.Resource.Attribute.colorControlNormal;
+			global::Messert.Controls.Droid.Resource.Attribute.colorError = global::Sample.Resource.Attribute.colorError;
+			global::Messert.Controls.Droid.Resource.Attribute.colorPrimary = global::Sample.Resource.Attribute.colorPrimary;
+			global::Messert.Controls.Droid.Resource.Attribute.colorPrimaryDark = global::Sample.Resource.Attribute.colorPrimaryDark;
+			global::Messert.Controls.Droid.Resource.Attribute.colorSwitchThumbNormal = global::Sample.Resource.Attribute.colorSwitchThumbNormal;
+			global::Messert.Controls.Droid.Resource.Attribute.commitIcon = global::Sample.Resource.Attribute.commitIcon;
+			global::Messert.Controls.Droid.Resource.Attribute.contentDescription = global::Sample.Resource.Attribute.contentDescription;
+			global::Messert.Controls.Droid.Resource.Attribute.contentInsetEnd = global::Sample.Resource.Attribute.contentInsetEnd;
+			global::Messert.Controls.Droid.Resource.Attribute.contentInsetEndWithActions = global::Sample.Resource.Attribute.contentInsetEndWithActions;
+			global::Messert.Controls.Droid.Resource.Attribute.contentInsetLeft = global::Sample.Resource.Attribute.contentInsetLeft;
+			global::Messert.Controls.Droid.Resource.Attribute.contentInsetRight = global::Sample.Resource.Attribute.contentInsetRight;
+			global::Messert.Controls.Droid.Resource.Attribute.contentInsetStart = global::Sample.Resource.Attribute.contentInsetStart;
+			global::Messert.Controls.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::Sample.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Messert.Controls.Droid.Resource.Attribute.contentScrim = global::Sample.Resource.Attribute.contentScrim;
+			global::Messert.Controls.Droid.Resource.Attribute.controlBackground = global::Sample.Resource.Attribute.controlBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.counterEnabled = global::Sample.Resource.Attribute.counterEnabled;
+			global::Messert.Controls.Droid.Resource.Attribute.counterMaxLength = global::Sample.Resource.Attribute.counterMaxLength;
+			global::Messert.Controls.Droid.Resource.Attribute.counterOverflowTextAppearance = global::Sample.Resource.Attribute.counterOverflowTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.counterTextAppearance = global::Sample.Resource.Attribute.counterTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.customNavigationLayout = global::Sample.Resource.Attribute.customNavigationLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.defaultQueryHint = global::Sample.Resource.Attribute.defaultQueryHint;
+			global::Messert.Controls.Droid.Resource.Attribute.dialogPreferredPadding = global::Sample.Resource.Attribute.dialogPreferredPadding;
+			global::Messert.Controls.Droid.Resource.Attribute.dialogTheme = global::Sample.Resource.Attribute.dialogTheme;
+			global::Messert.Controls.Droid.Resource.Attribute.displayOptions = global::Sample.Resource.Attribute.displayOptions;
+			global::Messert.Controls.Droid.Resource.Attribute.divider = global::Sample.Resource.Attribute.divider;
+			global::Messert.Controls.Droid.Resource.Attribute.dividerHorizontal = global::Sample.Resource.Attribute.dividerHorizontal;
+			global::Messert.Controls.Droid.Resource.Attribute.dividerPadding = global::Sample.Resource.Attribute.dividerPadding;
+			global::Messert.Controls.Droid.Resource.Attribute.dividerVertical = global::Sample.Resource.Attribute.dividerVertical;
+			global::Messert.Controls.Droid.Resource.Attribute.drawableSize = global::Sample.Resource.Attribute.drawableSize;
+			global::Messert.Controls.Droid.Resource.Attribute.drawerArrowStyle = global::Sample.Resource.Attribute.drawerArrowStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.dropDownListViewStyle = global::Sample.Resource.Attribute.dropDownListViewStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::Sample.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Messert.Controls.Droid.Resource.Attribute.editTextBackground = global::Sample.Resource.Attribute.editTextBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.editTextColor = global::Sample.Resource.Attribute.editTextColor;
+			global::Messert.Controls.Droid.Resource.Attribute.editTextStyle = global::Sample.Resource.Attribute.editTextStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.elevation = global::Sample.Resource.Attribute.elevation;
+			global::Messert.Controls.Droid.Resource.Attribute.errorEnabled = global::Sample.Resource.Attribute.errorEnabled;
+			global::Messert.Controls.Droid.Resource.Attribute.errorTextAppearance = global::Sample.Resource.Attribute.errorTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Sample.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.expanded = global::Sample.Resource.Attribute.expanded;
+			global::Messert.Controls.Droid.Resource.Attribute.expandedTitleGravity = global::Sample.Resource.Attribute.expandedTitleGravity;
+			global::Messert.Controls.Droid.Resource.Attribute.expandedTitleMargin = global::Sample.Resource.Attribute.expandedTitleMargin;
+			global::Messert.Controls.Droid.Resource.Attribute.expandedTitleMarginBottom = global::Sample.Resource.Attribute.expandedTitleMarginBottom;
+			global::Messert.Controls.Droid.Resource.Attribute.expandedTitleMarginEnd = global::Sample.Resource.Attribute.expandedTitleMarginEnd;
+			global::Messert.Controls.Droid.Resource.Attribute.expandedTitleMarginStart = global::Sample.Resource.Attribute.expandedTitleMarginStart;
+			global::Messert.Controls.Droid.Resource.Attribute.expandedTitleMarginTop = global::Sample.Resource.Attribute.expandedTitleMarginTop;
+			global::Messert.Controls.Droid.Resource.Attribute.expandedTitleTextAppearance = global::Sample.Resource.Attribute.expandedTitleTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.fabSize = global::Sample.Resource.Attribute.fabSize;
+			global::Messert.Controls.Droid.Resource.Attribute.fastScrollEnabled = global::Sample.Resource.Attribute.fastScrollEnabled;
+			global::Messert.Controls.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Sample.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Sample.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Sample.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Sample.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.font = global::Sample.Resource.Attribute.font;
+			global::Messert.Controls.Droid.Resource.Attribute.fontFamily = global::Sample.Resource.Attribute.fontFamily;
+			global::Messert.Controls.Droid.Resource.Attribute.fontProviderAuthority = global::Sample.Resource.Attribute.fontProviderAuthority;
+			global::Messert.Controls.Droid.Resource.Attribute.fontProviderCerts = global::Sample.Resource.Attribute.fontProviderCerts;
+			global::Messert.Controls.Droid.Resource.Attribute.fontProviderFetchStrategy = global::Sample.Resource.Attribute.fontProviderFetchStrategy;
+			global::Messert.Controls.Droid.Resource.Attribute.fontProviderFetchTimeout = global::Sample.Resource.Attribute.fontProviderFetchTimeout;
+			global::Messert.Controls.Droid.Resource.Attribute.fontProviderPackage = global::Sample.Resource.Attribute.fontProviderPackage;
+			global::Messert.Controls.Droid.Resource.Attribute.fontProviderQuery = global::Sample.Resource.Attribute.fontProviderQuery;
+			global::Messert.Controls.Droid.Resource.Attribute.fontStyle = global::Sample.Resource.Attribute.fontStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.fontWeight = global::Sample.Resource.Attribute.fontWeight;
+			global::Messert.Controls.Droid.Resource.Attribute.foregroundInsidePadding = global::Sample.Resource.Attribute.foregroundInsidePadding;
+			global::Messert.Controls.Droid.Resource.Attribute.gapBetweenBars = global::Sample.Resource.Attribute.gapBetweenBars;
+			global::Messert.Controls.Droid.Resource.Attribute.goIcon = global::Sample.Resource.Attribute.goIcon;
+			global::Messert.Controls.Droid.Resource.Attribute.headerBackground = global::Sample.Resource.Attribute.headerBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.headerFontFamily = global::Sample.Resource.Attribute.headerFontFamily;
+			global::Messert.Controls.Droid.Resource.Attribute.headerLayout = global::Sample.Resource.Attribute.headerLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.headerTextColor = global::Sample.Resource.Attribute.headerTextColor;
+			global::Messert.Controls.Droid.Resource.Attribute.headerTextSize = global::Sample.Resource.Attribute.headerTextSize;
+			global::Messert.Controls.Droid.Resource.Attribute.height = global::Sample.Resource.Attribute.height;
+			global::Messert.Controls.Droid.Resource.Attribute.hideOnContentScroll = global::Sample.Resource.Attribute.hideOnContentScroll;
+			global::Messert.Controls.Droid.Resource.Attribute.hintAnimationEnabled = global::Sample.Resource.Attribute.hintAnimationEnabled;
+			global::Messert.Controls.Droid.Resource.Attribute.hintEnabled = global::Sample.Resource.Attribute.hintEnabled;
+			global::Messert.Controls.Droid.Resource.Attribute.hintTextAppearance = global::Sample.Resource.Attribute.hintTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.homeAsUpIndicator = global::Sample.Resource.Attribute.homeAsUpIndicator;
+			global::Messert.Controls.Droid.Resource.Attribute.homeLayout = global::Sample.Resource.Attribute.homeLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.horizontalRowDivider = global::Sample.Resource.Attribute.horizontalRowDivider;
+			global::Messert.Controls.Droid.Resource.Attribute.icon = global::Sample.Resource.Attribute.icon;
+			global::Messert.Controls.Droid.Resource.Attribute.iconTint = global::Sample.Resource.Attribute.iconTint;
+			global::Messert.Controls.Droid.Resource.Attribute.iconTintMode = global::Sample.Resource.Attribute.iconTintMode;
+			global::Messert.Controls.Droid.Resource.Attribute.iconifiedByDefault = global::Sample.Resource.Attribute.iconifiedByDefault;
+			global::Messert.Controls.Droid.Resource.Attribute.imageButtonStyle = global::Sample.Resource.Attribute.imageButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.indeterminateProgressStyle = global::Sample.Resource.Attribute.indeterminateProgressStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.initialActivityCount = global::Sample.Resource.Attribute.initialActivityCount;
+			global::Messert.Controls.Droid.Resource.Attribute.insetForeground = global::Sample.Resource.Attribute.insetForeground;
+			global::Messert.Controls.Droid.Resource.Attribute.isLightTheme = global::Sample.Resource.Attribute.isLightTheme;
+			global::Messert.Controls.Droid.Resource.Attribute.itemBackground = global::Sample.Resource.Attribute.itemBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.itemIconTint = global::Sample.Resource.Attribute.itemIconTint;
+			global::Messert.Controls.Droid.Resource.Attribute.itemPadding = global::Sample.Resource.Attribute.itemPadding;
+			global::Messert.Controls.Droid.Resource.Attribute.itemTextAppearance = global::Sample.Resource.Attribute.itemTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.itemTextColor = global::Sample.Resource.Attribute.itemTextColor;
+			global::Messert.Controls.Droid.Resource.Attribute.keylines = global::Sample.Resource.Attribute.keylines;
+			global::Messert.Controls.Droid.Resource.Attribute.layout = global::Sample.Resource.Attribute.layout;
+			global::Messert.Controls.Droid.Resource.Attribute.layoutManager = global::Sample.Resource.Attribute.layoutManager;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_anchor = global::Sample.Resource.Attribute.layout_anchor;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_anchorGravity = global::Sample.Resource.Attribute.layout_anchorGravity;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_behavior = global::Sample.Resource.Attribute.layout_behavior;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_collapseMode = global::Sample.Resource.Attribute.layout_collapseMode;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::Sample.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::Sample.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_insetEdge = global::Sample.Resource.Attribute.layout_insetEdge;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_keyline = global::Sample.Resource.Attribute.layout_keyline;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_scrollFlags = global::Sample.Resource.Attribute.layout_scrollFlags;
+			global::Messert.Controls.Droid.Resource.Attribute.layout_scrollInterpolator = global::Sample.Resource.Attribute.layout_scrollInterpolator;
+			global::Messert.Controls.Droid.Resource.Attribute.lazyLoad = global::Sample.Resource.Attribute.lazyLoad;
+			global::Messert.Controls.Droid.Resource.Attribute.lazyLoadLimit = global::Sample.Resource.Attribute.lazyLoadLimit;
+			global::Messert.Controls.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::Sample.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Messert.Controls.Droid.Resource.Attribute.listDividerAlertDialog = global::Sample.Resource.Attribute.listDividerAlertDialog;
+			global::Messert.Controls.Droid.Resource.Attribute.listItemLayout = global::Sample.Resource.Attribute.listItemLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.listLayout = global::Sample.Resource.Attribute.listLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.listMenuViewStyle = global::Sample.Resource.Attribute.listMenuViewStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.listPopupWindowStyle = global::Sample.Resource.Attribute.listPopupWindowStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.listPreferredItemHeight = global::Sample.Resource.Attribute.listPreferredItemHeight;
+			global::Messert.Controls.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::Sample.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Messert.Controls.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::Sample.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Messert.Controls.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::Sample.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Messert.Controls.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::Sample.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Messert.Controls.Droid.Resource.Attribute.logo = global::Sample.Resource.Attribute.logo;
+			global::Messert.Controls.Droid.Resource.Attribute.logoDescription = global::Sample.Resource.Attribute.logoDescription;
+			global::Messert.Controls.Droid.Resource.Attribute.maxActionInlineWidth = global::Sample.Resource.Attribute.maxActionInlineWidth;
+			global::Messert.Controls.Droid.Resource.Attribute.maxButtonHeight = global::Sample.Resource.Attribute.maxButtonHeight;
+			global::Messert.Controls.Droid.Resource.Attribute.measureWithLargestChild = global::Sample.Resource.Attribute.measureWithLargestChild;
+			global::Messert.Controls.Droid.Resource.Attribute.menu = global::Sample.Resource.Attribute.menu;
+			global::Messert.Controls.Droid.Resource.Attribute.multiChoiceItemLayout = global::Sample.Resource.Attribute.multiChoiceItemLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.navigationContentDescription = global::Sample.Resource.Attribute.navigationContentDescription;
+			global::Messert.Controls.Droid.Resource.Attribute.navigationIcon = global::Sample.Resource.Attribute.navigationIcon;
+			global::Messert.Controls.Droid.Resource.Attribute.navigationMode = global::Sample.Resource.Attribute.navigationMode;
+			global::Messert.Controls.Droid.Resource.Attribute.numericModifiers = global::Sample.Resource.Attribute.numericModifiers;
+			global::Messert.Controls.Droid.Resource.Attribute.overlapAnchor = global::Sample.Resource.Attribute.overlapAnchor;
+			global::Messert.Controls.Droid.Resource.Attribute.paddingBottomNoButtons = global::Sample.Resource.Attribute.paddingBottomNoButtons;
+			global::Messert.Controls.Droid.Resource.Attribute.paddingEnd = global::Sample.Resource.Attribute.paddingEnd;
+			global::Messert.Controls.Droid.Resource.Attribute.paddingStart = global::Sample.Resource.Attribute.paddingStart;
+			global::Messert.Controls.Droid.Resource.Attribute.paddingTopNoTitle = global::Sample.Resource.Attribute.paddingTopNoTitle;
+			global::Messert.Controls.Droid.Resource.Attribute.panelBackground = global::Sample.Resource.Attribute.panelBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.panelMenuListTheme = global::Sample.Resource.Attribute.panelMenuListTheme;
+			global::Messert.Controls.Droid.Resource.Attribute.panelMenuListWidth = global::Sample.Resource.Attribute.panelMenuListWidth;
+			global::Messert.Controls.Droid.Resource.Attribute.passwordToggleContentDescription = global::Sample.Resource.Attribute.passwordToggleContentDescription;
+			global::Messert.Controls.Droid.Resource.Attribute.passwordToggleDrawable = global::Sample.Resource.Attribute.passwordToggleDrawable;
+			global::Messert.Controls.Droid.Resource.Attribute.passwordToggleEnabled = global::Sample.Resource.Attribute.passwordToggleEnabled;
+			global::Messert.Controls.Droid.Resource.Attribute.passwordToggleTint = global::Sample.Resource.Attribute.passwordToggleTint;
+			global::Messert.Controls.Droid.Resource.Attribute.passwordToggleTintMode = global::Sample.Resource.Attribute.passwordToggleTintMode;
+			global::Messert.Controls.Droid.Resource.Attribute.popupMenuStyle = global::Sample.Resource.Attribute.popupMenuStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.popupTheme = global::Sample.Resource.Attribute.popupTheme;
+			global::Messert.Controls.Droid.Resource.Attribute.popupWindowStyle = global::Sample.Resource.Attribute.popupWindowStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.preserveIconSpacing = global::Sample.Resource.Attribute.preserveIconSpacing;
+			global::Messert.Controls.Droid.Resource.Attribute.pressedTranslationZ = global::Sample.Resource.Attribute.pressedTranslationZ;
+			global::Messert.Controls.Droid.Resource.Attribute.progressBarPadding = global::Sample.Resource.Attribute.progressBarPadding;
+			global::Messert.Controls.Droid.Resource.Attribute.progressBarStyle = global::Sample.Resource.Attribute.progressBarStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.queryBackground = global::Sample.Resource.Attribute.queryBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.queryHint = global::Sample.Resource.Attribute.queryHint;
+			global::Messert.Controls.Droid.Resource.Attribute.radioButtonStyle = global::Sample.Resource.Attribute.radioButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.ratingBarStyle = global::Sample.Resource.Attribute.ratingBarStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.ratingBarStyleIndicator = global::Sample.Resource.Attribute.ratingBarStyleIndicator;
+			global::Messert.Controls.Droid.Resource.Attribute.ratingBarStyleSmall = global::Sample.Resource.Attribute.ratingBarStyleSmall;
+			global::Messert.Controls.Droid.Resource.Attribute.reverseLayout = global::Sample.Resource.Attribute.reverseLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.rippleColor = global::Sample.Resource.Attribute.rippleColor;
+			global::Messert.Controls.Droid.Resource.Attribute.rowBackground = global::Sample.Resource.Attribute.rowBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.rowFontFamily = global::Sample.Resource.Attribute.rowFontFamily;
+			global::Messert.Controls.Droid.Resource.Attribute.rowTextColor = global::Sample.Resource.Attribute.rowTextColor;
+			global::Messert.Controls.Droid.Resource.Attribute.rowTextSize = global::Sample.Resource.Attribute.rowTextSize;
+			global::Messert.Controls.Droid.Resource.Attribute.scrimAnimationDuration = global::Sample.Resource.Attribute.scrimAnimationDuration;
+			global::Messert.Controls.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::Sample.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Messert.Controls.Droid.Resource.Attribute.searchHintIcon = global::Sample.Resource.Attribute.searchHintIcon;
+			global::Messert.Controls.Droid.Resource.Attribute.searchIcon = global::Sample.Resource.Attribute.searchIcon;
+			global::Messert.Controls.Droid.Resource.Attribute.searchViewStyle = global::Sample.Resource.Attribute.searchViewStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.seekBarStyle = global::Sample.Resource.Attribute.seekBarStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.selectableItemBackground = global::Sample.Resource.Attribute.selectableItemBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::Sample.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Messert.Controls.Droid.Resource.Attribute.showAsAction = global::Sample.Resource.Attribute.showAsAction;
+			global::Messert.Controls.Droid.Resource.Attribute.showDividers = global::Sample.Resource.Attribute.showDividers;
+			global::Messert.Controls.Droid.Resource.Attribute.showText = global::Sample.Resource.Attribute.showText;
+			global::Messert.Controls.Droid.Resource.Attribute.showTitle = global::Sample.Resource.Attribute.showTitle;
+			global::Messert.Controls.Droid.Resource.Attribute.singleChoiceItemLayout = global::Sample.Resource.Attribute.singleChoiceItemLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.spanCount = global::Sample.Resource.Attribute.spanCount;
+			global::Messert.Controls.Droid.Resource.Attribute.spinBars = global::Sample.Resource.Attribute.spinBars;
+			global::Messert.Controls.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::Sample.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.spinnerStyle = global::Sample.Resource.Attribute.spinnerStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.splitTrack = global::Sample.Resource.Attribute.splitTrack;
+			global::Messert.Controls.Droid.Resource.Attribute.srcCompat = global::Sample.Resource.Attribute.srcCompat;
+			global::Messert.Controls.Droid.Resource.Attribute.stackFromEnd = global::Sample.Resource.Attribute.stackFromEnd;
+			global::Messert.Controls.Droid.Resource.Attribute.state_above_anchor = global::Sample.Resource.Attribute.state_above_anchor;
+			global::Messert.Controls.Droid.Resource.Attribute.state_collapsed = global::Sample.Resource.Attribute.state_collapsed;
+			global::Messert.Controls.Droid.Resource.Attribute.state_collapsible = global::Sample.Resource.Attribute.state_collapsible;
+			global::Messert.Controls.Droid.Resource.Attribute.statusBarBackground = global::Sample.Resource.Attribute.statusBarBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.statusBarScrim = global::Sample.Resource.Attribute.statusBarScrim;
+			global::Messert.Controls.Droid.Resource.Attribute.subMenuArrow = global::Sample.Resource.Attribute.subMenuArrow;
+			global::Messert.Controls.Droid.Resource.Attribute.submitBackground = global::Sample.Resource.Attribute.submitBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.subtitle = global::Sample.Resource.Attribute.subtitle;
+			global::Messert.Controls.Droid.Resource.Attribute.subtitleTextAppearance = global::Sample.Resource.Attribute.subtitleTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.subtitleTextColor = global::Sample.Resource.Attribute.subtitleTextColor;
+			global::Messert.Controls.Droid.Resource.Attribute.subtitleTextStyle = global::Sample.Resource.Attribute.subtitleTextStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.suggestionRowLayout = global::Sample.Resource.Attribute.suggestionRowLayout;
+			global::Messert.Controls.Droid.Resource.Attribute.switchMinWidth = global::Sample.Resource.Attribute.switchMinWidth;
+			global::Messert.Controls.Droid.Resource.Attribute.switchPadding = global::Sample.Resource.Attribute.switchPadding;
+			global::Messert.Controls.Droid.Resource.Attribute.switchStyle = global::Sample.Resource.Attribute.switchStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.switchTextAppearance = global::Sample.Resource.Attribute.switchTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.tabBackground = global::Sample.Resource.Attribute.tabBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.tabContentStart = global::Sample.Resource.Attribute.tabContentStart;
+			global::Messert.Controls.Droid.Resource.Attribute.tabGravity = global::Sample.Resource.Attribute.tabGravity;
+			global::Messert.Controls.Droid.Resource.Attribute.tabIndicatorColor = global::Sample.Resource.Attribute.tabIndicatorColor;
+			global::Messert.Controls.Droid.Resource.Attribute.tabIndicatorHeight = global::Sample.Resource.Attribute.tabIndicatorHeight;
+			global::Messert.Controls.Droid.Resource.Attribute.tabMaxWidth = global::Sample.Resource.Attribute.tabMaxWidth;
+			global::Messert.Controls.Droid.Resource.Attribute.tabMinWidth = global::Sample.Resource.Attribute.tabMinWidth;
+			global::Messert.Controls.Droid.Resource.Attribute.tabMode = global::Sample.Resource.Attribute.tabMode;
+			global::Messert.Controls.Droid.Resource.Attribute.tabPadding = global::Sample.Resource.Attribute.tabPadding;
+			global::Messert.Controls.Droid.Resource.Attribute.tabPaddingBottom = global::Sample.Resource.Attribute.tabPaddingBottom;
+			global::Messert.Controls.Droid.Resource.Attribute.tabPaddingEnd = global::Sample.Resource.Attribute.tabPaddingEnd;
+			global::Messert.Controls.Droid.Resource.Attribute.tabPaddingStart = global::Sample.Resource.Attribute.tabPaddingStart;
+			global::Messert.Controls.Droid.Resource.Attribute.tabPaddingTop = global::Sample.Resource.Attribute.tabPaddingTop;
+			global::Messert.Controls.Droid.Resource.Attribute.tabSelectedTextColor = global::Sample.Resource.Attribute.tabSelectedTextColor;
+			global::Messert.Controls.Droid.Resource.Attribute.tabTextAppearance = global::Sample.Resource.Attribute.tabTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.tabTextColor = global::Sample.Resource.Attribute.tabTextColor;
+			global::Messert.Controls.Droid.Resource.Attribute.textAllCaps = global::Sample.Resource.Attribute.textAllCaps;
+			global::Messert.Controls.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::Sample.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Messert.Controls.Droid.Resource.Attribute.textAppearanceListItem = global::Sample.Resource.Attribute.textAppearanceListItem;
+			global::Messert.Controls.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::Sample.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Messert.Controls.Droid.Resource.Attribute.textAppearanceListItemSmall = global::Sample.Resource.Attribute.textAppearanceListItemSmall;
+			global::Messert.Controls.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::Sample.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Messert.Controls.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Sample.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Messert.Controls.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::Sample.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Messert.Controls.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::Sample.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Messert.Controls.Droid.Resource.Attribute.textColorAlertDialogListItem = global::Sample.Resource.Attribute.textColorAlertDialogListItem;
+			global::Messert.Controls.Droid.Resource.Attribute.textColorError = global::Sample.Resource.Attribute.textColorError;
+			global::Messert.Controls.Droid.Resource.Attribute.textColorSearchUrl = global::Sample.Resource.Attribute.textColorSearchUrl;
+			global::Messert.Controls.Droid.Resource.Attribute.theme = global::Sample.Resource.Attribute.theme;
+			global::Messert.Controls.Droid.Resource.Attribute.thickness = global::Sample.Resource.Attribute.thickness;
+			global::Messert.Controls.Droid.Resource.Attribute.thumbTextPadding = global::Sample.Resource.Attribute.thumbTextPadding;
+			global::Messert.Controls.Droid.Resource.Attribute.thumbTint = global::Sample.Resource.Attribute.thumbTint;
+			global::Messert.Controls.Droid.Resource.Attribute.thumbTintMode = global::Sample.Resource.Attribute.thumbTintMode;
+			global::Messert.Controls.Droid.Resource.Attribute.tickMark = global::Sample.Resource.Attribute.tickMark;
+			global::Messert.Controls.Droid.Resource.Attribute.tickMarkTint = global::Sample.Resource.Attribute.tickMarkTint;
+			global::Messert.Controls.Droid.Resource.Attribute.tickMarkTintMode = global::Sample.Resource.Attribute.tickMarkTintMode;
+			global::Messert.Controls.Droid.Resource.Attribute.tint = global::Sample.Resource.Attribute.tint;
+			global::Messert.Controls.Droid.Resource.Attribute.tintMode = global::Sample.Resource.Attribute.tintMode;
+			global::Messert.Controls.Droid.Resource.Attribute.title = global::Sample.Resource.Attribute.title;
+			global::Messert.Controls.Droid.Resource.Attribute.titleEnabled = global::Sample.Resource.Attribute.titleEnabled;
+			global::Messert.Controls.Droid.Resource.Attribute.titleMargin = global::Sample.Resource.Attribute.titleMargin;
+			global::Messert.Controls.Droid.Resource.Attribute.titleMarginBottom = global::Sample.Resource.Attribute.titleMarginBottom;
+			global::Messert.Controls.Droid.Resource.Attribute.titleMarginEnd = global::Sample.Resource.Attribute.titleMarginEnd;
+			global::Messert.Controls.Droid.Resource.Attribute.titleMarginStart = global::Sample.Resource.Attribute.titleMarginStart;
+			global::Messert.Controls.Droid.Resource.Attribute.titleMarginTop = global::Sample.Resource.Attribute.titleMarginTop;
+			global::Messert.Controls.Droid.Resource.Attribute.titleMargins = global::Sample.Resource.Attribute.titleMargins;
+			global::Messert.Controls.Droid.Resource.Attribute.titleTextAppearance = global::Sample.Resource.Attribute.titleTextAppearance;
+			global::Messert.Controls.Droid.Resource.Attribute.titleTextColor = global::Sample.Resource.Attribute.titleTextColor;
+			global::Messert.Controls.Droid.Resource.Attribute.titleTextStyle = global::Sample.Resource.Attribute.titleTextStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.toolbarId = global::Sample.Resource.Attribute.toolbarId;
+			global::Messert.Controls.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::Sample.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.toolbarStyle = global::Sample.Resource.Attribute.toolbarStyle;
+			global::Messert.Controls.Droid.Resource.Attribute.tooltipForegroundColor = global::Sample.Resource.Attribute.tooltipForegroundColor;
+			global::Messert.Controls.Droid.Resource.Attribute.tooltipFrameBackground = global::Sample.Resource.Attribute.tooltipFrameBackground;
+			global::Messert.Controls.Droid.Resource.Attribute.tooltipText = global::Sample.Resource.Attribute.tooltipText;
+			global::Messert.Controls.Droid.Resource.Attribute.track = global::Sample.Resource.Attribute.track;
+			global::Messert.Controls.Droid.Resource.Attribute.trackTint = global::Sample.Resource.Attribute.trackTint;
+			global::Messert.Controls.Droid.Resource.Attribute.trackTintMode = global::Sample.Resource.Attribute.trackTintMode;
+			global::Messert.Controls.Droid.Resource.Attribute.useCompatPadding = global::Sample.Resource.Attribute.useCompatPadding;
+			global::Messert.Controls.Droid.Resource.Attribute.verticalRowDivider = global::Sample.Resource.Attribute.verticalRowDivider;
+			global::Messert.Controls.Droid.Resource.Attribute.voiceIcon = global::Sample.Resource.Attribute.voiceIcon;
+			global::Messert.Controls.Droid.Resource.Attribute.windowActionBar = global::Sample.Resource.Attribute.windowActionBar;
+			global::Messert.Controls.Droid.Resource.Attribute.windowActionBarOverlay = global::Sample.Resource.Attribute.windowActionBarOverlay;
+			global::Messert.Controls.Droid.Resource.Attribute.windowActionModeOverlay = global::Sample.Resource.Attribute.windowActionModeOverlay;
+			global::Messert.Controls.Droid.Resource.Attribute.windowFixedHeightMajor = global::Sample.Resource.Attribute.windowFixedHeightMajor;
+			global::Messert.Controls.Droid.Resource.Attribute.windowFixedHeightMinor = global::Sample.Resource.Attribute.windowFixedHeightMinor;
+			global::Messert.Controls.Droid.Resource.Attribute.windowFixedWidthMajor = global::Sample.Resource.Attribute.windowFixedWidthMajor;
+			global::Messert.Controls.Droid.Resource.Attribute.windowFixedWidthMinor = global::Sample.Resource.Attribute.windowFixedWidthMinor;
+			global::Messert.Controls.Droid.Resource.Attribute.windowMinWidthMajor = global::Sample.Resource.Attribute.windowMinWidthMajor;
+			global::Messert.Controls.Droid.Resource.Attribute.windowMinWidthMinor = global::Sample.Resource.Attribute.windowMinWidthMinor;
+			global::Messert.Controls.Droid.Resource.Attribute.windowNoTitle = global::Sample.Resource.Attribute.windowNoTitle;
+			global::Messert.Controls.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::Sample.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Messert.Controls.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::Sample.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Messert.Controls.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Sample.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Messert.Controls.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::Sample.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::Messert.Controls.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::Sample.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::Messert.Controls.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Sample.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::Sample.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Messert.Controls.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::Sample.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Messert.Controls.Droid.Resource.Color.abc_btn_colored_text_material = global::Sample.Resource.Color.abc_btn_colored_text_material;
+			global::Messert.Controls.Droid.Resource.Color.abc_color_highlight_material = global::Sample.Resource.Color.abc_color_highlight_material;
+			global::Messert.Controls.Droid.Resource.Color.abc_hint_foreground_material_dark = global::Sample.Resource.Color.abc_hint_foreground_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.abc_hint_foreground_material_light = global::Sample.Resource.Color.abc_hint_foreground_material_light;
+			global::Messert.Controls.Droid.Resource.Color.abc_input_method_navigation_guard = global::Sample.Resource.Color.abc_input_method_navigation_guard;
+			global::Messert.Controls.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::Sample.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::Sample.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Messert.Controls.Droid.Resource.Color.abc_primary_text_material_dark = global::Sample.Resource.Color.abc_primary_text_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.abc_primary_text_material_light = global::Sample.Resource.Color.abc_primary_text_material_light;
+			global::Messert.Controls.Droid.Resource.Color.abc_search_url_text = global::Sample.Resource.Color.abc_search_url_text;
+			global::Messert.Controls.Droid.Resource.Color.abc_search_url_text_normal = global::Sample.Resource.Color.abc_search_url_text_normal;
+			global::Messert.Controls.Droid.Resource.Color.abc_search_url_text_pressed = global::Sample.Resource.Color.abc_search_url_text_pressed;
+			global::Messert.Controls.Droid.Resource.Color.abc_search_url_text_selected = global::Sample.Resource.Color.abc_search_url_text_selected;
+			global::Messert.Controls.Droid.Resource.Color.abc_secondary_text_material_dark = global::Sample.Resource.Color.abc_secondary_text_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.abc_secondary_text_material_light = global::Sample.Resource.Color.abc_secondary_text_material_light;
+			global::Messert.Controls.Droid.Resource.Color.abc_tint_btn_checkable = global::Sample.Resource.Color.abc_tint_btn_checkable;
+			global::Messert.Controls.Droid.Resource.Color.abc_tint_default = global::Sample.Resource.Color.abc_tint_default;
+			global::Messert.Controls.Droid.Resource.Color.abc_tint_edittext = global::Sample.Resource.Color.abc_tint_edittext;
+			global::Messert.Controls.Droid.Resource.Color.abc_tint_seek_thumb = global::Sample.Resource.Color.abc_tint_seek_thumb;
+			global::Messert.Controls.Droid.Resource.Color.abc_tint_spinner = global::Sample.Resource.Color.abc_tint_spinner;
+			global::Messert.Controls.Droid.Resource.Color.abc_tint_switch_track = global::Sample.Resource.Color.abc_tint_switch_track;
+			global::Messert.Controls.Droid.Resource.Color.accent_material_dark = global::Sample.Resource.Color.accent_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.accent_material_light = global::Sample.Resource.Color.accent_material_light;
+			global::Messert.Controls.Droid.Resource.Color.aluminum = global::Sample.Resource.Color.aluminum;
+			global::Messert.Controls.Droid.Resource.Color.background_floating_material_dark = global::Sample.Resource.Color.background_floating_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.background_floating_material_light = global::Sample.Resource.Color.background_floating_material_light;
+			global::Messert.Controls.Droid.Resource.Color.background_material_dark = global::Sample.Resource.Color.background_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.background_material_light = global::Sample.Resource.Color.background_material_light;
+			global::Messert.Controls.Droid.Resource.Color.@base = global::Sample.Resource.Color.@base;
+			global::Messert.Controls.Droid.Resource.Color.black = global::Sample.Resource.Color.black;
+			global::Messert.Controls.Droid.Resource.Color.bright_blue = global::Sample.Resource.Color.bright_blue;
+			global::Messert.Controls.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::Sample.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.bright_foreground_disabled_material_light = global::Sample.Resource.Color.bright_foreground_disabled_material_light;
+			global::Messert.Controls.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::Sample.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.bright_foreground_inverse_material_light = global::Sample.Resource.Color.bright_foreground_inverse_material_light;
+			global::Messert.Controls.Droid.Resource.Color.bright_foreground_material_dark = global::Sample.Resource.Color.bright_foreground_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.bright_foreground_material_light = global::Sample.Resource.Color.bright_foreground_material_light;
+			global::Messert.Controls.Droid.Resource.Color.buttonAccent = global::Sample.Resource.Color.buttonAccent;
+			global::Messert.Controls.Droid.Resource.Color.button_material_dark = global::Sample.Resource.Color.button_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.button_material_light = global::Sample.Resource.Color.button_material_light;
+			global::Messert.Controls.Droid.Resource.Color.colorAccent = global::Sample.Resource.Color.colorAccent;
+			global::Messert.Controls.Droid.Resource.Color.colorPrimary = global::Sample.Resource.Color.colorPrimary;
+			global::Messert.Controls.Droid.Resource.Color.colorPrimaryDark = global::Sample.Resource.Color.colorPrimaryDark;
+			global::Messert.Controls.Droid.Resource.Color.colorPrimaryDarker = global::Sample.Resource.Color.colorPrimaryDarker;
+			global::Messert.Controls.Droid.Resource.Color.dark_blue = global::Sample.Resource.Color.dark_blue;
+			global::Messert.Controls.Droid.Resource.Color.dark_purple = global::Sample.Resource.Color.dark_purple;
+			global::Messert.Controls.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::Sample.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Messert.Controls.Droid.Resource.Color.design_error = global::Sample.Resource.Color.design_error;
+			global::Messert.Controls.Droid.Resource.Color.design_fab_shadow_end_color = global::Sample.Resource.Color.design_fab_shadow_end_color;
+			global::Messert.Controls.Droid.Resource.Color.design_fab_shadow_mid_color = global::Sample.Resource.Color.design_fab_shadow_mid_color;
+			global::Messert.Controls.Droid.Resource.Color.design_fab_shadow_start_color = global::Sample.Resource.Color.design_fab_shadow_start_color;
+			global::Messert.Controls.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::Sample.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Messert.Controls.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::Sample.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Messert.Controls.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::Sample.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Messert.Controls.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::Sample.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Messert.Controls.Droid.Resource.Color.design_snackbar_background_color = global::Sample.Resource.Color.design_snackbar_background_color;
+			global::Messert.Controls.Droid.Resource.Color.design_tint_password_toggle = global::Sample.Resource.Color.design_tint_password_toggle;
+			global::Messert.Controls.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::Sample.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.dim_foreground_disabled_material_light = global::Sample.Resource.Color.dim_foreground_disabled_material_light;
+			global::Messert.Controls.Droid.Resource.Color.dim_foreground_material_dark = global::Sample.Resource.Color.dim_foreground_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.dim_foreground_material_light = global::Sample.Resource.Color.dim_foreground_material_light;
+			global::Messert.Controls.Droid.Resource.Color.error_color_material = global::Sample.Resource.Color.error_color_material;
+			global::Messert.Controls.Droid.Resource.Color.foreground_material_dark = global::Sample.Resource.Color.foreground_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.foreground_material_light = global::Sample.Resource.Color.foreground_material_light;
+			global::Messert.Controls.Droid.Resource.Color.gray = global::Sample.Resource.Color.gray;
+			global::Messert.Controls.Droid.Resource.Color.highlighted_text_material_dark = global::Sample.Resource.Color.highlighted_text_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.highlighted_text_material_light = global::Sample.Resource.Color.highlighted_text_material_light;
+			global::Messert.Controls.Droid.Resource.Color.iron = global::Sample.Resource.Color.iron;
+			global::Messert.Controls.Droid.Resource.Color.jet = global::Sample.Resource.Color.jet;
+			global::Messert.Controls.Droid.Resource.Color.jumbo = global::Sample.Resource.Color.jumbo;
+			global::Messert.Controls.Droid.Resource.Color.light_blue = global::Sample.Resource.Color.light_blue;
+			global::Messert.Controls.Droid.Resource.Color.material_blue_grey_800 = global::Sample.Resource.Color.material_blue_grey_800;
+			global::Messert.Controls.Droid.Resource.Color.material_blue_grey_900 = global::Sample.Resource.Color.material_blue_grey_900;
+			global::Messert.Controls.Droid.Resource.Color.material_blue_grey_950 = global::Sample.Resource.Color.material_blue_grey_950;
+			global::Messert.Controls.Droid.Resource.Color.material_deep_teal_200 = global::Sample.Resource.Color.material_deep_teal_200;
+			global::Messert.Controls.Droid.Resource.Color.material_deep_teal_500 = global::Sample.Resource.Color.material_deep_teal_500;
+			global::Messert.Controls.Droid.Resource.Color.material_grey_100 = global::Sample.Resource.Color.material_grey_100;
+			global::Messert.Controls.Droid.Resource.Color.material_grey_300 = global::Sample.Resource.Color.material_grey_300;
+			global::Messert.Controls.Droid.Resource.Color.material_grey_50 = global::Sample.Resource.Color.material_grey_50;
+			global::Messert.Controls.Droid.Resource.Color.material_grey_600 = global::Sample.Resource.Color.material_grey_600;
+			global::Messert.Controls.Droid.Resource.Color.material_grey_800 = global::Sample.Resource.Color.material_grey_800;
+			global::Messert.Controls.Droid.Resource.Color.material_grey_850 = global::Sample.Resource.Color.material_grey_850;
+			global::Messert.Controls.Droid.Resource.Color.material_grey_900 = global::Sample.Resource.Color.material_grey_900;
+			global::Messert.Controls.Droid.Resource.Color.monsoon = global::Sample.Resource.Color.monsoon;
+			global::Messert.Controls.Droid.Resource.Color.muggy = global::Sample.Resource.Color.muggy;
+			global::Messert.Controls.Droid.Resource.Color.navBackgroundChecked = global::Sample.Resource.Color.navBackgroundChecked;
+			global::Messert.Controls.Droid.Resource.Color.navBackgroundUnchecked = global::Sample.Resource.Color.navBackgroundUnchecked;
+			global::Messert.Controls.Droid.Resource.Color.notification_action_color_filter = global::Sample.Resource.Color.notification_action_color_filter;
+			global::Messert.Controls.Droid.Resource.Color.notification_icon_bg_color = global::Sample.Resource.Color.notification_icon_bg_color;
+			global::Messert.Controls.Droid.Resource.Color.notification_material_background_media_default_color = global::Sample.Resource.Color.notification_material_background_media_default_color;
+			global::Messert.Controls.Droid.Resource.Color.oil = global::Sample.Resource.Color.oil;
+			global::Messert.Controls.Droid.Resource.Color.orange = global::Sample.Resource.Color.orange;
+			global::Messert.Controls.Droid.Resource.Color.prefs_bg = global::Sample.Resource.Color.prefs_bg;
+			global::Messert.Controls.Droid.Resource.Color.prefs_tc = global::Sample.Resource.Color.prefs_tc;
+			global::Messert.Controls.Droid.Resource.Color.primary_dark_material_dark = global::Sample.Resource.Color.primary_dark_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.primary_dark_material_light = global::Sample.Resource.Color.primary_dark_material_light;
+			global::Messert.Controls.Droid.Resource.Color.primary_material_dark = global::Sample.Resource.Color.primary_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.primary_material_light = global::Sample.Resource.Color.primary_material_light;
+			global::Messert.Controls.Droid.Resource.Color.primary_text_default_material_dark = global::Sample.Resource.Color.primary_text_default_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.primary_text_default_material_light = global::Sample.Resource.Color.primary_text_default_material_light;
+			global::Messert.Controls.Droid.Resource.Color.primary_text_disabled_material_dark = global::Sample.Resource.Color.primary_text_disabled_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.primary_text_disabled_material_light = global::Sample.Resource.Color.primary_text_disabled_material_light;
+			global::Messert.Controls.Droid.Resource.Color.ripple_material_dark = global::Sample.Resource.Color.ripple_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.ripple_material_light = global::Sample.Resource.Color.ripple_material_light;
+			global::Messert.Controls.Droid.Resource.Color.secondary_text_default_material_dark = global::Sample.Resource.Color.secondary_text_default_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.secondary_text_default_material_light = global::Sample.Resource.Color.secondary_text_default_material_light;
+			global::Messert.Controls.Droid.Resource.Color.secondary_text_disabled_material_dark = global::Sample.Resource.Color.secondary_text_disabled_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.secondary_text_disabled_material_light = global::Sample.Resource.Color.secondary_text_disabled_material_light;
+			global::Messert.Controls.Droid.Resource.Color.semi_transparent = global::Sample.Resource.Color.semi_transparent;
+			global::Messert.Controls.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::Sample.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.switch_thumb_disabled_material_light = global::Sample.Resource.Color.switch_thumb_disabled_material_light;
+			global::Messert.Controls.Droid.Resource.Color.switch_thumb_material_dark = global::Sample.Resource.Color.switch_thumb_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.switch_thumb_material_light = global::Sample.Resource.Color.switch_thumb_material_light;
+			global::Messert.Controls.Droid.Resource.Color.switch_thumb_normal_material_dark = global::Sample.Resource.Color.switch_thumb_normal_material_dark;
+			global::Messert.Controls.Droid.Resource.Color.switch_thumb_normal_material_light = global::Sample.Resource.Color.switch_thumb_normal_material_light;
+			global::Messert.Controls.Droid.Resource.Color.toolbarPrimary = global::Sample.Resource.Color.toolbarPrimary;
+			global::Messert.Controls.Droid.Resource.Color.tooltip_background_dark = global::Sample.Resource.Color.tooltip_background_dark;
+			global::Messert.Controls.Droid.Resource.Color.tooltip_background_light = global::Sample.Resource.Color.tooltip_background_light;
+			global::Messert.Controls.Droid.Resource.Color.transparent = global::Sample.Resource.Color.transparent;
+			global::Messert.Controls.Droid.Resource.Color.white = global::Sample.Resource.Color.white;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::Sample.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Sample.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::Sample.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Sample.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Sample.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::Sample.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Sample.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Sample.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Sample.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_progress_bar_size = global::Sample.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::Sample.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Sample.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Sample.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Sample.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_button_min_height_material = global::Sample.Resource.Dimension.abc_action_button_min_height_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_button_min_width_material = global::Sample.Resource.Dimension.abc_action_button_min_width_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Sample.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Sample.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::Sample.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::Sample.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::Sample.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::Sample.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Sample.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::Sample.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_control_corner_material = global::Sample.Resource.Dimension.abc_control_corner_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_control_inset_material = global::Sample.Resource.Dimension.abc_control_inset_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_control_padding_material = global::Sample.Resource.Dimension.abc_control_padding_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::Sample.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::Sample.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::Sample.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::Sample.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Sample.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Sample.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_min_width_major = global::Sample.Resource.Dimension.abc_dialog_min_width_major;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::Sample.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_padding_material = global::Sample.Resource.Dimension.abc_dialog_padding_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::Sample.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::Sample.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::Sample.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::Sample.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::Sample.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Sample.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Sample.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Sample.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Sample.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::Sample.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_floating_window_z = global::Sample.Resource.Dimension.abc_floating_window_z;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Sample.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_panel_menu_list_width = global::Sample.Resource.Dimension.abc_panel_menu_list_width;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_progress_bar_height_material = global::Sample.Resource.Dimension.abc_progress_bar_height_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_search_view_preferred_height = global::Sample.Resource.Dimension.abc_search_view_preferred_height;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_search_view_preferred_width = global::Sample.Resource.Dimension.abc_search_view_preferred_width;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::Sample.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Sample.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::Sample.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_switch_padding = global::Sample.Resource.Dimension.abc_switch_padding;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_body_1_material = global::Sample.Resource.Dimension.abc_text_size_body_1_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_body_2_material = global::Sample.Resource.Dimension.abc_text_size_body_2_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_button_material = global::Sample.Resource.Dimension.abc_text_size_button_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_caption_material = global::Sample.Resource.Dimension.abc_text_size_caption_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_display_1_material = global::Sample.Resource.Dimension.abc_text_size_display_1_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_display_2_material = global::Sample.Resource.Dimension.abc_text_size_display_2_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_display_3_material = global::Sample.Resource.Dimension.abc_text_size_display_3_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_display_4_material = global::Sample.Resource.Dimension.abc_text_size_display_4_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_headline_material = global::Sample.Resource.Dimension.abc_text_size_headline_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_large_material = global::Sample.Resource.Dimension.abc_text_size_large_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_medium_material = global::Sample.Resource.Dimension.abc_text_size_medium_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::Sample.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_menu_material = global::Sample.Resource.Dimension.abc_text_size_menu_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_small_material = global::Sample.Resource.Dimension.abc_text_size_small_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_subhead_material = global::Sample.Resource.Dimension.abc_text_size_subhead_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Sample.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_title_material = global::Sample.Resource.Dimension.abc_text_size_title_material;
+			global::Messert.Controls.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::Sample.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Messert.Controls.Droid.Resource.Dimension.activity_horizontal_margin = global::Sample.Resource.Dimension.activity_horizontal_margin;
+			global::Messert.Controls.Droid.Resource.Dimension.activity_vertical_margin = global::Sample.Resource.Dimension.activity_vertical_margin;
+			global::Messert.Controls.Droid.Resource.Dimension.compat_button_inset_horizontal_material = global::Sample.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Messert.Controls.Droid.Resource.Dimension.compat_button_inset_vertical_material = global::Sample.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Messert.Controls.Droid.Resource.Dimension.compat_button_padding_horizontal_material = global::Sample.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Messert.Controls.Droid.Resource.Dimension.compat_button_padding_vertical_material = global::Sample.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Messert.Controls.Droid.Resource.Dimension.compat_control_corner_material = global::Sample.Resource.Dimension.compat_control_corner_material;
+			global::Messert.Controls.Droid.Resource.Dimension.design_appbar_elevation = global::Sample.Resource.Dimension.design_appbar_elevation;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Sample.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::Sample.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::Sample.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_navigation_height = global::Sample.Resource.Dimension.design_bottom_navigation_height;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::Sample.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::Sample.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_navigation_margin = global::Sample.Resource.Dimension.design_bottom_navigation_margin;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::Sample.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::Sample.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Sample.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Messert.Controls.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Sample.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Messert.Controls.Droid.Resource.Dimension.design_fab_border_width = global::Sample.Resource.Dimension.design_fab_border_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_fab_elevation = global::Sample.Resource.Dimension.design_fab_elevation;
+			global::Messert.Controls.Droid.Resource.Dimension.design_fab_image_size = global::Sample.Resource.Dimension.design_fab_image_size;
+			global::Messert.Controls.Droid.Resource.Dimension.design_fab_size_mini = global::Sample.Resource.Dimension.design_fab_size_mini;
+			global::Messert.Controls.Droid.Resource.Dimension.design_fab_size_normal = global::Sample.Resource.Dimension.design_fab_size_normal;
+			global::Messert.Controls.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::Sample.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Messert.Controls.Droid.Resource.Dimension.design_navigation_elevation = global::Sample.Resource.Dimension.design_navigation_elevation;
+			global::Messert.Controls.Droid.Resource.Dimension.design_navigation_icon_padding = global::Sample.Resource.Dimension.design_navigation_icon_padding;
+			global::Messert.Controls.Droid.Resource.Dimension.design_navigation_icon_size = global::Sample.Resource.Dimension.design_navigation_icon_size;
+			global::Messert.Controls.Droid.Resource.Dimension.design_navigation_max_width = global::Sample.Resource.Dimension.design_navigation_max_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_navigation_padding_bottom = global::Sample.Resource.Dimension.design_navigation_padding_bottom;
+			global::Messert.Controls.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::Sample.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::Sample.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::Sample.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_elevation = global::Sample.Resource.Dimension.design_snackbar_elevation;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Sample.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_max_width = global::Sample.Resource.Dimension.design_snackbar_max_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_min_width = global::Sample.Resource.Dimension.design_snackbar_min_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::Sample.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::Sample.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Sample.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Messert.Controls.Droid.Resource.Dimension.design_snackbar_text_size = global::Sample.Resource.Dimension.design_snackbar_text_size;
+			global::Messert.Controls.Droid.Resource.Dimension.design_tab_max_width = global::Sample.Resource.Dimension.design_tab_max_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::Sample.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Messert.Controls.Droid.Resource.Dimension.design_tab_text_size = global::Sample.Resource.Dimension.design_tab_text_size;
+			global::Messert.Controls.Droid.Resource.Dimension.design_tab_text_size_2line = global::Sample.Resource.Dimension.design_tab_text_size_2line;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_0dp = global::Sample.Resource.Dimension.dimen_0dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_128dp = global::Sample.Resource.Dimension.dimen_128dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_14sp = global::Sample.Resource.Dimension.dimen_14sp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_16sp = global::Sample.Resource.Dimension.dimen_16sp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_1dp = global::Sample.Resource.Dimension.dimen_1dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_24dp = global::Sample.Resource.Dimension.dimen_24dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_2dp = global::Sample.Resource.Dimension.dimen_2dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_32dp = global::Sample.Resource.Dimension.dimen_32dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_48dp = global::Sample.Resource.Dimension.dimen_48dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_4dp = global::Sample.Resource.Dimension.dimen_4dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_56dp = global::Sample.Resource.Dimension.dimen_56dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_64dp = global::Sample.Resource.Dimension.dimen_64dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_84dp = global::Sample.Resource.Dimension.dimen_84dp;
+			global::Messert.Controls.Droid.Resource.Dimension.dimen_8dp = global::Sample.Resource.Dimension.dimen_8dp;
+			global::Messert.Controls.Droid.Resource.Dimension.disabled_alpha_material_dark = global::Sample.Resource.Dimension.disabled_alpha_material_dark;
+			global::Messert.Controls.Droid.Resource.Dimension.disabled_alpha_material_light = global::Sample.Resource.Dimension.disabled_alpha_material_light;
+			global::Messert.Controls.Droid.Resource.Dimension.fastscroll_default_thickness = global::Sample.Resource.Dimension.fastscroll_default_thickness;
+			global::Messert.Controls.Droid.Resource.Dimension.fastscroll_margin = global::Sample.Resource.Dimension.fastscroll_margin;
+			global::Messert.Controls.Droid.Resource.Dimension.fastscroll_minimum_range = global::Sample.Resource.Dimension.fastscroll_minimum_range;
+			global::Messert.Controls.Droid.Resource.Dimension.highlight_alpha_material_colored = global::Sample.Resource.Dimension.highlight_alpha_material_colored;
+			global::Messert.Controls.Droid.Resource.Dimension.highlight_alpha_material_dark = global::Sample.Resource.Dimension.highlight_alpha_material_dark;
+			global::Messert.Controls.Droid.Resource.Dimension.highlight_alpha_material_light = global::Sample.Resource.Dimension.highlight_alpha_material_light;
+			global::Messert.Controls.Droid.Resource.Dimension.hint_alpha_material_dark = global::Sample.Resource.Dimension.hint_alpha_material_dark;
+			global::Messert.Controls.Droid.Resource.Dimension.hint_alpha_material_light = global::Sample.Resource.Dimension.hint_alpha_material_light;
+			global::Messert.Controls.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::Sample.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Messert.Controls.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::Sample.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Messert.Controls.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Sample.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Messert.Controls.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Sample.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Messert.Controls.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Sample.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_action_icon_size = global::Sample.Resource.Dimension.notification_action_icon_size;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_action_text_size = global::Sample.Resource.Dimension.notification_action_text_size;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_big_circle_margin = global::Sample.Resource.Dimension.notification_big_circle_margin;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_content_margin_start = global::Sample.Resource.Dimension.notification_content_margin_start;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_large_icon_height = global::Sample.Resource.Dimension.notification_large_icon_height;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_large_icon_width = global::Sample.Resource.Dimension.notification_large_icon_width;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_main_column_padding_top = global::Sample.Resource.Dimension.notification_main_column_padding_top;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_media_narrow_margin = global::Sample.Resource.Dimension.notification_media_narrow_margin;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_right_icon_size = global::Sample.Resource.Dimension.notification_right_icon_size;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_right_side_padding_top = global::Sample.Resource.Dimension.notification_right_side_padding_top;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_small_icon_background_padding = global::Sample.Resource.Dimension.notification_small_icon_background_padding;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::Sample.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_subtext_size = global::Sample.Resource.Dimension.notification_subtext_size;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_top_pad = global::Sample.Resource.Dimension.notification_top_pad;
+			global::Messert.Controls.Droid.Resource.Dimension.notification_top_pad_large_text = global::Sample.Resource.Dimension.notification_top_pad_large_text;
+			global::Messert.Controls.Droid.Resource.Dimension.tooltip_corner_radius = global::Sample.Resource.Dimension.tooltip_corner_radius;
+			global::Messert.Controls.Droid.Resource.Dimension.tooltip_horizontal_padding = global::Sample.Resource.Dimension.tooltip_horizontal_padding;
+			global::Messert.Controls.Droid.Resource.Dimension.tooltip_margin = global::Sample.Resource.Dimension.tooltip_margin;
+			global::Messert.Controls.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Sample.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Messert.Controls.Droid.Resource.Dimension.tooltip_precise_anchor_threshold = global::Sample.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Messert.Controls.Droid.Resource.Dimension.tooltip_vertical_padding = global::Sample.Resource.Dimension.tooltip_vertical_padding;
+			global::Messert.Controls.Droid.Resource.Dimension.tooltip_y_offset_non_touch = global::Sample.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Messert.Controls.Droid.Resource.Dimension.tooltip_y_offset_touch = global::Sample.Resource.Dimension.tooltip_y_offset_touch;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Sample.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::Sample.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_borderless_material = global::Sample.Resource.Drawable.abc_btn_borderless_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_check_material = global::Sample.Resource.Drawable.abc_btn_check_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Sample.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Sample.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_colored_material = global::Sample.Resource.Drawable.abc_btn_colored_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::Sample.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_radio_material = global::Sample.Resource.Drawable.abc_btn_radio_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Sample.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Sample.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Sample.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Sample.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::Sample.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_cab_background_top_material = global::Sample.Resource.Drawable.abc_cab_background_top_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Sample.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_control_background_material = global::Sample.Resource.Drawable.abc_control_background_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_dialog_material_background = global::Sample.Resource.Drawable.abc_dialog_material_background;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_edit_text_material = global::Sample.Resource.Drawable.abc_edit_text_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_ab_back_material = global::Sample.Resource.Drawable.abc_ic_ab_back_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Sample.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_clear_material = global::Sample.Resource.Drawable.abc_ic_clear_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::Sample.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::Sample.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_search_api_material = global::Sample.Resource.Drawable.abc_ic_search_api_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::Sample.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::Sample.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::Sample.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::Sample.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_item_background_holo_dark = global::Sample.Resource.Drawable.abc_item_background_holo_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_item_background_holo_light = global::Sample.Resource.Drawable.abc_item_background_holo_light;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Sample.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_focused_holo = global::Sample.Resource.Drawable.abc_list_focused_holo;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_longpressed_holo = global::Sample.Resource.Drawable.abc_list_longpressed_holo;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::Sample.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::Sample.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Sample.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Sample.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_list_selector_holo_light = global::Sample.Resource.Drawable.abc_list_selector_holo_light;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Sample.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::Sample.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::Sample.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ratingbar_material = global::Sample.Resource.Drawable.abc_ratingbar_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_ratingbar_small_material = global::Sample.Resource.Drawable.abc_ratingbar_small_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Sample.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Sample.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::Sample.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::Sample.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_seekbar_track_material = global::Sample.Resource.Drawable.abc_seekbar_track_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::Sample.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_switch_thumb_material = global::Sample.Resource.Drawable.abc_switch_thumb_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Sample.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_tab_indicator_material = global::Sample.Resource.Drawable.abc_tab_indicator_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Sample.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_text_cursor_material = global::Sample.Resource.Drawable.abc_text_cursor_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_textfield_search_material = global::Sample.Resource.Drawable.abc_textfield_search_material;
+			global::Messert.Controls.Droid.Resource.Drawable.abc_vector_test = global::Sample.Resource.Drawable.abc_vector_test;
+			global::Messert.Controls.Droid.Resource.Drawable.avd_hide_password = global::Sample.Resource.Drawable.avd_hide_password;
+			global::Messert.Controls.Droid.Resource.Drawable.avd_hide_password_1 = global::Sample.Resource.Drawable.avd_hide_password_1;
+			global::Messert.Controls.Droid.Resource.Drawable.avd_hide_password_2 = global::Sample.Resource.Drawable.avd_hide_password_2;
+			global::Messert.Controls.Droid.Resource.Drawable.avd_hide_password_3 = global::Sample.Resource.Drawable.avd_hide_password_3;
+			global::Messert.Controls.Droid.Resource.Drawable.avd_show_password = global::Sample.Resource.Drawable.avd_show_password;
+			global::Messert.Controls.Droid.Resource.Drawable.avd_show_password_1 = global::Sample.Resource.Drawable.avd_show_password_1;
+			global::Messert.Controls.Droid.Resource.Drawable.avd_show_password_2 = global::Sample.Resource.Drawable.avd_show_password_2;
+			global::Messert.Controls.Droid.Resource.Drawable.avd_show_password_3 = global::Sample.Resource.Drawable.avd_show_password_3;
+			global::Messert.Controls.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::Sample.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Messert.Controls.Droid.Resource.Drawable.design_fab_background = global::Sample.Resource.Drawable.design_fab_background;
+			global::Messert.Controls.Droid.Resource.Drawable.design_ic_visibility = global::Sample.Resource.Drawable.design_ic_visibility;
+			global::Messert.Controls.Droid.Resource.Drawable.design_ic_visibility_off = global::Sample.Resource.Drawable.design_ic_visibility_off;
+			global::Messert.Controls.Droid.Resource.Drawable.design_password_eye = global::Sample.Resource.Drawable.design_password_eye;
+			global::Messert.Controls.Droid.Resource.Drawable.design_snackbar_background = global::Sample.Resource.Drawable.design_snackbar_background;
+			global::Messert.Controls.Droid.Resource.Drawable.fab_add = global::Sample.Resource.Drawable.fab_add;
+			global::Messert.Controls.Droid.Resource.Drawable.horizontal_divider = global::Sample.Resource.Drawable.horizontal_divider;
+			global::Messert.Controls.Droid.Resource.Drawable.navigation_empty_icon = global::Sample.Resource.Drawable.navigation_empty_icon;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_action_background = global::Sample.Resource.Drawable.notification_action_background;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_bg = global::Sample.Resource.Drawable.notification_bg;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_bg_low = global::Sample.Resource.Drawable.notification_bg_low;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_bg_low_normal = global::Sample.Resource.Drawable.notification_bg_low_normal;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_bg_low_pressed = global::Sample.Resource.Drawable.notification_bg_low_pressed;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_bg_normal = global::Sample.Resource.Drawable.notification_bg_normal;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_bg_normal_pressed = global::Sample.Resource.Drawable.notification_bg_normal_pressed;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_icon_background = global::Sample.Resource.Drawable.notification_icon_background;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_template_icon_bg = global::Sample.Resource.Drawable.notification_template_icon_bg;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_template_icon_low_bg = global::Sample.Resource.Drawable.notification_template_icon_low_bg;
+			global::Messert.Controls.Droid.Resource.Drawable.notification_tile_bg = global::Sample.Resource.Drawable.notification_tile_bg;
+			global::Messert.Controls.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::Sample.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Messert.Controls.Droid.Resource.Drawable.rounded_border_dark = global::Sample.Resource.Drawable.rounded_border_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.tooltip_frame_dark = global::Sample.Resource.Drawable.tooltip_frame_dark;
+			global::Messert.Controls.Droid.Resource.Drawable.tooltip_frame_light = global::Sample.Resource.Drawable.tooltip_frame_light;
+			global::Messert.Controls.Droid.Resource.Id.ALT = global::Sample.Resource.Id.ALT;
+			global::Messert.Controls.Droid.Resource.Id.CTRL = global::Sample.Resource.Id.CTRL;
+			global::Messert.Controls.Droid.Resource.Id.FUNCTION = global::Sample.Resource.Id.FUNCTION;
+			global::Messert.Controls.Droid.Resource.Id.META = global::Sample.Resource.Id.META;
+			global::Messert.Controls.Droid.Resource.Id.SHIFT = global::Sample.Resource.Id.SHIFT;
+			global::Messert.Controls.Droid.Resource.Id.SYM = global::Sample.Resource.Id.SYM;
+			global::Messert.Controls.Droid.Resource.Id.action0 = global::Sample.Resource.Id.action0;
+			global::Messert.Controls.Droid.Resource.Id.action_bar = global::Sample.Resource.Id.action_bar;
+			global::Messert.Controls.Droid.Resource.Id.action_bar_activity_content = global::Sample.Resource.Id.action_bar_activity_content;
+			global::Messert.Controls.Droid.Resource.Id.action_bar_container = global::Sample.Resource.Id.action_bar_container;
+			global::Messert.Controls.Droid.Resource.Id.action_bar_root = global::Sample.Resource.Id.action_bar_root;
+			global::Messert.Controls.Droid.Resource.Id.action_bar_spinner = global::Sample.Resource.Id.action_bar_spinner;
+			global::Messert.Controls.Droid.Resource.Id.action_bar_subtitle = global::Sample.Resource.Id.action_bar_subtitle;
+			global::Messert.Controls.Droid.Resource.Id.action_bar_title = global::Sample.Resource.Id.action_bar_title;
+			global::Messert.Controls.Droid.Resource.Id.action_container = global::Sample.Resource.Id.action_container;
+			global::Messert.Controls.Droid.Resource.Id.action_context_bar = global::Sample.Resource.Id.action_context_bar;
+			global::Messert.Controls.Droid.Resource.Id.action_divider = global::Sample.Resource.Id.action_divider;
+			global::Messert.Controls.Droid.Resource.Id.action_image = global::Sample.Resource.Id.action_image;
+			global::Messert.Controls.Droid.Resource.Id.action_menu_divider = global::Sample.Resource.Id.action_menu_divider;
+			global::Messert.Controls.Droid.Resource.Id.action_menu_presenter = global::Sample.Resource.Id.action_menu_presenter;
+			global::Messert.Controls.Droid.Resource.Id.action_mode_bar = global::Sample.Resource.Id.action_mode_bar;
+			global::Messert.Controls.Droid.Resource.Id.action_mode_bar_stub = global::Sample.Resource.Id.action_mode_bar_stub;
+			global::Messert.Controls.Droid.Resource.Id.action_mode_close_button = global::Sample.Resource.Id.action_mode_close_button;
+			global::Messert.Controls.Droid.Resource.Id.action_text = global::Sample.Resource.Id.action_text;
+			global::Messert.Controls.Droid.Resource.Id.actions = global::Sample.Resource.Id.actions;
+			global::Messert.Controls.Droid.Resource.Id.activity_chooser_view_content = global::Sample.Resource.Id.activity_chooser_view_content;
+			global::Messert.Controls.Droid.Resource.Id.add = global::Sample.Resource.Id.add;
+			global::Messert.Controls.Droid.Resource.Id.alertTitle = global::Sample.Resource.Id.alertTitle;
+			global::Messert.Controls.Droid.Resource.Id.all = global::Sample.Resource.Id.all;
+			global::Messert.Controls.Droid.Resource.Id.always = global::Sample.Resource.Id.always;
+			global::Messert.Controls.Droid.Resource.Id.async = global::Sample.Resource.Id.async;
+			global::Messert.Controls.Droid.Resource.Id.auto = global::Sample.Resource.Id.auto;
+			global::Messert.Controls.Droid.Resource.Id.beginning = global::Sample.Resource.Id.beginning;
+			global::Messert.Controls.Droid.Resource.Id.blocking = global::Sample.Resource.Id.blocking;
+			global::Messert.Controls.Droid.Resource.Id.bottom = global::Sample.Resource.Id.bottom;
+			global::Messert.Controls.Droid.Resource.Id.buttonPanel = global::Sample.Resource.Id.buttonPanel;
+			global::Messert.Controls.Droid.Resource.Id.cancel_action = global::Sample.Resource.Id.cancel_action;
+			global::Messert.Controls.Droid.Resource.Id.center = global::Sample.Resource.Id.center;
+			global::Messert.Controls.Droid.Resource.Id.center_horizontal = global::Sample.Resource.Id.center_horizontal;
+			global::Messert.Controls.Droid.Resource.Id.center_vertical = global::Sample.Resource.Id.center_vertical;
+			global::Messert.Controls.Droid.Resource.Id.checkbox = global::Sample.Resource.Id.checkbox;
+			global::Messert.Controls.Droid.Resource.Id.chronometer = global::Sample.Resource.Id.chronometer;
+			global::Messert.Controls.Droid.Resource.Id.clip_horizontal = global::Sample.Resource.Id.clip_horizontal;
+			global::Messert.Controls.Droid.Resource.Id.clip_vertical = global::Sample.Resource.Id.clip_vertical;
+			global::Messert.Controls.Droid.Resource.Id.collapseActionView = global::Sample.Resource.Id.collapseActionView;
+			global::Messert.Controls.Droid.Resource.Id.container = global::Sample.Resource.Id.container;
+			global::Messert.Controls.Droid.Resource.Id.contentPanel = global::Sample.Resource.Id.contentPanel;
+			global::Messert.Controls.Droid.Resource.Id.coordinator = global::Sample.Resource.Id.coordinator;
+			global::Messert.Controls.Droid.Resource.Id.custom = global::Sample.Resource.Id.custom;
+			global::Messert.Controls.Droid.Resource.Id.customPanel = global::Sample.Resource.Id.customPanel;
+			global::Messert.Controls.Droid.Resource.Id.decor_content_parent = global::Sample.Resource.Id.decor_content_parent;
+			global::Messert.Controls.Droid.Resource.Id.default_activity_button = global::Sample.Resource.Id.default_activity_button;
+			global::Messert.Controls.Droid.Resource.Id.design_bottom_sheet = global::Sample.Resource.Id.design_bottom_sheet;
+			global::Messert.Controls.Droid.Resource.Id.design_menu_item_action_area = global::Sample.Resource.Id.design_menu_item_action_area;
+			global::Messert.Controls.Droid.Resource.Id.design_menu_item_action_area_stub = global::Sample.Resource.Id.design_menu_item_action_area_stub;
+			global::Messert.Controls.Droid.Resource.Id.design_menu_item_text = global::Sample.Resource.Id.design_menu_item_text;
+			global::Messert.Controls.Droid.Resource.Id.design_navigation_view = global::Sample.Resource.Id.design_navigation_view;
+			global::Messert.Controls.Droid.Resource.Id.disableHome = global::Sample.Resource.Id.disableHome;
+			global::Messert.Controls.Droid.Resource.Id.edit_query = global::Sample.Resource.Id.edit_query;
+			global::Messert.Controls.Droid.Resource.Id.end = global::Sample.Resource.Id.end;
+			global::Messert.Controls.Droid.Resource.Id.end_padder = global::Sample.Resource.Id.end_padder;
+			global::Messert.Controls.Droid.Resource.Id.enterAlways = global::Sample.Resource.Id.enterAlways;
+			global::Messert.Controls.Droid.Resource.Id.enterAlwaysCollapsed = global::Sample.Resource.Id.enterAlwaysCollapsed;
+			global::Messert.Controls.Droid.Resource.Id.exitUntilCollapsed = global::Sample.Resource.Id.exitUntilCollapsed;
+			global::Messert.Controls.Droid.Resource.Id.expand_activities_button = global::Sample.Resource.Id.expand_activities_button;
+			global::Messert.Controls.Droid.Resource.Id.expanded_menu = global::Sample.Resource.Id.expanded_menu;
+			global::Messert.Controls.Droid.Resource.Id.fill = global::Sample.Resource.Id.fill;
+			global::Messert.Controls.Droid.Resource.Id.fill_horizontal = global::Sample.Resource.Id.fill_horizontal;
+			global::Messert.Controls.Droid.Resource.Id.fill_vertical = global::Sample.Resource.Id.fill_vertical;
+			global::Messert.Controls.Droid.Resource.Id.@fixed = global::Sample.Resource.Id.@fixed;
+			global::Messert.Controls.Droid.Resource.Id.forever = global::Sample.Resource.Id.forever;
+			global::Messert.Controls.Droid.Resource.Id.ghost_view = global::Sample.Resource.Id.ghost_view;
+			global::Messert.Controls.Droid.Resource.Id.home = global::Sample.Resource.Id.home;
+			global::Messert.Controls.Droid.Resource.Id.homeAsUp = global::Sample.Resource.Id.homeAsUp;
+			global::Messert.Controls.Droid.Resource.Id.icon = global::Sample.Resource.Id.icon;
+			global::Messert.Controls.Droid.Resource.Id.icon_group = global::Sample.Resource.Id.icon_group;
+			global::Messert.Controls.Droid.Resource.Id.ifRoom = global::Sample.Resource.Id.ifRoom;
+			global::Messert.Controls.Droid.Resource.Id.image = global::Sample.Resource.Id.image;
+			global::Messert.Controls.Droid.Resource.Id.info = global::Sample.Resource.Id.info;
+			global::Messert.Controls.Droid.Resource.Id.italic = global::Sample.Resource.Id.italic;
+			global::Messert.Controls.Droid.Resource.Id.item_touch_helper_previous_elevation = global::Sample.Resource.Id.item_touch_helper_previous_elevation;
+			global::Messert.Controls.Droid.Resource.Id.largeLabel = global::Sample.Resource.Id.largeLabel;
+			global::Messert.Controls.Droid.Resource.Id.left = global::Sample.Resource.Id.left;
+			global::Messert.Controls.Droid.Resource.Id.line1 = global::Sample.Resource.Id.line1;
+			global::Messert.Controls.Droid.Resource.Id.line3 = global::Sample.Resource.Id.line3;
+			global::Messert.Controls.Droid.Resource.Id.listMode = global::Sample.Resource.Id.listMode;
+			global::Messert.Controls.Droid.Resource.Id.list_item = global::Sample.Resource.Id.list_item;
+			global::Messert.Controls.Droid.Resource.Id.masked = global::Sample.Resource.Id.masked;
+			global::Messert.Controls.Droid.Resource.Id.media_actions = global::Sample.Resource.Id.media_actions;
+			global::Messert.Controls.Droid.Resource.Id.message = global::Sample.Resource.Id.message;
+			global::Messert.Controls.Droid.Resource.Id.middle = global::Sample.Resource.Id.middle;
+			global::Messert.Controls.Droid.Resource.Id.mini = global::Sample.Resource.Id.mini;
+			global::Messert.Controls.Droid.Resource.Id.multiply = global::Sample.Resource.Id.multiply;
+			global::Messert.Controls.Droid.Resource.Id.navigation_header_container = global::Sample.Resource.Id.navigation_header_container;
+			global::Messert.Controls.Droid.Resource.Id.never = global::Sample.Resource.Id.never;
+			global::Messert.Controls.Droid.Resource.Id.none = global::Sample.Resource.Id.none;
+			global::Messert.Controls.Droid.Resource.Id.normal = global::Sample.Resource.Id.normal;
+			global::Messert.Controls.Droid.Resource.Id.notification_background = global::Sample.Resource.Id.notification_background;
+			global::Messert.Controls.Droid.Resource.Id.notification_main_column = global::Sample.Resource.Id.notification_main_column;
+			global::Messert.Controls.Droid.Resource.Id.notification_main_column_container = global::Sample.Resource.Id.notification_main_column_container;
+			global::Messert.Controls.Droid.Resource.Id.parallax = global::Sample.Resource.Id.parallax;
+			global::Messert.Controls.Droid.Resource.Id.parentPanel = global::Sample.Resource.Id.parentPanel;
+			global::Messert.Controls.Droid.Resource.Id.parent_matrix = global::Sample.Resource.Id.parent_matrix;
+			global::Messert.Controls.Droid.Resource.Id.pin = global::Sample.Resource.Id.pin;
+			global::Messert.Controls.Droid.Resource.Id.progress_circular = global::Sample.Resource.Id.progress_circular;
+			global::Messert.Controls.Droid.Resource.Id.progress_horizontal = global::Sample.Resource.Id.progress_horizontal;
+			global::Messert.Controls.Droid.Resource.Id.radio = global::Sample.Resource.Id.radio;
+			global::Messert.Controls.Droid.Resource.Id.right = global::Sample.Resource.Id.right;
+			global::Messert.Controls.Droid.Resource.Id.right_icon = global::Sample.Resource.Id.right_icon;
+			global::Messert.Controls.Droid.Resource.Id.right_side = global::Sample.Resource.Id.right_side;
+			global::Messert.Controls.Droid.Resource.Id.save_image_matrix = global::Sample.Resource.Id.save_image_matrix;
+			global::Messert.Controls.Droid.Resource.Id.save_non_transition_alpha = global::Sample.Resource.Id.save_non_transition_alpha;
+			global::Messert.Controls.Droid.Resource.Id.save_scale_type = global::Sample.Resource.Id.save_scale_type;
+			global::Messert.Controls.Droid.Resource.Id.screen = global::Sample.Resource.Id.screen;
+			global::Messert.Controls.Droid.Resource.Id.scroll = global::Sample.Resource.Id.scroll;
+			global::Messert.Controls.Droid.Resource.Id.scrollIndicatorDown = global::Sample.Resource.Id.scrollIndicatorDown;
+			global::Messert.Controls.Droid.Resource.Id.scrollIndicatorUp = global::Sample.Resource.Id.scrollIndicatorUp;
+			global::Messert.Controls.Droid.Resource.Id.scrollView = global::Sample.Resource.Id.scrollView;
+			global::Messert.Controls.Droid.Resource.Id.scrollable = global::Sample.Resource.Id.scrollable;
+			global::Messert.Controls.Droid.Resource.Id.search_badge = global::Sample.Resource.Id.search_badge;
+			global::Messert.Controls.Droid.Resource.Id.search_bar = global::Sample.Resource.Id.search_bar;
+			global::Messert.Controls.Droid.Resource.Id.search_button = global::Sample.Resource.Id.search_button;
+			global::Messert.Controls.Droid.Resource.Id.search_close_btn = global::Sample.Resource.Id.search_close_btn;
+			global::Messert.Controls.Droid.Resource.Id.search_edit_frame = global::Sample.Resource.Id.search_edit_frame;
+			global::Messert.Controls.Droid.Resource.Id.search_go_btn = global::Sample.Resource.Id.search_go_btn;
+			global::Messert.Controls.Droid.Resource.Id.search_mag_icon = global::Sample.Resource.Id.search_mag_icon;
+			global::Messert.Controls.Droid.Resource.Id.search_plate = global::Sample.Resource.Id.search_plate;
+			global::Messert.Controls.Droid.Resource.Id.search_src_text = global::Sample.Resource.Id.search_src_text;
+			global::Messert.Controls.Droid.Resource.Id.search_voice_btn = global::Sample.Resource.Id.search_voice_btn;
+			global::Messert.Controls.Droid.Resource.Id.select_dialog_listview = global::Sample.Resource.Id.select_dialog_listview;
+			global::Messert.Controls.Droid.Resource.Id.shortcut = global::Sample.Resource.Id.shortcut;
+			global::Messert.Controls.Droid.Resource.Id.showCustom = global::Sample.Resource.Id.showCustom;
+			global::Messert.Controls.Droid.Resource.Id.showHome = global::Sample.Resource.Id.showHome;
+			global::Messert.Controls.Droid.Resource.Id.showTitle = global::Sample.Resource.Id.showTitle;
+			global::Messert.Controls.Droid.Resource.Id.smallLabel = global::Sample.Resource.Id.smallLabel;
+			global::Messert.Controls.Droid.Resource.Id.snackbar_action = global::Sample.Resource.Id.snackbar_action;
+			global::Messert.Controls.Droid.Resource.Id.snackbar_text = global::Sample.Resource.Id.snackbar_text;
+			global::Messert.Controls.Droid.Resource.Id.snap = global::Sample.Resource.Id.snap;
+			global::Messert.Controls.Droid.Resource.Id.spacer = global::Sample.Resource.Id.spacer;
+			global::Messert.Controls.Droid.Resource.Id.split_action_bar = global::Sample.Resource.Id.split_action_bar;
+			global::Messert.Controls.Droid.Resource.Id.src_atop = global::Sample.Resource.Id.src_atop;
+			global::Messert.Controls.Droid.Resource.Id.src_in = global::Sample.Resource.Id.src_in;
+			global::Messert.Controls.Droid.Resource.Id.src_over = global::Sample.Resource.Id.src_over;
+			global::Messert.Controls.Droid.Resource.Id.start = global::Sample.Resource.Id.start;
+			global::Messert.Controls.Droid.Resource.Id.status_bar_latest_event_content = global::Sample.Resource.Id.status_bar_latest_event_content;
+			global::Messert.Controls.Droid.Resource.Id.submenuarrow = global::Sample.Resource.Id.submenuarrow;
+			global::Messert.Controls.Droid.Resource.Id.submit_area = global::Sample.Resource.Id.submit_area;
+			global::Messert.Controls.Droid.Resource.Id.tabMode = global::Sample.Resource.Id.tabMode;
+			global::Messert.Controls.Droid.Resource.Id.text = global::Sample.Resource.Id.text;
+			global::Messert.Controls.Droid.Resource.Id.text2 = global::Sample.Resource.Id.text2;
+			global::Messert.Controls.Droid.Resource.Id.textSpacerNoButtons = global::Sample.Resource.Id.textSpacerNoButtons;
+			global::Messert.Controls.Droid.Resource.Id.textSpacerNoTitle = global::Sample.Resource.Id.textSpacerNoTitle;
+			global::Messert.Controls.Droid.Resource.Id.text_input_password_toggle = global::Sample.Resource.Id.text_input_password_toggle;
+			global::Messert.Controls.Droid.Resource.Id.textinput_counter = global::Sample.Resource.Id.textinput_counter;
+			global::Messert.Controls.Droid.Resource.Id.textinput_error = global::Sample.Resource.Id.textinput_error;
+			global::Messert.Controls.Droid.Resource.Id.time = global::Sample.Resource.Id.time;
+			global::Messert.Controls.Droid.Resource.Id.title = global::Sample.Resource.Id.title;
+			global::Messert.Controls.Droid.Resource.Id.titleDividerNoCustom = global::Sample.Resource.Id.titleDividerNoCustom;
+			global::Messert.Controls.Droid.Resource.Id.title_template = global::Sample.Resource.Id.title_template;
+			global::Messert.Controls.Droid.Resource.Id.top = global::Sample.Resource.Id.top;
+			global::Messert.Controls.Droid.Resource.Id.topPanel = global::Sample.Resource.Id.topPanel;
+			global::Messert.Controls.Droid.Resource.Id.touch_outside = global::Sample.Resource.Id.touch_outside;
+			global::Messert.Controls.Droid.Resource.Id.transition_current_scene = global::Sample.Resource.Id.transition_current_scene;
+			global::Messert.Controls.Droid.Resource.Id.transition_layout_save = global::Sample.Resource.Id.transition_layout_save;
+			global::Messert.Controls.Droid.Resource.Id.transition_position = global::Sample.Resource.Id.transition_position;
+			global::Messert.Controls.Droid.Resource.Id.transition_scene_layoutid_cache = global::Sample.Resource.Id.transition_scene_layoutid_cache;
+			global::Messert.Controls.Droid.Resource.Id.transition_transform = global::Sample.Resource.Id.transition_transform;
+			global::Messert.Controls.Droid.Resource.Id.uniform = global::Sample.Resource.Id.uniform;
+			global::Messert.Controls.Droid.Resource.Id.up = global::Sample.Resource.Id.up;
+			global::Messert.Controls.Droid.Resource.Id.useLogo = global::Sample.Resource.Id.useLogo;
+			global::Messert.Controls.Droid.Resource.Id.view_offset_helper = global::Sample.Resource.Id.view_offset_helper;
+			global::Messert.Controls.Droid.Resource.Id.visible = global::Sample.Resource.Id.visible;
+			global::Messert.Controls.Droid.Resource.Id.withText = global::Sample.Resource.Id.withText;
+			global::Messert.Controls.Droid.Resource.Id.wrap_content = global::Sample.Resource.Id.wrap_content;
+			global::Messert.Controls.Droid.Resource.Integer.abc_config_activityDefaultDur = global::Sample.Resource.Integer.abc_config_activityDefaultDur;
+			global::Messert.Controls.Droid.Resource.Integer.abc_config_activityShortDur = global::Sample.Resource.Integer.abc_config_activityShortDur;
+			global::Messert.Controls.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::Sample.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Messert.Controls.Droid.Resource.Integer.bottom_sheet_slide_duration = global::Sample.Resource.Integer.bottom_sheet_slide_duration;
+			global::Messert.Controls.Droid.Resource.Integer.cancel_button_image_alpha = global::Sample.Resource.Integer.cancel_button_image_alpha;
+			global::Messert.Controls.Droid.Resource.Integer.config_tooltipAnimTime = global::Sample.Resource.Integer.config_tooltipAnimTime;
+			global::Messert.Controls.Droid.Resource.Integer.design_snackbar_text_max_lines = global::Sample.Resource.Integer.design_snackbar_text_max_lines;
+			global::Messert.Controls.Droid.Resource.Integer.hide_password_duration = global::Sample.Resource.Integer.hide_password_duration;
+			global::Messert.Controls.Droid.Resource.Integer.show_password_duration = global::Sample.Resource.Integer.show_password_duration;
+			global::Messert.Controls.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::Sample.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Messert.Controls.Droid.Resource.Layout.abc_action_bar_title_item = global::Sample.Resource.Layout.abc_action_bar_title_item;
+			global::Messert.Controls.Droid.Resource.Layout.abc_action_bar_up_container = global::Sample.Resource.Layout.abc_action_bar_up_container;
+			global::Messert.Controls.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout = global::Sample.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::Messert.Controls.Droid.Resource.Layout.abc_action_menu_item_layout = global::Sample.Resource.Layout.abc_action_menu_item_layout;
+			global::Messert.Controls.Droid.Resource.Layout.abc_action_menu_layout = global::Sample.Resource.Layout.abc_action_menu_layout;
+			global::Messert.Controls.Droid.Resource.Layout.abc_action_mode_bar = global::Sample.Resource.Layout.abc_action_mode_bar;
+			global::Messert.Controls.Droid.Resource.Layout.abc_action_mode_close_item_material = global::Sample.Resource.Layout.abc_action_mode_close_item_material;
+			global::Messert.Controls.Droid.Resource.Layout.abc_activity_chooser_view = global::Sample.Resource.Layout.abc_activity_chooser_view;
+			global::Messert.Controls.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::Sample.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Messert.Controls.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::Sample.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Messert.Controls.Droid.Resource.Layout.abc_alert_dialog_material = global::Sample.Resource.Layout.abc_alert_dialog_material;
+			global::Messert.Controls.Droid.Resource.Layout.abc_alert_dialog_title_material = global::Sample.Resource.Layout.abc_alert_dialog_title_material;
+			global::Messert.Controls.Droid.Resource.Layout.abc_dialog_title_material = global::Sample.Resource.Layout.abc_dialog_title_material;
+			global::Messert.Controls.Droid.Resource.Layout.abc_expanded_menu_layout = global::Sample.Resource.Layout.abc_expanded_menu_layout;
+			global::Messert.Controls.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::Sample.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Messert.Controls.Droid.Resource.Layout.abc_list_menu_item_icon = global::Sample.Resource.Layout.abc_list_menu_item_icon;
+			global::Messert.Controls.Droid.Resource.Layout.abc_list_menu_item_layout = global::Sample.Resource.Layout.abc_list_menu_item_layout;
+			global::Messert.Controls.Droid.Resource.Layout.abc_list_menu_item_radio = global::Sample.Resource.Layout.abc_list_menu_item_radio;
+			global::Messert.Controls.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::Sample.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Messert.Controls.Droid.Resource.Layout.abc_popup_menu_item_layout = global::Sample.Resource.Layout.abc_popup_menu_item_layout;
+			global::Messert.Controls.Droid.Resource.Layout.abc_screen_content_include = global::Sample.Resource.Layout.abc_screen_content_include;
+			global::Messert.Controls.Droid.Resource.Layout.abc_screen_simple = global::Sample.Resource.Layout.abc_screen_simple;
+			global::Messert.Controls.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Sample.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Messert.Controls.Droid.Resource.Layout.abc_screen_toolbar = global::Sample.Resource.Layout.abc_screen_toolbar;
+			global::Messert.Controls.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Sample.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Messert.Controls.Droid.Resource.Layout.abc_search_view = global::Sample.Resource.Layout.abc_search_view;
+			global::Messert.Controls.Droid.Resource.Layout.abc_select_dialog_material = global::Sample.Resource.Layout.abc_select_dialog_material;
+			global::Messert.Controls.Droid.Resource.Layout.design_bottom_navigation_item = global::Sample.Resource.Layout.design_bottom_navigation_item;
+			global::Messert.Controls.Droid.Resource.Layout.design_bottom_sheet_dialog = global::Sample.Resource.Layout.design_bottom_sheet_dialog;
+			global::Messert.Controls.Droid.Resource.Layout.design_layout_snackbar = global::Sample.Resource.Layout.design_layout_snackbar;
+			global::Messert.Controls.Droid.Resource.Layout.design_layout_snackbar_include = global::Sample.Resource.Layout.design_layout_snackbar_include;
+			global::Messert.Controls.Droid.Resource.Layout.design_layout_tab_icon = global::Sample.Resource.Layout.design_layout_tab_icon;
+			global::Messert.Controls.Droid.Resource.Layout.design_layout_tab_text = global::Sample.Resource.Layout.design_layout_tab_text;
+			global::Messert.Controls.Droid.Resource.Layout.design_menu_item_action_area = global::Sample.Resource.Layout.design_menu_item_action_area;
+			global::Messert.Controls.Droid.Resource.Layout.design_navigation_item = global::Sample.Resource.Layout.design_navigation_item;
+			global::Messert.Controls.Droid.Resource.Layout.design_navigation_item_header = global::Sample.Resource.Layout.design_navigation_item_header;
+			global::Messert.Controls.Droid.Resource.Layout.design_navigation_item_separator = global::Sample.Resource.Layout.design_navigation_item_separator;
+			global::Messert.Controls.Droid.Resource.Layout.design_navigation_item_subheader = global::Sample.Resource.Layout.design_navigation_item_subheader;
+			global::Messert.Controls.Droid.Resource.Layout.design_navigation_menu = global::Sample.Resource.Layout.design_navigation_menu;
+			global::Messert.Controls.Droid.Resource.Layout.design_navigation_menu_item = global::Sample.Resource.Layout.design_navigation_menu_item;
+			global::Messert.Controls.Droid.Resource.Layout.design_text_input_password_icon = global::Sample.Resource.Layout.design_text_input_password_icon;
+			global::Messert.Controls.Droid.Resource.Layout.notification_action = global::Sample.Resource.Layout.notification_action;
+			global::Messert.Controls.Droid.Resource.Layout.notification_action_tombstone = global::Sample.Resource.Layout.notification_action_tombstone;
+			global::Messert.Controls.Droid.Resource.Layout.notification_media_action = global::Sample.Resource.Layout.notification_media_action;
+			global::Messert.Controls.Droid.Resource.Layout.notification_media_cancel_action = global::Sample.Resource.Layout.notification_media_cancel_action;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_big_media = global::Sample.Resource.Layout.notification_template_big_media;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_big_media_custom = global::Sample.Resource.Layout.notification_template_big_media_custom;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_big_media_narrow = global::Sample.Resource.Layout.notification_template_big_media_narrow;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::Sample.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_custom_big = global::Sample.Resource.Layout.notification_template_custom_big;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_icon_group = global::Sample.Resource.Layout.notification_template_icon_group;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_lines_media = global::Sample.Resource.Layout.notification_template_lines_media;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_media = global::Sample.Resource.Layout.notification_template_media;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_media_custom = global::Sample.Resource.Layout.notification_template_media_custom;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_part_chronometer = global::Sample.Resource.Layout.notification_template_part_chronometer;
+			global::Messert.Controls.Droid.Resource.Layout.notification_template_part_time = global::Sample.Resource.Layout.notification_template_part_time;
+			global::Messert.Controls.Droid.Resource.Layout.select_dialog_item_material = global::Sample.Resource.Layout.select_dialog_item_material;
+			global::Messert.Controls.Droid.Resource.Layout.select_dialog_multichoice_material = global::Sample.Resource.Layout.select_dialog_multichoice_material;
+			global::Messert.Controls.Droid.Resource.Layout.select_dialog_singlechoice_material = global::Sample.Resource.Layout.select_dialog_singlechoice_material;
+			global::Messert.Controls.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::Sample.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Messert.Controls.Droid.Resource.Layout.tooltip = global::Sample.Resource.Layout.tooltip;
+			global::Messert.Controls.Droid.Resource.String.abc_action_bar_home_description = global::Sample.Resource.String.abc_action_bar_home_description;
+			global::Messert.Controls.Droid.Resource.String.abc_action_bar_home_description_format = global::Sample.Resource.String.abc_action_bar_home_description_format;
+			global::Messert.Controls.Droid.Resource.String.abc_action_bar_home_subtitle_description_format = global::Sample.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::Messert.Controls.Droid.Resource.String.abc_action_bar_up_description = global::Sample.Resource.String.abc_action_bar_up_description;
+			global::Messert.Controls.Droid.Resource.String.abc_action_menu_overflow_description = global::Sample.Resource.String.abc_action_menu_overflow_description;
+			global::Messert.Controls.Droid.Resource.String.abc_action_mode_done = global::Sample.Resource.String.abc_action_mode_done;
+			global::Messert.Controls.Droid.Resource.String.abc_activity_chooser_view_see_all = global::Sample.Resource.String.abc_activity_chooser_view_see_all;
+			global::Messert.Controls.Droid.Resource.String.abc_activitychooserview_choose_application = global::Sample.Resource.String.abc_activitychooserview_choose_application;
+			global::Messert.Controls.Droid.Resource.String.abc_capital_off = global::Sample.Resource.String.abc_capital_off;
+			global::Messert.Controls.Droid.Resource.String.abc_capital_on = global::Sample.Resource.String.abc_capital_on;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_body_1_material = global::Sample.Resource.String.abc_font_family_body_1_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_body_2_material = global::Sample.Resource.String.abc_font_family_body_2_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_button_material = global::Sample.Resource.String.abc_font_family_button_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_caption_material = global::Sample.Resource.String.abc_font_family_caption_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_display_1_material = global::Sample.Resource.String.abc_font_family_display_1_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_display_2_material = global::Sample.Resource.String.abc_font_family_display_2_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_display_3_material = global::Sample.Resource.String.abc_font_family_display_3_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_display_4_material = global::Sample.Resource.String.abc_font_family_display_4_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_headline_material = global::Sample.Resource.String.abc_font_family_headline_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_menu_material = global::Sample.Resource.String.abc_font_family_menu_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_subhead_material = global::Sample.Resource.String.abc_font_family_subhead_material;
+			global::Messert.Controls.Droid.Resource.String.abc_font_family_title_material = global::Sample.Resource.String.abc_font_family_title_material;
+			global::Messert.Controls.Droid.Resource.String.abc_search_hint = global::Sample.Resource.String.abc_search_hint;
+			global::Messert.Controls.Droid.Resource.String.abc_searchview_description_clear = global::Sample.Resource.String.abc_searchview_description_clear;
+			global::Messert.Controls.Droid.Resource.String.abc_searchview_description_query = global::Sample.Resource.String.abc_searchview_description_query;
+			global::Messert.Controls.Droid.Resource.String.abc_searchview_description_search = global::Sample.Resource.String.abc_searchview_description_search;
+			global::Messert.Controls.Droid.Resource.String.abc_searchview_description_submit = global::Sample.Resource.String.abc_searchview_description_submit;
+			global::Messert.Controls.Droid.Resource.String.abc_searchview_description_voice = global::Sample.Resource.String.abc_searchview_description_voice;
+			global::Messert.Controls.Droid.Resource.String.abc_shareactionprovider_share_with = global::Sample.Resource.String.abc_shareactionprovider_share_with;
+			global::Messert.Controls.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::Sample.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Messert.Controls.Droid.Resource.String.abc_toolbar_collapse_description = global::Sample.Resource.String.abc_toolbar_collapse_description;
+			global::Messert.Controls.Droid.Resource.String.app_name = global::Sample.Resource.String.app_name;
+			global::Messert.Controls.Droid.Resource.String.appbar_scrolling_view_behavior = global::Sample.Resource.String.appbar_scrolling_view_behavior;
+			global::Messert.Controls.Droid.Resource.String.bottom_sheet_behavior = global::Sample.Resource.String.bottom_sheet_behavior;
+			global::Messert.Controls.Droid.Resource.String.character_counter_pattern = global::Sample.Resource.String.character_counter_pattern;
+			global::Messert.Controls.Droid.Resource.String.password_toggle_content_description = global::Sample.Resource.String.password_toggle_content_description;
+			global::Messert.Controls.Droid.Resource.String.path_password_eye = global::Sample.Resource.String.path_password_eye;
+			global::Messert.Controls.Droid.Resource.String.path_password_eye_mask_strike_through = global::Sample.Resource.String.path_password_eye_mask_strike_through;
+			global::Messert.Controls.Droid.Resource.String.path_password_eye_mask_visible = global::Sample.Resource.String.path_password_eye_mask_visible;
+			global::Messert.Controls.Droid.Resource.String.path_password_strike_through = global::Sample.Resource.String.path_password_strike_through;
+			global::Messert.Controls.Droid.Resource.String.search_menu_title = global::Sample.Resource.String.search_menu_title;
+			global::Messert.Controls.Droid.Resource.String.status_bar_notification_info_overflow = global::Sample.Resource.String.status_bar_notification_info_overflow;
+			global::Messert.Controls.Droid.Resource.Style.AlertDialog_AppCompat = global::Sample.Resource.Style.AlertDialog_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::Sample.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.AlertsDialogTheme = global::Sample.Resource.Style.AlertsDialogTheme;
+			global::Messert.Controls.Droid.Resource.Style.Animation_AppCompat_Dialog = global::Sample.Resource.Style.Animation_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::Sample.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Messert.Controls.Droid.Resource.Style.Animation_AppCompat_Tooltip = global::Sample.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Messert.Controls.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::Sample.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Messert.Controls.Droid.Resource.Style.AppTheme = global::Sample.Resource.Style.AppTheme;
+			global::Messert.Controls.Droid.Resource.Style.AppTheme_Dark_Dialog = global::Sample.Resource.Style.AppTheme_Dark_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.BackupTheme = global::Sample.Resource.Style.BackupTheme;
+			global::Messert.Controls.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::Sample.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Sample.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::Sample.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Sample.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Messert.Controls.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Sample.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Messert.Controls.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Sample.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Sample.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::Sample.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Messert.Controls.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat = global::Sample.Resource.Style.Base_Theme_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Sample.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Sample.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Messert.Controls.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Messert.Controls.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Messert.Controls.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Messert.Controls.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::Messert.Controls.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::Messert.Controls.Droid.Resource.Style.Base_V14_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V14_Widget_Design_AppBarLayout;
+			global::Messert.Controls.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::Sample.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_V21_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V21_Widget_Design_AppBarLayout;
+			global::Messert.Controls.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::Sample.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::Sample.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Base_V26_Theme_AppCompat = global::Sample.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Messert.Controls.Droid.Resource.Style.Base_V26_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V26_Widget_Design_AppBarLayout;
+			global::Messert.Controls.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::Sample.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Messert.Controls.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Messert.Controls.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Sample.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::Sample.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Sample.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Sample.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Sample.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Sample.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Sample.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Sample.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::Sample.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Sample.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Sample.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::Sample.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Sample.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Sample.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::Messert.Controls.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::Sample.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Messert.Controls.Droid.Resource.Style.Platform_AppCompat = global::Sample.Resource.Style.Platform_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Platform_AppCompat_Light = global::Sample.Resource.Style.Platform_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Messert.Controls.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Platform_V11_AppCompat = global::Sample.Resource.Style.Platform_V11_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Platform_V11_AppCompat_Light = global::Sample.Resource.Style.Platform_V11_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Platform_V14_AppCompat = global::Sample.Resource.Style.Platform_V14_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Platform_V14_AppCompat_Light = global::Sample.Resource.Style.Platform_V14_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Platform_V21_AppCompat = global::Sample.Resource.Style.Platform_V21_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::Sample.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Platform_V25_AppCompat = global::Sample.Resource.Style.Platform_V25_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::Sample.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Sample.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Messert.Controls.Droid.Resource.Style.PrefsTheme = global::Sample.Resource.Style.PrefsTheme;
+			global::Messert.Controls.Droid.Resource.Style.ProgressDialogTheme = global::Sample.Resource.Style.ProgressDialogTheme;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Sample.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Messert.Controls.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Messert.Controls.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Sample.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Messert.Controls.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat = global::Sample.Resource.Style.TextAppearance_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::Sample.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::Sample.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::Sample.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::Sample.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::Sample.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::Sample.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Info;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Line2;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Time;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Title;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::Sample.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Sample.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification = global::Sample.Resource.Style.TextAppearance_Compat_Notification;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification_Info = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification_Time = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification_Title = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Sample.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Design_Counter = global::Sample.Resource.Style.TextAppearance_Design_Counter;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Sample.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Design_Error = global::Sample.Resource.Style.TextAppearance_Design_Error;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Design_Hint = global::Sample.Resource.Style.TextAppearance_Design_Hint;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Sample.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Design_Tab = global::Sample.Resource.Style.TextAppearance_Design_Tab;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Messert.Controls.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat = global::Sample.Resource.Style.Theme_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::Sample.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_DayNight = global::Sample.Resource.Style.Theme_AppCompat_DayNight;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Sample.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Dialog = global::Sample.Resource.Style.Theme_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Light = global::Sample.Resource.Style.Theme_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Sample.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Theme_Design = global::Sample.Resource.Style.Theme_Design;
+			global::Messert.Controls.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::Sample.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Messert.Controls.Droid.Resource.Style.Theme_Design_Light = global::Sample.Resource.Style.Theme_Design_Light;
+			global::Messert.Controls.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Sample.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Messert.Controls.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::Sample.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Theme_Design_NoActionBar = global::Sample.Resource.Style.Theme_Design_NoActionBar;
+			global::Messert.Controls.Droid.Resource.Style.ThemeOverlay_AppCompat = global::Sample.Resource.Style.ThemeOverlay_AppCompat;
+			global::Messert.Controls.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Sample.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Messert.Controls.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Messert.Controls.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Messert.Controls.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::Sample.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Sample.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::Sample.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Sample.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Button = global::Sample.Resource.Style.Widget_AppCompat_Button;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::Sample.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Sample.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::Sample.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::Sample.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::Sample.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Sample.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Sample.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_EditText = global::Sample.Resource.Style.Widget_AppCompat_EditText;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::Sample.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Sample.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Sample.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Sample.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Sample.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Sample.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Sample.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::Sample.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::Sample.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Sample.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ListView = global::Sample.Resource.Style.Widget_AppCompat_ListView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Sample.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::Sample.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::Sample.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Sample.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::Sample.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::Sample.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::Sample.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Sample.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Sample.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_SearchView = global::Sample.Resource.Style.Widget_AppCompat_SearchView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::Sample.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Sample.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Spinner = global::Sample.Resource.Style.Widget_AppCompat_Spinner;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Sample.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Sample.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Sample.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Compat_NotificationActionContainer = global::Sample.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Compat_NotificationActionText = global::Sample.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_AppBarLayout = global::Sample.Resource.Style.Widget_Design_AppBarLayout;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::Sample.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::Sample.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::Sample.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_CoordinatorLayout = global::Sample.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::Sample.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_NavigationView = global::Sample.Resource.Style.Widget_Design_NavigationView;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Sample.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_Snackbar = global::Sample.Resource.Style.Widget_Design_Snackbar;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_TabLayout = global::Sample.Resource.Style.Widget_Design_TabLayout;
+			global::Messert.Controls.Droid.Resource.Style.Widget_Design_TextInputLayout = global::Sample.Resource.Style.Widget_Design_TextInputLayout;
+			global::Messert.Controls.Droid.Resource.Style.dialogPrefs = global::Sample.Resource.Style.dialogPrefs;
+			global::Messert.Controls.Droid.Resource.Style.editTextPrefs = global::Sample.Resource.Style.editTextPrefs;
+			global::Messert.Controls.Droid.Resource.Style.listViewPrefs = global::Sample.Resource.Style.listViewPrefs;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar = global::Sample.Resource.Styleable.ActionBar;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_background = global::Sample.Resource.Styleable.ActionBar_background;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::Sample.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::Sample.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::Sample.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Sample.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::Sample.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::Sample.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::Sample.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Sample.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::Sample.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_displayOptions = global::Sample.Resource.Styleable.ActionBar_displayOptions;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_divider = global::Sample.Resource.Styleable.ActionBar_divider;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_elevation = global::Sample.Resource.Styleable.ActionBar_elevation;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_height = global::Sample.Resource.Styleable.ActionBar_height;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::Sample.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Sample.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_homeLayout = global::Sample.Resource.Styleable.ActionBar_homeLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_icon = global::Sample.Resource.Styleable.ActionBar_icon;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Sample.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_itemPadding = global::Sample.Resource.Styleable.ActionBar_itemPadding;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_logo = global::Sample.Resource.Styleable.ActionBar_logo;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_navigationMode = global::Sample.Resource.Styleable.ActionBar_navigationMode;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_popupTheme = global::Sample.Resource.Styleable.ActionBar_popupTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::Sample.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::Sample.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_subtitle = global::Sample.Resource.Styleable.ActionBar_subtitle;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::Sample.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_title = global::Sample.Resource.Styleable.ActionBar_title;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::Sample.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBarLayout = global::Sample.Resource.Styleable.ActionBarLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Sample.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMenuItemView = global::Sample.Resource.Styleable.ActionMenuItemView;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Sample.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMenuView = global::Sample.Resource.Styleable.ActionMenuView;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMode = global::Sample.Resource.Styleable.ActionMode;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMode_background = global::Sample.Resource.Styleable.ActionMode_background;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::Sample.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::Sample.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMode_height = global::Sample.Resource.Styleable.ActionMode_height;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::Sample.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::Sample.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.ActivityChooserView = global::Sample.Resource.Styleable.ActivityChooserView;
+			global::Messert.Controls.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Sample.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Sample.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Messert.Controls.Droid.Resource.Styleable.AlertDialog = global::Sample.Resource.Styleable.AlertDialog;
+			global::Messert.Controls.Droid.Resource.Styleable.AlertDialog_android_layout = global::Sample.Resource.Styleable.AlertDialog_android_layout;
+			global::Messert.Controls.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Sample.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::Sample.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.AlertDialog_listLayout = global::Sample.Resource.Styleable.AlertDialog_listLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Sample.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.AlertDialog_showTitle = global::Sample.Resource.Styleable.AlertDialog_showTitle;
+			global::Messert.Controls.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Sample.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayout = global::Sample.Resource.Styleable.AppBarLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayout_android_background = global::Sample.Resource.Styleable.AppBarLayout_android_background;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Sample.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Sample.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayout_elevation = global::Sample.Resource.Styleable.AppBarLayout_elevation;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayout_expanded = global::Sample.Resource.Styleable.AppBarLayout_expanded;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayoutStates = global::Sample.Resource.Styleable.AppBarLayoutStates;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Sample.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Sample.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayout_Layout = global::Sample.Resource.Styleable.AppBarLayout_Layout;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Sample.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Messert.Controls.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Sample.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatImageView = global::Sample.Resource.Styleable.AppCompatImageView;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatImageView_android_src = global::Sample.Resource.Styleable.AppCompatImageView_android_src;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::Sample.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatImageView_tint = global::Sample.Resource.Styleable.AppCompatImageView_tint;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::Sample.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatSeekBar = global::Sample.Resource.Styleable.AppCompatSeekBar;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Sample.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextHelper = global::Sample.Resource.Styleable.AppCompatTextHelper;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Sample.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextView = global::Sample.Resource.Styleable.AppCompatTextView;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Sample.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Sample.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextView_fontFamily = global::Sample.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::Sample.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme = global::Sample.Resource.Styleable.AppCompatTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Sample.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::Sample.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Sample.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Sample.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Sample.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Sample.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Sample.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Sample.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::Sample.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Sample.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Sample.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Sample.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorError = global::Sample.Resource.Styleable.AppCompatTheme_colorError;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::Sample.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Sample.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::Sample.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Sample.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::Sample.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Sample.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::Sample.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Sample.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::Sample.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::Sample.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::Sample.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Sample.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Sample.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Sample.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::Sample.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Sample.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Sample.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Sample.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Sample.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Sample.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Sample.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Sample.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::Sample.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Sample.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Sample.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Sample.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Sample.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Sample.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Sample.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::Sample.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Sample.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Sample.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Messert.Controls.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Sample.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomNavigationView = global::Sample.Resource.Styleable.BottomNavigationView;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomNavigationView_elevation = global::Sample.Resource.Styleable.BottomNavigationView_elevation;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::Sample.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::Sample.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::Sample.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomNavigationView_menu = global::Sample.Resource.Styleable.BottomNavigationView_menu;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Messert.Controls.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Messert.Controls.Droid.Resource.Styleable.ButtonBarLayout = global::Sample.Resource.Styleable.ButtonBarLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::Sample.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout = global::Sample.Resource.Styleable.CollapsingToolbarLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Sample.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Sample.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Sample.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Sample.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Sample.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Sample.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::Sample.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Sample.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Sample.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Messert.Controls.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Messert.Controls.Droid.Resource.Styleable.ColorStateListItem = global::Sample.Resource.Styleable.ColorStateListItem;
+			global::Messert.Controls.Droid.Resource.Styleable.ColorStateListItem_alpha = global::Sample.Resource.Styleable.ColorStateListItem_alpha;
+			global::Messert.Controls.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::Sample.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Messert.Controls.Droid.Resource.Styleable.ColorStateListItem_android_color = global::Sample.Resource.Styleable.ColorStateListItem_android_color;
+			global::Messert.Controls.Droid.Resource.Styleable.CompoundButton = global::Sample.Resource.Styleable.CompoundButton;
+			global::Messert.Controls.Droid.Resource.Styleable.CompoundButton_android_button = global::Sample.Resource.Styleable.CompoundButton_android_button;
+			global::Messert.Controls.Droid.Resource.Styleable.CompoundButton_buttonTint = global::Sample.Resource.Styleable.CompoundButton_buttonTint;
+			global::Messert.Controls.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::Sample.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout = global::Sample.Resource.Styleable.CoordinatorLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::Sample.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Sample.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::Sample.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Messert.Controls.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView = global::Sample.Resource.Styleable.DataTableView;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_android_choiceMode = global::Sample.Resource.Styleable.DataTableView_android_choiceMode;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_headerBackground = global::Sample.Resource.Styleable.DataTableView_headerBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_headerFontFamily = global::Sample.Resource.Styleable.DataTableView_headerFontFamily;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_headerTextColor = global::Sample.Resource.Styleable.DataTableView_headerTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_headerTextSize = global::Sample.Resource.Styleable.DataTableView_headerTextSize;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_horizontalRowDivider = global::Sample.Resource.Styleable.DataTableView_horizontalRowDivider;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_lazyLoad = global::Sample.Resource.Styleable.DataTableView_lazyLoad;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_lazyLoadLimit = global::Sample.Resource.Styleable.DataTableView_lazyLoadLimit;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_rowBackground = global::Sample.Resource.Styleable.DataTableView_rowBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_rowFontFamily = global::Sample.Resource.Styleable.DataTableView_rowFontFamily;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_rowTextColor = global::Sample.Resource.Styleable.DataTableView_rowTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_rowTextSize = global::Sample.Resource.Styleable.DataTableView_rowTextSize;
+			global::Messert.Controls.Droid.Resource.Styleable.DataTableView_verticalRowDivider = global::Sample.Resource.Styleable.DataTableView_verticalRowDivider;
+			global::Messert.Controls.Droid.Resource.Styleable.DesignTheme = global::Sample.Resource.Styleable.DesignTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::Sample.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::Sample.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.DesignTheme_textColorError = global::Sample.Resource.Styleable.DesignTheme_textColorError;
+			global::Messert.Controls.Droid.Resource.Styleable.DrawerArrowToggle = global::Sample.Resource.Styleable.DrawerArrowToggle;
+			global::Messert.Controls.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Sample.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Messert.Controls.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Sample.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Messert.Controls.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::Sample.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Messert.Controls.Droid.Resource.Styleable.DrawerArrowToggle_color = global::Sample.Resource.Styleable.DrawerArrowToggle_color;
+			global::Messert.Controls.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Sample.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Messert.Controls.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Sample.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Messert.Controls.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::Sample.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Messert.Controls.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::Sample.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton = global::Sample.Resource.Styleable.FloatingActionButton;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::Sample.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Sample.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::Sample.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_elevation = global::Sample.Resource.Styleable.FloatingActionButton_elevation;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::Sample.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Sample.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::Sample.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Sample.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Sample.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Messert.Controls.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Sample.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamily = global::Sample.Resource.Styleable.FontFamily;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamily_fontProviderAuthority = global::Sample.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamily_fontProviderCerts = global::Sample.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Sample.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Sample.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamily_fontProviderPackage = global::Sample.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamily_fontProviderQuery = global::Sample.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamilyFont = global::Sample.Resource.Styleable.FontFamilyFont;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamilyFont_font = global::Sample.Resource.Styleable.FontFamilyFont_font;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamilyFont_fontStyle = global::Sample.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.FontFamilyFont_fontWeight = global::Sample.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Messert.Controls.Droid.Resource.Styleable.ForegroundLinearLayout = global::Sample.Resource.Styleable.ForegroundLinearLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Sample.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Messert.Controls.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Sample.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Messert.Controls.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Sample.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat = global::Sample.Resource.Styleable.LinearLayoutCompat;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Sample.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Sample.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Sample.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Sample.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Sample.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::Sample.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Sample.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Sample.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::Sample.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Messert.Controls.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Messert.Controls.Droid.Resource.Styleable.ListPopupWindow = global::Sample.Resource.Styleable.ListPopupWindow;
+			global::Messert.Controls.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Sample.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Messert.Controls.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Sample.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuGroup = global::Sample.Resource.Styleable.MenuGroup;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Sample.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuGroup_android_enabled = global::Sample.Resource.Styleable.MenuGroup_android_enabled;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuGroup_android_id = global::Sample.Resource.Styleable.MenuGroup_android_id;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::Sample.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::Sample.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuGroup_android_visible = global::Sample.Resource.Styleable.MenuGroup_android_visible;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem = global::Sample.Resource.Styleable.MenuItem;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_actionLayout = global::Sample.Resource.Styleable.MenuItem_actionLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::Sample.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_actionViewClass = global::Sample.Resource.Styleable.MenuItem_actionViewClass;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_alphabeticModifiers = global::Sample.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Sample.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_checkable = global::Sample.Resource.Styleable.MenuItem_android_checkable;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_checked = global::Sample.Resource.Styleable.MenuItem_android_checked;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_enabled = global::Sample.Resource.Styleable.MenuItem_android_enabled;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_icon = global::Sample.Resource.Styleable.MenuItem_android_icon;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_id = global::Sample.Resource.Styleable.MenuItem_android_id;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::Sample.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::Sample.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_onClick = global::Sample.Resource.Styleable.MenuItem_android_onClick;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::Sample.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_title = global::Sample.Resource.Styleable.MenuItem_android_title;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::Sample.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_android_visible = global::Sample.Resource.Styleable.MenuItem_android_visible;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_contentDescription = global::Sample.Resource.Styleable.MenuItem_contentDescription;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_iconTint = global::Sample.Resource.Styleable.MenuItem_iconTint;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_iconTintMode = global::Sample.Resource.Styleable.MenuItem_iconTintMode;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_numericModifiers = global::Sample.Resource.Styleable.MenuItem_numericModifiers;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_showAsAction = global::Sample.Resource.Styleable.MenuItem_showAsAction;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuItem_tooltipText = global::Sample.Resource.Styleable.MenuItem_tooltipText;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView = global::Sample.Resource.Styleable.MenuView;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView_android_headerBackground = global::Sample.Resource.Styleable.MenuView_android_headerBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::Sample.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView_android_itemBackground = global::Sample.Resource.Styleable.MenuView_android_itemBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Sample.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::Sample.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::Sample.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Sample.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::Sample.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Messert.Controls.Droid.Resource.Styleable.MenuView_subMenuArrow = global::Sample.Resource.Styleable.MenuView_subMenuArrow;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView = global::Sample.Resource.Styleable.NavigationView;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_android_background = global::Sample.Resource.Styleable.NavigationView_android_background;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Sample.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::Sample.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_elevation = global::Sample.Resource.Styleable.NavigationView_elevation;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_headerLayout = global::Sample.Resource.Styleable.NavigationView_headerLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_itemBackground = global::Sample.Resource.Styleable.NavigationView_itemBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_itemIconTint = global::Sample.Resource.Styleable.NavigationView_itemIconTint;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::Sample.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_itemTextColor = global::Sample.Resource.Styleable.NavigationView_itemTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.NavigationView_menu = global::Sample.Resource.Styleable.NavigationView_menu;
+			global::Messert.Controls.Droid.Resource.Styleable.PopupWindow = global::Sample.Resource.Styleable.PopupWindow;
+			global::Messert.Controls.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Sample.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::Sample.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::Sample.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Messert.Controls.Droid.Resource.Styleable.PopupWindowBackgroundState = global::Sample.Resource.Styleable.PopupWindowBackgroundState;
+			global::Messert.Controls.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Sample.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Messert.Controls.Droid.Resource.Styleable.RecycleListView = global::Sample.Resource.Styleable.RecycleListView;
+			global::Messert.Controls.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Sample.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Messert.Controls.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Sample.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView = global::Sample.Resource.Styleable.RecyclerView;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Sample.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_android_orientation = global::Sample.Resource.Styleable.RecyclerView_android_orientation;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Sample.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_layoutManager = global::Sample.Resource.Styleable.RecyclerView_layoutManager;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::Sample.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_spanCount = global::Sample.Resource.Styleable.RecyclerView_spanCount;
+			global::Messert.Controls.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::Sample.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Messert.Controls.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::Sample.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Sample.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Messert.Controls.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::Sample.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Messert.Controls.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Sample.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView = global::Sample.Resource.Styleable.SearchView;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_android_focusable = global::Sample.Resource.Styleable.SearchView_android_focusable;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_android_imeOptions = global::Sample.Resource.Styleable.SearchView_android_imeOptions;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_android_inputType = global::Sample.Resource.Styleable.SearchView_android_inputType;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_android_maxWidth = global::Sample.Resource.Styleable.SearchView_android_maxWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_closeIcon = global::Sample.Resource.Styleable.SearchView_closeIcon;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_commitIcon = global::Sample.Resource.Styleable.SearchView_commitIcon;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::Sample.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_goIcon = global::Sample.Resource.Styleable.SearchView_goIcon;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::Sample.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_layout = global::Sample.Resource.Styleable.SearchView_layout;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_queryBackground = global::Sample.Resource.Styleable.SearchView_queryBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_queryHint = global::Sample.Resource.Styleable.SearchView_queryHint;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_searchHintIcon = global::Sample.Resource.Styleable.SearchView_searchHintIcon;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_searchIcon = global::Sample.Resource.Styleable.SearchView_searchIcon;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_submitBackground = global::Sample.Resource.Styleable.SearchView_submitBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::Sample.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.SearchView_voiceIcon = global::Sample.Resource.Styleable.SearchView_voiceIcon;
+			global::Messert.Controls.Droid.Resource.Styleable.SnackbarLayout = global::Sample.Resource.Styleable.SnackbarLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Sample.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.SnackbarLayout_elevation = global::Sample.Resource.Styleable.SnackbarLayout_elevation;
+			global::Messert.Controls.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Sample.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.Spinner = global::Sample.Resource.Styleable.Spinner;
+			global::Messert.Controls.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::Sample.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.Spinner_android_entries = global::Sample.Resource.Styleable.Spinner_android_entries;
+			global::Messert.Controls.Droid.Resource.Styleable.Spinner_android_popupBackground = global::Sample.Resource.Styleable.Spinner_android_popupBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.Spinner_android_prompt = global::Sample.Resource.Styleable.Spinner_android_prompt;
+			global::Messert.Controls.Droid.Resource.Styleable.Spinner_popupTheme = global::Sample.Resource.Styleable.Spinner_popupTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat = global::Sample.Resource.Styleable.SwitchCompat;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::Sample.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::Sample.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::Sample.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_showText = global::Sample.Resource.Styleable.SwitchCompat_showText;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::Sample.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::Sample.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::Sample.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Sample.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Sample.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::Sample.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::Sample.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_track = global::Sample.Resource.Styleable.SwitchCompat_track;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_trackTint = global::Sample.Resource.Styleable.SwitchCompat_trackTint;
+			global::Messert.Controls.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::Sample.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Messert.Controls.Droid.Resource.Styleable.TabItem = global::Sample.Resource.Styleable.TabItem;
+			global::Messert.Controls.Droid.Resource.Styleable.TabItem_android_icon = global::Sample.Resource.Styleable.TabItem_android_icon;
+			global::Messert.Controls.Droid.Resource.Styleable.TabItem_android_layout = global::Sample.Resource.Styleable.TabItem_android_layout;
+			global::Messert.Controls.Droid.Resource.Styleable.TabItem_android_text = global::Sample.Resource.Styleable.TabItem_android_text;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout = global::Sample.Resource.Styleable.TabLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabBackground = global::Sample.Resource.Styleable.TabLayout_tabBackground;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabContentStart = global::Sample.Resource.Styleable.TabLayout_tabContentStart;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabGravity = global::Sample.Resource.Styleable.TabLayout_tabGravity;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::Sample.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Sample.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::Sample.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::Sample.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabMode = global::Sample.Resource.Styleable.TabLayout_tabMode;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabPadding = global::Sample.Resource.Styleable.TabLayout_tabPadding;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::Sample.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::Sample.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::Sample.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::Sample.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Sample.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::Sample.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.TabLayout_tabTextColor = global::Sample.Resource.Styleable.TabLayout_tabTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance = global::Sample.Resource.Styleable.TextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_fontFamily = global::Sample.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::Sample.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::Sample.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::Sample.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::Sample.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_textColor = global::Sample.Resource.Styleable.TextAppearance_android_textColor;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::Sample.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_textColorLink = global::Sample.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_textSize = global::Sample.Resource.Styleable.TextAppearance_android_textSize;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::Sample.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_android_typeface = global::Sample.Resource.Styleable.TextAppearance_android_typeface;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_fontFamily = global::Sample.Resource.Styleable.TextAppearance_fontFamily;
+			global::Messert.Controls.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::Sample.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout = global::Sample.Resource.Styleable.TextInputLayout;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_android_hint = global::Sample.Resource.Styleable.TextInputLayout_android_hint;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::Sample.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::Sample.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::Sample.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::Sample.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Sample.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::Sample.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Messert.Controls.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar = global::Sample.Resource.Styleable.Toolbar;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_android_gravity = global::Sample.Resource.Styleable.Toolbar_android_gravity;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_android_minHeight = global::Sample.Resource.Styleable.Toolbar_android_minHeight;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_buttonGravity = global::Sample.Resource.Styleable.Toolbar_buttonGravity;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::Sample.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_collapseIcon = global::Sample.Resource.Styleable.Toolbar_collapseIcon;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::Sample.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Sample.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::Sample.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::Sample.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::Sample.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Sample.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_logo = global::Sample.Resource.Styleable.Toolbar_logo;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_logoDescription = global::Sample.Resource.Styleable.Toolbar_logoDescription;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::Sample.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::Sample.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_navigationIcon = global::Sample.Resource.Styleable.Toolbar_navigationIcon;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_popupTheme = global::Sample.Resource.Styleable.Toolbar_popupTheme;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_subtitle = global::Sample.Resource.Styleable.Toolbar_subtitle;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Sample.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::Sample.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_title = global::Sample.Resource.Styleable.Toolbar_title;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_titleMargin = global::Sample.Resource.Styleable.Toolbar_titleMargin;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::Sample.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::Sample.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::Sample.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::Sample.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_titleMargins = global::Sample.Resource.Styleable.Toolbar_titleMargins;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::Sample.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Messert.Controls.Droid.Resource.Styleable.Toolbar_titleTextColor = global::Sample.Resource.Styleable.Toolbar_titleTextColor;
+			global::Messert.Controls.Droid.Resource.Styleable.View = global::Sample.Resource.Styleable.View;
+			global::Messert.Controls.Droid.Resource.Styleable.View_android_focusable = global::Sample.Resource.Styleable.View_android_focusable;
+			global::Messert.Controls.Droid.Resource.Styleable.View_android_theme = global::Sample.Resource.Styleable.View_android_theme;
+			global::Messert.Controls.Droid.Resource.Styleable.View_paddingEnd = global::Sample.Resource.Styleable.View_paddingEnd;
+			global::Messert.Controls.Droid.Resource.Styleable.View_paddingStart = global::Sample.Resource.Styleable.View_paddingStart;
+			global::Messert.Controls.Droid.Resource.Styleable.View_theme = global::Sample.Resource.Styleable.View_theme;
+			global::Messert.Controls.Droid.Resource.Styleable.ViewBackgroundHelper = global::Sample.Resource.Styleable.ViewBackgroundHelper;
+			global::Messert.Controls.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::Sample.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Messert.Controls.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Sample.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Messert.Controls.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Sample.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Messert.Controls.Droid.Resource.Styleable.ViewStubCompat = global::Sample.Resource.Styleable.ViewStubCompat;
+			global::Messert.Controls.Droid.Resource.Styleable.ViewStubCompat_android_id = global::Sample.Resource.Styleable.ViewStubCompat_android_id;
+			global::Messert.Controls.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Sample.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Messert.Controls.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::Sample.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -2102,46 +2091,22 @@ namespace Sample
 			public const int abc_slide_out_top = 2130968585;
 			
 			// aapt resource value: 0x7f04000a
-			public const int child_grow = 2130968586;
+			public const int design_bottom_sheet_slide_in = 2130968586;
 			
 			// aapt resource value: 0x7f04000b
-			public const int child_shrink = 2130968587;
+			public const int design_bottom_sheet_slide_out = 2130968587;
 			
 			// aapt resource value: 0x7f04000c
-			public const int design_bottom_sheet_slide_in = 2130968588;
+			public const int design_snackbar_in = 2130968588;
 			
 			// aapt resource value: 0x7f04000d
-			public const int design_bottom_sheet_slide_out = 2130968589;
+			public const int design_snackbar_out = 2130968589;
 			
 			// aapt resource value: 0x7f04000e
-			public const int design_snackbar_in = 2130968590;
+			public const int tooltip_enter = 2130968590;
 			
 			// aapt resource value: 0x7f04000f
-			public const int design_snackbar_out = 2130968591;
-			
-			// aapt resource value: 0x7f040010
-			public const int fab_close = 2130968592;
-			
-			// aapt resource value: 0x7f040011
-			public const int fab_open = 2130968593;
-			
-			// aapt resource value: 0x7f040012
-			public const int label_slide_in_left = 2130968594;
-			
-			// aapt resource value: 0x7f040013
-			public const int label_slide_in_right = 2130968595;
-			
-			// aapt resource value: 0x7f040014
-			public const int label_slide_out_left = 2130968596;
-			
-			// aapt resource value: 0x7f040015
-			public const int label_slide_out_right = 2130968597;
-			
-			// aapt resource value: 0x7f040016
-			public const int tooltip_enter = 2130968598;
-			
-			// aapt resource value: 0x7f040017
-			public const int tooltip_exit = 2130968599;
+			public const int tooltip_exit = 2130968591;
 			
 			static Animation()
 			{
@@ -4484,26 +4449,26 @@ namespace Sample
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f020076
-			public const int avd_hide_password_1 = 2130837622;
+			// aapt resource value: 0x7f02007a
+			public const int avd_hide_password_1 = 2130837626;
 			
-			// aapt resource value: 0x7f020077
-			public const int avd_hide_password_2 = 2130837623;
+			// aapt resource value: 0x7f02007b
+			public const int avd_hide_password_2 = 2130837627;
 			
-			// aapt resource value: 0x7f020078
-			public const int avd_hide_password_3 = 2130837624;
+			// aapt resource value: 0x7f02007c
+			public const int avd_hide_password_3 = 2130837628;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020079
-			public const int avd_show_password_1 = 2130837625;
+			// aapt resource value: 0x7f02007d
+			public const int avd_show_password_1 = 2130837629;
 			
-			// aapt resource value: 0x7f02007a
-			public const int avd_show_password_2 = 2130837626;
+			// aapt resource value: 0x7f02007e
+			public const int avd_show_password_2 = 2130837630;
 			
-			// aapt resource value: 0x7f02007b
-			public const int avd_show_password_3 = 2130837627;
+			// aapt resource value: 0x7f02007f
+			public const int avd_show_password_3 = 2130837631;
 			
 			// aapt resource value: 0x7f020055
 			public const int button_selector = 2130837589;
@@ -4530,10 +4495,10 @@ namespace Sample
 			public const int fab_add = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int fab_label_background = 2130837597;
+			public const int horizontal_divider = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int horizontal_divider = 2130837598;
+			public const int ic_menu_delete = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
 			public const int ic_menu_edit = 2130837599;
@@ -4542,67 +4507,79 @@ namespace Sample
 			public const int ic_menu_home = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int ic_menu_search = 2130837601;
+			public const int ic_menu_notifications = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int ic_menu_star = 2130837602;
+			public const int ic_menu_search = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int ic_voice_search = 2130837603;
+			public const int ic_menu_selectall_holo_dark = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int mode = 2130837604;
+			public const int ic_menu_selectall_holo_light = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int navigation_empty_icon = 2130837605;
+			public const int ic_menu_star = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int notification_action_background = 2130837606;
+			public const int ic_voice_search = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int notification_bg = 2130837607;
+			public const int list_row_selector = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int notification_bg_low = 2130837608;
+			public const int mode = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int notification_bg_low_normal = 2130837609;
+			public const int navigation_empty_icon = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int notification_bg_low_pressed = 2130837610;
+			public const int notification_action_background = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int notification_bg_normal = 2130837611;
+			public const int notification_bg = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int notification_bg_normal_pressed = 2130837612;
+			public const int notification_bg_low = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int notification_icon_background = 2130837613;
-			
-			// aapt resource value: 0x7f020074
-			public const int notification_template_icon_bg = 2130837620;
-			
-			// aapt resource value: 0x7f020075
-			public const int notification_template_icon_low_bg = 2130837621;
+			public const int notification_bg_low_normal = 2130837613;
 			
 			// aapt resource value: 0x7f02006e
-			public const int notification_tile_bg = 2130837614;
+			public const int notification_bg_low_pressed = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int notify_panel_notification_icon_bg = 2130837615;
+			public const int notification_bg_normal = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int rounded_border_dark = 2130837616;
+			public const int notification_bg_normal_pressed = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int tooltip_frame_dark = 2130837617;
+			public const int notification_icon_background = 2130837617;
+			
+			// aapt resource value: 0x7f020078
+			public const int notification_template_icon_bg = 2130837624;
+			
+			// aapt resource value: 0x7f020079
+			public const int notification_template_icon_low_bg = 2130837625;
 			
 			// aapt resource value: 0x7f020072
-			public const int tooltip_frame_light = 2130837618;
+			public const int notification_tile_bg = 2130837618;
 			
 			// aapt resource value: 0x7f020073
-			public const int vertical_divider = 2130837619;
+			public const int notify_panel_notification_icon_bg = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int ripple = 2130837620;
+			
+			// aapt resource value: 0x7f020075
+			public const int rounded_border_dark = 2130837621;
+			
+			// aapt resource value: 0x7f020076
+			public const int tooltip_frame_dark = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int tooltip_frame_light = 2130837623;
 			
 			static Drawable()
 			{
@@ -4617,59 +4594,62 @@ namespace Sample
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f070031
+			public const int ALT = 2131165233;
+			
 			// aapt resource value: 0x7f070032
-			public const int ALT = 2131165234;
+			public const int CTRL = 2131165234;
 			
 			// aapt resource value: 0x7f070033
-			public const int CTRL = 2131165235;
+			public const int FUNCTION = 2131165235;
 			
 			// aapt resource value: 0x7f070034
-			public const int FUNCTION = 2131165236;
+			public const int META = 2131165236;
 			
 			// aapt resource value: 0x7f070035
-			public const int META = 2131165237;
+			public const int SHIFT = 2131165237;
 			
 			// aapt resource value: 0x7f070036
-			public const int SHIFT = 2131165238;
+			public const int SYM = 2131165238;
 			
-			// aapt resource value: 0x7f070037
-			public const int SYM = 2131165239;
+			// aapt resource value: 0x7f0700a6
+			public const int action0 = 2131165350;
 			
-			// aapt resource value: 0x7f07009f
-			public const int action0 = 2131165343;
-			
-			// aapt resource value: 0x7f07007c
-			public const int action_bar = 2131165308;
+			// aapt resource value: 0x7f07007b
+			public const int action_bar = 2131165307;
 			
 			// aapt resource value: 0x7f070001
 			public const int action_bar_activity_content = 2131165185;
 			
-			// aapt resource value: 0x7f07007b
-			public const int action_bar_container = 2131165307;
+			// aapt resource value: 0x7f07007a
+			public const int action_bar_container = 2131165306;
 			
-			// aapt resource value: 0x7f070077
-			public const int action_bar_root = 2131165303;
+			// aapt resource value: 0x7f070076
+			public const int action_bar_root = 2131165302;
 			
 			// aapt resource value: 0x7f070002
 			public const int action_bar_spinner = 2131165186;
 			
-			// aapt resource value: 0x7f07005b
-			public const int action_bar_subtitle = 2131165275;
-			
 			// aapt resource value: 0x7f07005a
-			public const int action_bar_title = 2131165274;
+			public const int action_bar_subtitle = 2131165274;
 			
-			// aapt resource value: 0x7f07009c
-			public const int action_container = 2131165340;
-			
-			// aapt resource value: 0x7f07007d
-			public const int action_context_bar = 2131165309;
+			// aapt resource value: 0x7f070059
+			public const int action_bar_title = 2131165273;
 			
 			// aapt resource value: 0x7f0700a3
-			public const int action_divider = 2131165347;
+			public const int action_container = 2131165347;
 			
-			// aapt resource value: 0x7f07009d
-			public const int action_image = 2131165341;
+			// aapt resource value: 0x7f07007c
+			public const int action_context_bar = 2131165308;
+			
+			// aapt resource value: 0x7f0700b9
+			public const int action_delete = 2131165369;
+			
+			// aapt resource value: 0x7f0700aa
+			public const int action_divider = 2131165354;
+			
+			// aapt resource value: 0x7f0700a4
+			public const int action_image = 2131165348;
 			
 			// aapt resource value: 0x7f070003
 			public const int action_menu_divider = 2131165187;
@@ -4677,167 +4657,179 @@ namespace Sample
 			// aapt resource value: 0x7f070004
 			public const int action_menu_presenter = 2131165188;
 			
-			// aapt resource value: 0x7f070079
-			public const int action_mode_bar = 2131165305;
-			
 			// aapt resource value: 0x7f070078
-			public const int action_mode_bar_stub = 2131165304;
+			public const int action_mode_bar = 2131165304;
+			
+			// aapt resource value: 0x7f070077
+			public const int action_mode_bar_stub = 2131165303;
+			
+			// aapt resource value: 0x7f07005b
+			public const int action_mode_close_button = 2131165275;
+			
+			// aapt resource value: 0x7f0700ba
+			public const int action_select_all = 2131165370;
+			
+			// aapt resource value: 0x7f0700a5
+			public const int action_text = 2131165349;
+			
+			// aapt resource value: 0x7f0700b3
+			public const int actions = 2131165363;
 			
 			// aapt resource value: 0x7f07005c
-			public const int action_mode_close_button = 2131165276;
+			public const int activity_chooser_view_content = 2131165276;
 			
-			// aapt resource value: 0x7f07009e
-			public const int action_text = 2131165342;
+			// aapt resource value: 0x7f07002b
+			public const int add = 2131165227;
 			
-			// aapt resource value: 0x7f0700ac
-			public const int actions = 2131165356;
-			
-			// aapt resource value: 0x7f07005d
-			public const int activity_chooser_view_content = 2131165277;
-			
-			// aapt resource value: 0x7f07002c
-			public const int add = 2131165228;
-			
-			// aapt resource value: 0x7f070070
-			public const int alertTitle = 2131165296;
-			
-			// aapt resource value: 0x7f070052
-			public const int all = 2131165266;
-			
-			// aapt resource value: 0x7f070038
-			public const int always = 2131165240;
-			
-			// aapt resource value: 0x7f070056
-			public const int async = 2131165270;
-			
-			// aapt resource value: 0x7f070044
-			public const int auto = 2131165252;
-			
-			// aapt resource value: 0x7f07002f
-			public const int beginning = 2131165231;
-			
-			// aapt resource value: 0x7f070057
-			public const int blocking = 2131165271;
-			
-			// aapt resource value: 0x7f07003d
-			public const int bottom = 2131165245;
-			
-			// aapt resource value: 0x7f070063
-			public const int buttonPanel = 2131165283;
-			
-			// aapt resource value: 0x7f07008c
-			public const int button_list = 2131165324;
-			
-			// aapt resource value: 0x7f0700a0
-			public const int cancel_action = 2131165344;
-			
-			// aapt resource value: 0x7f070045
-			public const int center = 2131165253;
-			
-			// aapt resource value: 0x7f070046
-			public const int center_horizontal = 2131165254;
-			
-			// aapt resource value: 0x7f070047
-			public const int center_vertical = 2131165255;
-			
-			// aapt resource value: 0x7f070073
-			public const int checkbox = 2131165299;
-			
-			// aapt resource value: 0x7f0700a8
-			public const int chronometer = 2131165352;
-			
-			// aapt resource value: 0x7f07004e
-			public const int clip_horizontal = 2131165262;
-			
-			// aapt resource value: 0x7f07004f
-			public const int clip_vertical = 2131165263;
-			
-			// aapt resource value: 0x7f070039
-			public const int collapseActionView = 2131165241;
-			
-			// aapt resource value: 0x7f070090
-			public const int container = 2131165328;
-			
-			// aapt resource value: 0x7f070066
-			public const int contentPanel = 2131165286;
-			
-			// aapt resource value: 0x7f070091
-			public const int coordinator = 2131165329;
-			
-			// aapt resource value: 0x7f07006d
-			public const int custom = 2131165293;
-			
-			// aapt resource value: 0x7f07006c
-			public const int customPanel = 2131165292;
-			
-			// aapt resource value: 0x7f07007a
-			public const int decor_content_parent = 2131165306;
-			
-			// aapt resource value: 0x7f070060
-			public const int default_activity_button = 2131165280;
-			
-			// aapt resource value: 0x7f070093
-			public const int design_bottom_sheet = 2131165331;
-			
-			// aapt resource value: 0x7f07009a
-			public const int design_menu_item_action_area = 2131165338;
-			
-			// aapt resource value: 0x7f070099
-			public const int design_menu_item_action_area_stub = 2131165337;
-			
-			// aapt resource value: 0x7f070098
-			public const int design_menu_item_text = 2131165336;
-			
-			// aapt resource value: 0x7f070097
-			public const int design_navigation_view = 2131165335;
-			
-			// aapt resource value: 0x7f070020
-			public const int disableHome = 2131165216;
-			
-			// aapt resource value: 0x7f07007e
-			public const int edit_query = 2131165310;
-			
-			// aapt resource value: 0x7f070030
-			public const int end = 2131165232;
-			
-			// aapt resource value: 0x7f0700ae
-			public const int end_padder = 2131165358;
-			
-			// aapt resource value: 0x7f07003f
-			public const int enterAlways = 2131165247;
-			
-			// aapt resource value: 0x7f070040
-			public const int enterAlwaysCollapsed = 2131165248;
-			
-			// aapt resource value: 0x7f07008d
-			public const int example_one = 2131165325;
-			
-			// aapt resource value: 0x7f070041
-			public const int exitUntilCollapsed = 2131165249;
-			
-			// aapt resource value: 0x7f07005e
-			public const int expand_activities_button = 2131165278;
-			
-			// aapt resource value: 0x7f070072
-			public const int expanded_menu = 2131165298;
-			
-			// aapt resource value: 0x7f07001c
-			public const int fab_label = 2131165212;
-			
-			// aapt resource value: 0x7f070050
-			public const int fill = 2131165264;
+			// aapt resource value: 0x7f07006f
+			public const int alertTitle = 2131165295;
 			
 			// aapt resource value: 0x7f070051
-			public const int fill_horizontal = 2131165265;
+			public const int all = 2131165265;
 			
-			// aapt resource value: 0x7f070048
-			public const int fill_vertical = 2131165256;
+			// aapt resource value: 0x7f070037
+			public const int always = 2131165239;
 			
-			// aapt resource value: 0x7f070054
-			public const int @fixed = 2131165268;
+			// aapt resource value: 0x7f070055
+			public const int async = 2131165269;
 			
-			// aapt resource value: 0x7f070058
-			public const int forever = 2131165272;
+			// aapt resource value: 0x7f070043
+			public const int auto = 2131165251;
+			
+			// aapt resource value: 0x7f07002e
+			public const int beginning = 2131165230;
+			
+			// aapt resource value: 0x7f070056
+			public const int blocking = 2131165270;
+			
+			// aapt resource value: 0x7f07003c
+			public const int bottom = 2131165244;
+			
+			// aapt resource value: 0x7f07009f
+			public const int btn_submit = 2131165343;
+			
+			// aapt resource value: 0x7f070062
+			public const int buttonPanel = 2131165282;
+			
+			// aapt resource value: 0x7f07008b
+			public const int button_list = 2131165323;
+			
+			// aapt resource value: 0x7f0700a7
+			public const int cancel_action = 2131165351;
+			
+			// aapt resource value: 0x7f070044
+			public const int center = 2131165252;
+			
+			// aapt resource value: 0x7f070045
+			public const int center_horizontal = 2131165253;
+			
+			// aapt resource value: 0x7f070046
+			public const int center_vertical = 2131165254;
+			
+			// aapt resource value: 0x7f070072
+			public const int checkbox = 2131165298;
+			
+			// aapt resource value: 0x7f0700af
+			public const int chronometer = 2131165359;
+			
+			// aapt resource value: 0x7f07004d
+			public const int clip_horizontal = 2131165261;
+			
+			// aapt resource value: 0x7f07004e
+			public const int clip_vertical = 2131165262;
+			
+			// aapt resource value: 0x7f070038
+			public const int collapseActionView = 2131165240;
+			
+			// aapt resource value: 0x7f070091
+			public const int container = 2131165329;
+			
+			// aapt resource value: 0x7f070065
+			public const int contentPanel = 2131165285;
+			
+			// aapt resource value: 0x7f070092
+			public const int coordinator = 2131165330;
+			
+			// aapt resource value: 0x7f07006c
+			public const int custom = 2131165292;
+			
+			// aapt resource value: 0x7f07006b
+			public const int customPanel = 2131165291;
+			
+			// aapt resource value: 0x7f070079
+			public const int decor_content_parent = 2131165305;
+			
+			// aapt resource value: 0x7f07005f
+			public const int default_activity_button = 2131165279;
+			
+			// aapt resource value: 0x7f070094
+			public const int design_bottom_sheet = 2131165332;
+			
+			// aapt resource value: 0x7f07009b
+			public const int design_menu_item_action_area = 2131165339;
+			
+			// aapt resource value: 0x7f07009a
+			public const int design_menu_item_action_area_stub = 2131165338;
+			
+			// aapt resource value: 0x7f070099
+			public const int design_menu_item_text = 2131165337;
+			
+			// aapt resource value: 0x7f070098
+			public const int design_navigation_view = 2131165336;
+			
+			// aapt resource value: 0x7f07001f
+			public const int disableHome = 2131165215;
+			
+			// aapt resource value: 0x7f07007d
+			public const int edit_query = 2131165309;
+			
+			// aapt resource value: 0x7f07002f
+			public const int end = 2131165231;
+			
+			// aapt resource value: 0x7f0700b5
+			public const int end_padder = 2131165365;
+			
+			// aapt resource value: 0x7f07003e
+			public const int enterAlways = 2131165246;
+			
+			// aapt resource value: 0x7f07003f
+			public const int enterAlwaysCollapsed = 2131165247;
+			
+			// aapt resource value: 0x7f07008c
+			public const int example_one = 2131165324;
+			
+			// aapt resource value: 0x7f07008d
+			public const int example_two = 2131165325;
+			
+			// aapt resource value: 0x7f070040
+			public const int exitUntilCollapsed = 2131165248;
+			
+			// aapt resource value: 0x7f07005d
+			public const int expand_activities_button = 2131165277;
+			
+			// aapt resource value: 0x7f070071
+			public const int expanded_menu = 2131165297;
+			
+			// aapt resource value: 0x7f0700a2
+			public const int fab_add = 2131165346;
+			
+			// aapt resource value: 0x7f07004f
+			public const int fill = 2131165263;
+			
+			// aapt resource value: 0x7f070050
+			public const int fill_horizontal = 2131165264;
+			
+			// aapt resource value: 0x7f070047
+			public const int fill_vertical = 2131165255;
+			
+			// aapt resource value: 0x7f070053
+			public const int @fixed = 2131165267;
+			
+			// aapt resource value: 0x7f070057
+			public const int forever = 2131165271;
+			
+			// aapt resource value: 0x7f07008e
+			public const int frame_layout = 2131165326;
 			
 			// aapt resource value: 0x7f07000a
 			public const int ghost_view = 2131165194;
@@ -4845,35 +4837,35 @@ namespace Sample
 			// aapt resource value: 0x7f070005
 			public const int home = 2131165189;
 			
-			// aapt resource value: 0x7f070021
-			public const int homeAsUp = 2131165217;
+			// aapt resource value: 0x7f070020
+			public const int homeAsUp = 2131165216;
 			
-			// aapt resource value: 0x7f070062
-			public const int icon = 2131165282;
+			// aapt resource value: 0x7f070061
+			public const int icon = 2131165281;
 			
-			// aapt resource value: 0x7f0700ad
-			public const int icon_group = 2131165357;
+			// aapt resource value: 0x7f0700b4
+			public const int icon_group = 2131165364;
 			
-			// aapt resource value: 0x7f07003a
-			public const int ifRoom = 2131165242;
+			// aapt resource value: 0x7f070039
+			public const int ifRoom = 2131165241;
 			
-			// aapt resource value: 0x7f07005f
-			public const int image = 2131165279;
+			// aapt resource value: 0x7f07005e
+			public const int image = 2131165278;
 			
-			// aapt resource value: 0x7f0700a9
-			public const int info = 2131165353;
+			// aapt resource value: 0x7f0700b0
+			public const int info = 2131165360;
 			
-			// aapt resource value: 0x7f070059
-			public const int italic = 2131165273;
+			// aapt resource value: 0x7f070058
+			public const int italic = 2131165272;
 			
 			// aapt resource value: 0x7f070000
 			public const int item_touch_helper_previous_elevation = 2131165184;
 			
-			// aapt resource value: 0x7f07008f
-			public const int largeLabel = 2131165327;
+			// aapt resource value: 0x7f070090
+			public const int largeLabel = 2131165328;
 			
-			// aapt resource value: 0x7f070049
-			public const int left = 2131165257;
+			// aapt resource value: 0x7f070048
+			public const int left = 2131165256;
 			
 			// aapt resource value: 0x7f070017
 			public const int line1 = 2131165207;
@@ -4881,65 +4873,65 @@ namespace Sample
 			// aapt resource value: 0x7f070018
 			public const int line3 = 2131165208;
 			
+			// aapt resource value: 0x7f07001c
+			public const int listMode = 2131165212;
+			
+			// aapt resource value: 0x7f070060
+			public const int list_item = 2131165280;
+			
+			// aapt resource value: 0x7f07008a
+			public const int main_toolbar = 2131165322;
+			
+			// aapt resource value: 0x7f0700b8
+			public const int masked = 2131165368;
+			
+			// aapt resource value: 0x7f0700a9
+			public const int media_actions = 2131165353;
+			
+			// aapt resource value: 0x7f0700b6
+			public const int message = 2131165366;
+			
+			// aapt resource value: 0x7f070030
+			public const int middle = 2131165232;
+			
+			// aapt resource value: 0x7f070052
+			public const int mini = 2131165266;
+			
+			// aapt resource value: 0x7f070026
+			public const int multiply = 2131165222;
+			
+			// aapt resource value: 0x7f070097
+			public const int navigation_header_container = 2131165335;
+			
+			// aapt resource value: 0x7f07003a
+			public const int never = 2131165242;
+			
+			// aapt resource value: 0x7f070021
+			public const int none = 2131165217;
+			
 			// aapt resource value: 0x7f07001d
-			public const int listMode = 2131165213;
+			public const int normal = 2131165213;
 			
-			// aapt resource value: 0x7f070061
-			public const int list_item = 2131165281;
+			// aapt resource value: 0x7f0700b2
+			public const int notification_background = 2131165362;
 			
-			// aapt resource value: 0x7f07008b
-			public const int main_toolbar = 2131165323;
-			
-			// aapt resource value: 0x7f0700b1
-			public const int masked = 2131165361;
-			
-			// aapt resource value: 0x7f0700a2
-			public const int media_actions = 2131165346;
-			
-			// aapt resource value: 0x7f0700af
-			public const int message = 2131165359;
-			
-			// aapt resource value: 0x7f070031
-			public const int middle = 2131165233;
-			
-			// aapt resource value: 0x7f070053
-			public const int mini = 2131165267;
-			
-			// aapt resource value: 0x7f070027
-			public const int multiply = 2131165223;
-			
-			// aapt resource value: 0x7f070096
-			public const int navigation_header_container = 2131165334;
-			
-			// aapt resource value: 0x7f07003b
-			public const int never = 2131165243;
-			
-			// aapt resource value: 0x7f070022
-			public const int none = 2131165218;
-			
-			// aapt resource value: 0x7f07001e
-			public const int normal = 2131165214;
+			// aapt resource value: 0x7f0700ac
+			public const int notification_main_column = 2131165356;
 			
 			// aapt resource value: 0x7f0700ab
-			public const int notification_background = 2131165355;
+			public const int notification_main_column_container = 2131165355;
 			
-			// aapt resource value: 0x7f0700a5
-			public const int notification_main_column = 2131165349;
+			// aapt resource value: 0x7f07004b
+			public const int parallax = 2131165259;
 			
-			// aapt resource value: 0x7f0700a4
-			public const int notification_main_column_container = 2131165348;
-			
-			// aapt resource value: 0x7f07004c
-			public const int parallax = 2131165260;
-			
-			// aapt resource value: 0x7f070065
-			public const int parentPanel = 2131165285;
+			// aapt resource value: 0x7f070064
+			public const int parentPanel = 2131165284;
 			
 			// aapt resource value: 0x7f07000b
 			public const int parent_matrix = 2131165195;
 			
-			// aapt resource value: 0x7f07004d
-			public const int pin = 2131165261;
+			// aapt resource value: 0x7f07004c
+			public const int pin = 2131165260;
 			
 			// aapt resource value: 0x7f070006
 			public const int progress_circular = 2131165190;
@@ -4947,17 +4939,20 @@ namespace Sample
 			// aapt resource value: 0x7f070007
 			public const int progress_horizontal = 2131165191;
 			
-			// aapt resource value: 0x7f070075
-			public const int radio = 2131165301;
+			// aapt resource value: 0x7f070074
+			public const int radio = 2131165300;
 			
-			// aapt resource value: 0x7f07004a
-			public const int right = 2131165258;
+			// aapt resource value: 0x7f07009d
+			public const int read_fields = 2131165341;
 			
-			// aapt resource value: 0x7f0700aa
-			public const int right_icon = 2131165354;
+			// aapt resource value: 0x7f070049
+			public const int right = 2131165257;
 			
-			// aapt resource value: 0x7f0700a6
-			public const int right_side = 2131165350;
+			// aapt resource value: 0x7f0700b1
+			public const int right_icon = 2131165361;
+			
+			// aapt resource value: 0x7f0700ad
+			public const int right_side = 2131165357;
 			
 			// aapt resource value: 0x7f07000c
 			public const int save_image_matrix = 2131165196;
@@ -4968,110 +4963,116 @@ namespace Sample
 			// aapt resource value: 0x7f07000e
 			public const int save_scale_type = 2131165198;
 			
-			// aapt resource value: 0x7f070028
-			public const int screen = 2131165224;
+			// aapt resource value: 0x7f070027
+			public const int screen = 2131165223;
 			
-			// aapt resource value: 0x7f070042
-			public const int scroll = 2131165250;
+			// aapt resource value: 0x7f070041
+			public const int scroll = 2131165249;
 			
-			// aapt resource value: 0x7f07006b
-			public const int scrollIndicatorDown = 2131165291;
+			// aapt resource value: 0x7f07006a
+			public const int scrollIndicatorDown = 2131165290;
+			
+			// aapt resource value: 0x7f070066
+			public const int scrollIndicatorUp = 2131165286;
 			
 			// aapt resource value: 0x7f070067
-			public const int scrollIndicatorUp = 2131165287;
+			public const int scrollView = 2131165287;
 			
-			// aapt resource value: 0x7f070068
-			public const int scrollView = 2131165288;
+			// aapt resource value: 0x7f0700a0
+			public const int scroll_view = 2131165344;
 			
-			// aapt resource value: 0x7f070055
-			public const int scrollable = 2131165269;
-			
-			// aapt resource value: 0x7f070080
-			public const int search_badge = 2131165312;
+			// aapt resource value: 0x7f070054
+			public const int scrollable = 2131165268;
 			
 			// aapt resource value: 0x7f07007f
-			public const int search_bar = 2131165311;
+			public const int search_badge = 2131165311;
 			
-			// aapt resource value: 0x7f070081
-			public const int search_button = 2131165313;
+			// aapt resource value: 0x7f07007e
+			public const int search_bar = 2131165310;
 			
-			// aapt resource value: 0x7f070086
-			public const int search_close_btn = 2131165318;
-			
-			// aapt resource value: 0x7f070082
-			public const int search_edit_frame = 2131165314;
-			
-			// aapt resource value: 0x7f070088
-			public const int search_go_btn = 2131165320;
-			
-			// aapt resource value: 0x7f070083
-			public const int search_mag_icon = 2131165315;
-			
-			// aapt resource value: 0x7f070084
-			public const int search_plate = 2131165316;
+			// aapt resource value: 0x7f070080
+			public const int search_button = 2131165312;
 			
 			// aapt resource value: 0x7f070085
-			public const int search_src_text = 2131165317;
+			public const int search_close_btn = 2131165317;
+			
+			// aapt resource value: 0x7f070081
+			public const int search_edit_frame = 2131165313;
+			
+			// aapt resource value: 0x7f070087
+			public const int search_go_btn = 2131165319;
+			
+			// aapt resource value: 0x7f070082
+			public const int search_mag_icon = 2131165314;
+			
+			// aapt resource value: 0x7f070083
+			public const int search_plate = 2131165315;
+			
+			// aapt resource value: 0x7f070084
+			public const int search_src_text = 2131165316;
+			
+			// aapt resource value: 0x7f070088
+			public const int search_voice_btn = 2131165320;
 			
 			// aapt resource value: 0x7f070089
-			public const int search_voice_btn = 2131165321;
+			public const int select_dialog_listview = 2131165321;
 			
-			// aapt resource value: 0x7f07008a
-			public const int select_dialog_listview = 2131165322;
+			// aapt resource value: 0x7f070073
+			public const int shortcut = 2131165299;
 			
-			// aapt resource value: 0x7f070074
-			public const int shortcut = 2131165300;
+			// aapt resource value: 0x7f070022
+			public const int showCustom = 2131165218;
 			
 			// aapt resource value: 0x7f070023
-			public const int showCustom = 2131165219;
+			public const int showHome = 2131165219;
 			
 			// aapt resource value: 0x7f070024
-			public const int showHome = 2131165220;
+			public const int showTitle = 2131165220;
 			
-			// aapt resource value: 0x7f070025
-			public const int showTitle = 2131165221;
+			// aapt resource value: 0x7f07008f
+			public const int smallLabel = 2131165327;
 			
-			// aapt resource value: 0x7f07008e
-			public const int smallLabel = 2131165326;
+			// aapt resource value: 0x7f070096
+			public const int snackbar_action = 2131165334;
 			
 			// aapt resource value: 0x7f070095
-			public const int snackbar_action = 2131165333;
+			public const int snackbar_text = 2131165333;
 			
-			// aapt resource value: 0x7f070094
-			public const int snackbar_text = 2131165332;
+			// aapt resource value: 0x7f070042
+			public const int snap = 2131165250;
 			
-			// aapt resource value: 0x7f070043
-			public const int snap = 2131165251;
-			
-			// aapt resource value: 0x7f070064
-			public const int spacer = 2131165284;
+			// aapt resource value: 0x7f070063
+			public const int spacer = 2131165283;
 			
 			// aapt resource value: 0x7f070008
 			public const int split_action_bar = 2131165192;
 			
+			// aapt resource value: 0x7f070028
+			public const int src_atop = 2131165224;
+			
 			// aapt resource value: 0x7f070029
-			public const int src_atop = 2131165225;
+			public const int src_in = 2131165225;
 			
 			// aapt resource value: 0x7f07002a
-			public const int src_in = 2131165226;
+			public const int src_over = 2131165226;
 			
-			// aapt resource value: 0x7f07002b
-			public const int src_over = 2131165227;
+			// aapt resource value: 0x7f07004a
+			public const int start = 2131165258;
 			
-			// aapt resource value: 0x7f07004b
-			public const int start = 2131165259;
+			// aapt resource value: 0x7f0700a8
+			public const int status_bar_latest_event_content = 2131165352;
+			
+			// aapt resource value: 0x7f070075
+			public const int submenuarrow = 2131165301;
+			
+			// aapt resource value: 0x7f070086
+			public const int submit_area = 2131165318;
+			
+			// aapt resource value: 0x7f07001e
+			public const int tabMode = 2131165214;
 			
 			// aapt resource value: 0x7f0700a1
-			public const int status_bar_latest_event_content = 2131165345;
-			
-			// aapt resource value: 0x7f070076
-			public const int submenuarrow = 2131165302;
-			
-			// aapt resource value: 0x7f070087
-			public const int submit_area = 2131165319;
-			
-			// aapt resource value: 0x7f07001f
-			public const int tabMode = 2131165215;
+			public const int table = 2131165345;
 			
 			// aapt resource value: 0x7f070019
 			public const int text = 2131165209;
@@ -5079,14 +5080,14 @@ namespace Sample
 			// aapt resource value: 0x7f07001a
 			public const int text2 = 2131165210;
 			
-			// aapt resource value: 0x7f07006a
-			public const int textSpacerNoButtons = 2131165290;
-			
 			// aapt resource value: 0x7f070069
-			public const int textSpacerNoTitle = 2131165289;
+			public const int textSpacerNoButtons = 2131165289;
 			
-			// aapt resource value: 0x7f07009b
-			public const int text_input_password_toggle = 2131165339;
+			// aapt resource value: 0x7f070068
+			public const int textSpacerNoTitle = 2131165288;
+			
+			// aapt resource value: 0x7f07009c
+			public const int text_input_password_toggle = 2131165340;
 			
 			// aapt resource value: 0x7f070014
 			public const int textinput_counter = 2131165204;
@@ -5094,26 +5095,26 @@ namespace Sample
 			// aapt resource value: 0x7f070015
 			public const int textinput_error = 2131165205;
 			
-			// aapt resource value: 0x7f0700a7
-			public const int time = 2131165351;
+			// aapt resource value: 0x7f0700ae
+			public const int time = 2131165358;
 			
 			// aapt resource value: 0x7f07001b
 			public const int title = 2131165211;
 			
-			// aapt resource value: 0x7f070071
-			public const int titleDividerNoCustom = 2131165297;
-			
-			// aapt resource value: 0x7f07006f
-			public const int title_template = 2131165295;
-			
-			// aapt resource value: 0x7f07003e
-			public const int top = 2131165246;
+			// aapt resource value: 0x7f070070
+			public const int titleDividerNoCustom = 2131165296;
 			
 			// aapt resource value: 0x7f07006e
-			public const int topPanel = 2131165294;
+			public const int title_template = 2131165294;
 			
-			// aapt resource value: 0x7f070092
-			public const int touch_outside = 2131165330;
+			// aapt resource value: 0x7f07003d
+			public const int top = 2131165245;
+			
+			// aapt resource value: 0x7f07006d
+			public const int topPanel = 2131165293;
+			
+			// aapt resource value: 0x7f070093
+			public const int touch_outside = 2131165331;
 			
 			// aapt resource value: 0x7f07000f
 			public const int transition_current_scene = 2131165199;
@@ -5130,26 +5131,29 @@ namespace Sample
 			// aapt resource value: 0x7f070013
 			public const int transition_transform = 2131165203;
 			
-			// aapt resource value: 0x7f07002d
-			public const int uniform = 2131165229;
+			// aapt resource value: 0x7f07002c
+			public const int uniform = 2131165228;
 			
 			// aapt resource value: 0x7f070009
 			public const int up = 2131165193;
 			
-			// aapt resource value: 0x7f070026
-			public const int useLogo = 2131165222;
+			// aapt resource value: 0x7f070025
+			public const int useLogo = 2131165221;
 			
 			// aapt resource value: 0x7f070016
 			public const int view_offset_helper = 2131165206;
 			
-			// aapt resource value: 0x7f0700b0
-			public const int visible = 2131165360;
+			// aapt resource value: 0x7f0700b7
+			public const int visible = 2131165367;
 			
-			// aapt resource value: 0x7f07003c
-			public const int withText = 2131165244;
+			// aapt resource value: 0x7f07003b
+			public const int withText = 2131165243;
 			
-			// aapt resource value: 0x7f07002e
-			public const int wrap_content = 2131165230;
+			// aapt resource value: 0x7f07002d
+			public const int wrap_content = 2131165229;
+			
+			// aapt resource value: 0x7f07009e
+			public const int write_fields = 2131165342;
 			
 			static Id()
 			{
@@ -5292,106 +5296,115 @@ namespace Sample
 			public const int activity_main = 2130903067;
 			
 			// aapt resource value: 0x7f03001c
-			public const int design_bottom_navigation_item = 2130903068;
+			public const int activity_table = 2130903068;
 			
 			// aapt resource value: 0x7f03001d
-			public const int design_bottom_sheet_dialog = 2130903069;
+			public const int design_bottom_navigation_item = 2130903069;
 			
 			// aapt resource value: 0x7f03001e
-			public const int design_layout_snackbar = 2130903070;
+			public const int design_bottom_sheet_dialog = 2130903070;
 			
 			// aapt resource value: 0x7f03001f
-			public const int design_layout_snackbar_include = 2130903071;
+			public const int design_layout_snackbar = 2130903071;
 			
 			// aapt resource value: 0x7f030020
-			public const int design_layout_tab_icon = 2130903072;
+			public const int design_layout_snackbar_include = 2130903072;
 			
 			// aapt resource value: 0x7f030021
-			public const int design_layout_tab_text = 2130903073;
+			public const int design_layout_tab_icon = 2130903073;
 			
 			// aapt resource value: 0x7f030022
-			public const int design_menu_item_action_area = 2130903074;
+			public const int design_layout_tab_text = 2130903074;
 			
 			// aapt resource value: 0x7f030023
-			public const int design_navigation_item = 2130903075;
+			public const int design_menu_item_action_area = 2130903075;
 			
 			// aapt resource value: 0x7f030024
-			public const int design_navigation_item_header = 2130903076;
+			public const int design_navigation_item = 2130903076;
 			
 			// aapt resource value: 0x7f030025
-			public const int design_navigation_item_separator = 2130903077;
+			public const int design_navigation_item_header = 2130903077;
 			
 			// aapt resource value: 0x7f030026
-			public const int design_navigation_item_subheader = 2130903078;
+			public const int design_navigation_item_separator = 2130903078;
 			
 			// aapt resource value: 0x7f030027
-			public const int design_navigation_menu = 2130903079;
+			public const int design_navigation_item_subheader = 2130903079;
 			
 			// aapt resource value: 0x7f030028
-			public const int design_navigation_menu_item = 2130903080;
+			public const int design_navigation_menu = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int design_text_input_password_icon = 2130903081;
+			public const int design_navigation_menu_item = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int notification_action = 2130903082;
+			public const int design_text_input_password_icon = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int notification_action_tombstone = 2130903083;
+			public const int fragment_row_edit = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int notification_media_action = 2130903084;
+			public const int fragment_table_rows = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int notification_media_cancel_action = 2130903085;
+			public const int notification_action = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int notification_template_big_media = 2130903086;
+			public const int notification_action_tombstone = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int notification_template_big_media_custom = 2130903087;
+			public const int notification_media_action = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int notification_template_big_media_narrow = 2130903088;
+			public const int notification_media_cancel_action = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int notification_template_big_media_narrow_custom = 2130903089;
+			public const int notification_template_big_media = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int notification_template_custom_big = 2130903090;
+			public const int notification_template_big_media_custom = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int notification_template_icon_group = 2130903091;
+			public const int notification_template_big_media_narrow = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int notification_template_lines_media = 2130903092;
+			public const int notification_template_big_media_narrow_custom = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int notification_template_media = 2130903093;
+			public const int notification_template_custom_big = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int notification_template_media_custom = 2130903094;
+			public const int notification_template_icon_group = 2130903094;
 			
 			// aapt resource value: 0x7f030037
-			public const int notification_template_part_chronometer = 2130903095;
+			public const int notification_template_lines_media = 2130903095;
 			
 			// aapt resource value: 0x7f030038
-			public const int notification_template_part_time = 2130903096;
+			public const int notification_template_media = 2130903096;
 			
 			// aapt resource value: 0x7f030039
-			public const int select_dialog_item_material = 2130903097;
+			public const int notification_template_media_custom = 2130903097;
 			
 			// aapt resource value: 0x7f03003a
-			public const int select_dialog_multichoice_material = 2130903098;
+			public const int notification_template_part_chronometer = 2130903098;
 			
 			// aapt resource value: 0x7f03003b
-			public const int select_dialog_singlechoice_material = 2130903099;
+			public const int notification_template_part_time = 2130903099;
 			
 			// aapt resource value: 0x7f03003c
-			public const int support_simple_spinner_dropdown_item = 2130903100;
+			public const int select_dialog_item_material = 2130903100;
 			
 			// aapt resource value: 0x7f03003d
-			public const int tooltip = 2130903101;
+			public const int select_dialog_multichoice_material = 2130903101;
+			
+			// aapt resource value: 0x7f03003e
+			public const int select_dialog_singlechoice_material = 2130903102;
+			
+			// aapt resource value: 0x7f03003f
+			public const int support_simple_spinner_dropdown_item = 2130903103;
+			
+			// aapt resource value: 0x7f030040
+			public const int tooltip = 2130903104;
 			
 			static Layout()
 			{
@@ -5399,6 +5412,22 @@ namespace Sample
 			}
 			
 			private Layout()
+			{
+			}
+		}
+		
+		public partial class Menu
+		{
+			
+			// aapt resource value: 0x7f0e0000
+			public const int row_actions = 2131623936;
+			
+			static Menu()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Menu()
 			{
 			}
 		}

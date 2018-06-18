@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("DataTableView.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("Messert.Controls.Droid.Resource", IsApplication=false)]
 
-namespace DataTableView
+namespace Messert.Controls.Droid
 {
 	
 	
