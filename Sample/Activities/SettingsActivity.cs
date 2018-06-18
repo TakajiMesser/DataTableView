@@ -9,24 +9,25 @@ using Toolbar = Android.Support.V7.Widget.Toolbar;
 
 namespace Sample.Activities
 {
-    [Activity(Label = "Countries", ConfigurationChanges = ConfigChanges.Orientation | ConfigChanges.ScreenSize, HardwareAccelerated = true)]
-    public class CountryActivity : AppCompatActivity
+    [Activity(Theme = "@style/PrefsTheme")]
+    public class SettingsActivity : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
-            SetContentView(Resource.Layout.activity_table);
+            RequestedOrientation = ScreenOrientation.Portrait;
+            SetContentView(Resource.Layout.activity_settings);
 
             var toolbar = FindViewById<Toolbar>(Resource.Id.main_toolbar);
             SetSupportActionBar(toolbar);
 
+            SupportActionBar.Title = "Settings";
             SupportActionBar.SetDisplayHomeAsUpEnabled(true);
             SupportActionBar.SetHomeButtonEnabled(false);
 
             FragmentManager.BeginTransaction()
                 .AddToBackStack(null)
-                .Add(Resource.Id.frame_layout, CountryTableFragment.Instantiate())
+                .Add(Resource.Id.frame_layout, SettingsFragment.Instantiate())
                 .Commit();
         }
 

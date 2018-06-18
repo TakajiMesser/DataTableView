@@ -8,10 +8,10 @@ using Android.Support.V7.Widget;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
-using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Messert.Controls.Droid
 {
@@ -113,20 +113,20 @@ namespace Messert.Controls.Droid
             HeaderTextColor = attr.GetColor(Resource.Styleable.DataTableView_headerTextColor, unchecked((int)0xFFFFFFFF));
 
             var headerFontID = attr.GetResourceId(Resource.Styleable.DataTableView_headerFontFamily, -1);
-            /*if (headerFontID != -1)
+            if (headerFontID >= 0)
             {
-                HeaderTypeface = (true) ? ResourcesCompat.Get(Context, headerFontID) : Context.Resources.GetFont(headerFontID);
-            }*/
+                HeaderTypeface = ResourcesCompat.GetFont(Context, headerFontID);
+            }
 
             HeaderBackground = attr.GetDrawable(Resource.Styleable.DataTableView_headerBackground);
             RowTextSize = attr.GetFloat(Resource.Styleable.DataTableView_rowTextSize, DataTableAdapter.DEFAULT_TEXT_SIZE);
             RowTextColor = attr.GetColor(Resource.Styleable.DataTableView_rowTextColor, DataTableAdapter.DEFAULT_TEXT_COLOR);
 
             var rowFontID = attr.GetResourceId(Resource.Styleable.DataTableView_rowFontFamily, -1);
-            /*if (rowFontID != -1)
+            if (rowFontID >= 0)
             {
-                RowTypeface = (true) ? ResourcesCompat.Get(Context, rowFontID) : Context.Resources.GetFont(rowFontID);
-            }*/
+                RowTypeface = ResourcesCompat.GetFont(Context, rowFontID);
+            }
 
             RowBackground = attr.GetDrawable(Resource.Styleable.DataTableView_rowBackground);
             HorizontalRowDivider = attr.GetDrawable(Resource.Styleable.DataTableView_horizontalRowDivider)
@@ -195,23 +195,15 @@ namespace Messert.Controls.Droid
                         dialog.SetCancelable(false);
                         dialog.Show();
 
-                        
-                        //var progressBar = new ProgressBar(Context, null, Android.Resource.Attribute.ProgressBarStyleLarge);
+                        try
+                        {
+                            Task.Run(() => _adapter.AddRows(GetNextRowSet()));
+                        }
+                        finally
+                        {
+                            dialog.Dismiss();
+                        }
 
-                        /*var layout = FindViewById<RelativeLayout>(Context);
-                        RelativeLayout.LayoutParams layoutParams = new RelativeLayout.LayoutParams(100, 100);
-                        layoutParams.AddRule(LayoutRules.CenterInParent);
-                        layout.AddView(progressBar, layoutParams);*/
-
-                        //progressBar.Visibility = ViewStates.Visible;  //To show ProgressBar   
-                        //Window.SetFlags(WindowManagerFlags.NotTouchable, WindowManagerFlags.NotTouchable); // To disable the user interaction you just need to add the following code
-
-                        _adapter.AddRows(GetNextRowSet());
-
-                        //progressBar.Visibility = ViewStates.Gone; // To Hide ProgressBar
-                        //Window.ClearFlags(WindowManagerFlags.NotTouchable); // To get user interaction back you just need to add the following code
-                        
-                        //dialog.Dismiss();
                         _gettingRows = false;
                     }
                 };
@@ -253,28 +245,9 @@ namespace Messert.Controls.Droid
 
         protected override void OnMeasure(int widthMeasureSpec, int heightMeasureSpec)
         {
-            /*for (var i = 0; i < ChildCount; i++)
-            {
-                var child = GetChildAt(i);
-                if (child.Visibility != ViewStates.Gone)
-                {
-                    MeasureChildWithMargins(child, widthMeasureSpec, 0, heightMeasureSpec, 0);
-                }
-            }
-
-            var marginLayoutParameters = (MarginLayoutParams)LayoutParameters;*/
-
             MeasureChildren(widthMeasureSpec, heightMeasureSpec);
 
-            /*int width = (IsOpened || LayoutParameters.Width == ViewGroup.LayoutParams.MatchParent)
-                ? GetDefaultSize(SuggestedMinimumWidth, widthMeasureSpec) + marginLayoutParameters.LeftMargin + marginLayoutParameters.RightMargin
-                : _menuButton.MeasuredWidth + PaddingLeft + PaddingRight;
-
-            int height = (IsOpened || LayoutParameters.Height == ViewGroup.LayoutParams.MatchParent)
-                ? GetDefaultSize(SuggestedMinimumHeight, heightMeasureSpec) + marginLayoutParameters.TopMargin + marginLayoutParameters.BottomMargin
-                : _menuButton.MeasuredHeight + PaddingTop + PaddingBottom;*/
-
-            int width = _headers.MeasuredWidth + PaddingLeft + PaddingRight;// GetDefaultSize(SuggestedMinimumWidth, widthMeasureSpec);
+            int width = _headers.MeasuredWidth + PaddingLeft + PaddingRight;
             int height = GetDefaultSize(SuggestedMinimumHeight, heightMeasureSpec);
 
             SetMeasuredDimension(width, height);
@@ -284,15 +257,15 @@ namespace Messert.Controls.Droid
         {
             int headerLeft = r - l - _headers.MeasuredWidth - PaddingRight;
             int headerRight = headerLeft + _headers.MeasuredWidth;
-            int headerTop = t;//b - t;// - _headers.MeasuredHeight - PaddingBottom;
+            int headerTop = t;
             int headerBottom = headerTop + _headers.MeasuredHeight;
 
             _headers.Layout(headerLeft, headerTop, headerRight, headerBottom);
 
             int rowLeft = headerLeft;
-            int rowRight = r;// rowLeft + _rows.MeasuredWidth;
+            int rowRight = r;
             int rowTop = headerBottom;
-            int rowBottom = b;// rowTop + _rows.MeasuredHeight;
+            int rowBottom = b;
 
             _rows.Layout(rowLeft, rowTop, rowRight, rowBottom);
         }

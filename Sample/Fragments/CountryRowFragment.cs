@@ -85,10 +85,6 @@ namespace Sample.Fragments
                         AddReadField(property.Name, property.GetValue(entity).ToString(), readFields);
                     }
                 }
-                /*else if (Attribute.IsDefined(property, typeof(ForeignKeyAttribute)) && _submitMode == SubmitModes.Edit)
-                {
-                    AddReadField(property.Name, property.GetValue(entity).ToString(), readFields);
-                }*/
                 else if (!Attribute.IsDefined(property, typeof(IgnoreAttribute)))
                 {
                     var value = property.GetValue(entity);
@@ -100,11 +96,8 @@ namespace Sample.Fragments
 
             submitButton.Click += (s, e) =>
             {
-                /*ProgressDialogHelper.RunTask(Activity, "Submitting...", () =>
-                {*/
                 Submit(view, entity);
                 Activity.OnBackPressed();
-                //});
             };
         }
 
@@ -208,11 +201,6 @@ namespace Sample.Fragments
             layout.AddView(editText);
         }
 
-        public override void OnPrepareOptionsMenu(IMenu menu)
-        {
-            /*var item = menu.FindItem(Resource.Id.action_search);
-            item.SetEnabled(false);
-            item.SetVisible(false);*/
-        }
+        public override void OnPrepareOptionsMenu(IMenu menu) { }
     }
 }

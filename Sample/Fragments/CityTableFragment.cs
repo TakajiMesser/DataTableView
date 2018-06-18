@@ -1,21 +1,20 @@
 ﻿using Android.App;
 using Android.OS;
 using Android.Support.Design.Widget;
-using Android.Support.V7.App;
+using Android.Support.V4.Content;
 using Android.Views;
 using Android.Widget;
+using Messert.Controls.Droid;
 using Sample.Data;
 using Sample.DataAccessLayer;
-using Messert.Controls.Droid;
-using Fragment = Android.App.Fragment;
-using View = Android.Views.View;
 using System.Collections.Generic;
 using System.Linq;
-using Android.Support.V4.Content;
+using Fragment = Android.App.Fragment;
+using View = Android.Views.View;
 
 namespace Sample.Fragments
 {
-    public class CityTableFragment : Fragment, /*ISearchFragment,*/ AbsListView.IMultiChoiceModeListener, IQueryPreparedListener
+    public class CityTableFragment : Fragment, AbsListView.IMultiChoiceModeListener, IQueryPreparedListener
     {
         private DataTableView _dataTable;
 
@@ -96,7 +95,7 @@ namespace Sample.Fragments
 
         private static bool IsActivityAlive(Activity activity)
         {
-            return Android.OS.Build.VERSION.SdkInt >= Android.OS.BuildVersionCodes.JellyBeanMr1
+            return Build.VERSION.SdkInt >= BuildVersionCodes.JellyBeanMr1
                 ? !activity.IsDestroyed
                 : !activity.IsFinishing;
         }

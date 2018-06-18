@@ -8,7 +8,6 @@ using Android.Views;
 using Android.Widget;
 using Java.Lang;
 using Messert.Controls.Droid.Utilities;
-using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Linq;

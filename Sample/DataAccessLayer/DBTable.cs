@@ -1,5 +1,4 @@
-﻿using Sample.DataAccessLayer;
-using SQLite;
+﻿using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -86,39 +85,6 @@ namespace Sample.DataAccessLayer
 
         public static TableQuery<T> GetAll<T>(System.Linq.Expressions.Expression<Func<T, bool>> predExpr) where T : class, IEntity, new()
         {
-            // If predExpr has a "Contains()" in it, we need to check against the ChunkBy
-            /*if (predExpr.Body.NodeType == System.Linq.Expressions.ExpressionType.Call)
-            {
-                var call = predExpr.Body as MethodCallExpression;
-
-                if (call.Method.Name == "Contains" && call.ArgumentCount == 2)
-                {
-                    // Should be of form arg1.Contains(x => arg2)
-                    var arg1 = call.GetArgument(0);
-                    var arg2 = call.GetArgument(1);
-
-                    if (arg1.Type.GetInterfaces().Contains(typeof(IEnumerable)))
-                    {
-                        var items = arg1 as IEnumerable<int>;
-                        if (items.Count() > DBAccess.SQLITE_LIMIT_VARIABLE_NUMBER)
-                        {
-                            //DBAccess.Connection.BeginTransaction();
-                            var tableQuery = new TableQuery<T>(DBAccess.Connection);
-
-                            foreach (var chunkedIDs in items.ChunkBy(DBAccess.SQLITE_LIMIT_VARIABLE_NUMBER))
-                            {
-                                DBAccess.Connection.DeferredQuery<T>("", chunkedIDs);
-
-                                //DBAccess.Connection.Table<T>().Where(t => chunkedIDs.Contains(arg2));
-                                //DBTable.GetAll<T>(i => i.Contains(arg2));
-                            }
-
-                            //DBAccess.Connection.Commit();
-                        }
-                    }
-                }
-            }*/
-
             return DBAccess.Connection.Table<T>().Where(predExpr);
         }
 

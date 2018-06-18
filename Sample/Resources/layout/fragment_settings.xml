@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <PreferenceScreen
+      android:key="about_settings"
+      android:title="About DataTableView">
+
+    <PreferenceCategory
+        android:title="About DataTableView">
+
+      <Preference
+            android:key="version"
+            android:title="App version"/>
+
+    </PreferenceCategory>
+
+  </PreferenceScreen>
+
+  <!--<PreferenceScreen
+              android:title="title_intent_preference"
+              android:summary="summary_intent_preference">
+
+          <intent android:action="android.intent.action.VIEW"
+                  android:data="http://www.android.com" />-->
+
+</PreferenceScreen>
